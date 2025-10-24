@@ -125,7 +125,7 @@ export const POST: APIRoute = async ({ request }) => {
     const files = formData.getAll("assets").filter((entry): entry is File => entry instanceof File);
 
     await Promise.all(
-      files.slice(0, 5).map(async (file, index) => {
+      files.slice(0, 15).map(async (file, index) => {
         if (!file.size) return;
         if (file.size > 5 * 1024 * 1024) return;
 
