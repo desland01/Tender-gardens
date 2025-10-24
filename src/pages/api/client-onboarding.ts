@@ -1,6 +1,7 @@
 import type { APIRoute } from "astro";
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import sharp from "sharp";
 
 export const prerender = false;
 
@@ -130,9 +131,20 @@ export const POST: APIRoute = async ({ request }) => {
         if (file.size > 5 * 1024 * 1024) return;
 
         const original = file.name ? slugify(path.parse(file.name).name) : `asset-${index + 1}`;
-        const ext = path.extname(file.name || "") || ".jpg";
+        const ext = path.extname(file.name || "");
         const arrayBuffer = await file.arrayBuffer();
-        await fs.writeFile(path.join(targetDir, `${original}${ext}`), Buffer.from(arrayBuffer));
+        const sourceBuffer = Buffer.from(arrayBuffer);
+
+        try {
+          const webpBuffer = await sharp(sourceBuffer).webp({ quality: 80 }).toBuffer();
+          await fs.writeFile(path.join(targetDir, `${original}.webp`), webpBuffer);
+        } catch (conversionError) {
+          console.warn("Failed to convert upload to WebP; writing original", {
+            name: file.name,
+            reason: conversionError instanceof Error ? conversionError.message : conversionError,
+          });
+          await fs.writeFile(path.join(targetDir, `${original}${ext || ".img"}`), sourceBuffer);
+        }
       }),
     );
 
