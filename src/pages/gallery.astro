@@ -1,0 +1,47 @@
+---
+import { getCollection } from "astro:content";
+import MainLayout from "../layouts/MainLayout.astro";
+
+const services = await getCollection("services");
+const baseImages = services
+  .filter((service) => Boolean(service.data.featuredImage))
+  .map((service) => ({
+    src: service.data.featuredImage!,
+    alt: `${service.data.title} installation`,
+  }));
+
+const supplemental = [
+  {
+    src: "https://images.pexels.com/photos/1918291/pexels-photo-1918291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    alt: "Outdoor lounge with layered planters",
+  },
+  {
+    src: "https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    alt: "Team tending to potted plants",
+  },
+];
+
+const gallery = [...baseImages, ...supplemental];
+---
+<MainLayout
+  title="Gallery | Tender Gardens"
+  description="Browse Angie-inspired landscaping installs, seasonal refreshes, and container styling by Tender Gardens."
+>
+  <section class="px-4 pb-24 pt-10 sm:px-6">
+    <div class="mx-auto max-w-5xl text-center">
+      <p class="text-xs uppercase tracking-[0.3em] text-[#0ea5e9]">Gallery</p>
+      <h1 class="mt-3 text-4xl font-black uppercase md:text-5xl">Recent installs & glow-ups</h1>
+      <p class="mx-auto mt-4 max-w-3xl text-base text-neutral-600">
+        A peek at lawns, beds, patios, and storefronts we've refreshed across Central Florida. Every project is photographed post-service so you can visualize the vibe.
+      </p>
+    </div>
+
+    <div class="mx-auto mt-16 grid max-w-6xl gap-6 md:grid-cols-3">
+      {gallery.map((image, index) => (
+        <figure class={`relative overflow-hidden rounded-3xl border-[3px] border-black bg-white shadow-[10px_10px_0_#111] ${index % 5 === 0 ? "md:col-span-2" : ""}`}>
+          <img src={image.src} alt={image.alt} class="h-full w-full object-cover" loading={index < 2 ? "eager" : "lazy"} />
+        </figure>
+      ))}
+    </div>
+  </section>
+</MainLayout>

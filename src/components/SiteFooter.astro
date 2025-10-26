@@ -1,0 +1,74 @@
+---
+import redStar from "../assets/red-star.svg";
+import stringSvg from "../assets/string.svg";
+
+interface Props {
+  businessName?: string;
+  phone?: string;
+  email?: string;
+  address?: string;
+}
+
+const {
+  businessName = "Tender Gardens",
+  phone = "(407) 555-0133",
+  email = "hello@tendergardens.com",
+  address = "1200 Bloom Lane, Orlando, FL",
+} = Astro.props satisfies Props;
+
+const year = new Date().getFullYear();
+---
+<footer class="relative mt-20 bg-[#111] text-paper">
+  <div class="pointer-events-none absolute -top-12 right-6 hidden h-24 w-24 md:block">
+    <img src={redStar.src} alt="decoration" class="h-full w-full" loading="lazy" />
+  </div>
+  <div class="pointer-events-none absolute -bottom-10 left-8 h-20 w-20 opacity-70">
+    <img src={stringSvg.src} alt="decoration" class="h-full w-full" loading="lazy" />
+  </div>
+
+  <div class="mx-auto grid max-w-6xl gap-10 px-6 py-16 md:grid-cols-[1.1fr_1fr]">
+    <div class="space-y-4">
+      <p class="inline-flex items-center gap-3 text-sm uppercase tracking-[0.3em] text-[#ffdc58]">
+        <span class="size-2 rounded-full bg-[#ffdc58]"></span>
+        Locally rooted
+      </p>
+      <h2 class="text-3xl font-black uppercase leading-tight text-white md:text-4xl">
+        {businessName}
+      </h2>
+      <p class="max-w-lg text-base text-paper/80">
+        Sustainable landscaping, garden design, and seasonal upkeep crafted for Central Florida homes and boutique spaces. We blend Angie-inspired joy with dependable service schedules.
+      </p>
+      <div class="flex flex-wrap gap-4 pt-2 text-sm uppercase">
+        <a href={`tel:${phone.replace(/[^\d]/g, "")}`} class="flex items-center gap-2 rounded-full border-2 border-[#ffdc58] px-4 py-2 font-semibold tracking-wide text-[#ffdc58] transition hover:bg-[#ffdc58] hover:text-[#111]">
+          <i class="ri-phone-line"></i>
+          {phone}
+        </a>
+        <a href={`mailto:${email}`} class="flex items-center gap-2 rounded-full border-2 border-white px-4 py-2 font-semibold tracking-wide transition hover:bg-white hover:text-[#111]">
+          <i class="ri-mail-line"></i>
+          {email}
+        </a>
+      </div>
+    </div>
+    <div class="grid gap-6 sm:grid-cols-2">
+      <div class="space-y-2">
+        <h3 class="text-sm font-bold uppercase tracking-wide text-[#ffdc58]">Studio</h3>
+        <p class="text-base text-paper/85">{address}</p>
+        <p class="text-base text-paper/60">Weekdays 8a – 6p</p>
+      </div>
+      <div class="space-y-2">
+        <h3 class="text-sm font-bold uppercase tracking-wide text-[#ffdc58]">Follow</h3>
+        <ul class="space-y-2 text-base text-paper/80">
+          <li><a href="https://instagram.com" class="underline-offset-4 hover:underline">Instagram</a></li>
+          <li><a href="https://pinterest.com" class="underline-offset-4 hover:underline">Pinterest</a></li>
+          <li><a href="https://facebook.com" class="underline-offset-4 hover:underline">Facebook</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="border-t border-white/20 bg-black/80 py-5">
+    <div class="mx-auto flex max-w-6xl flex-col gap-2 px-6 text-xs uppercase tracking-wide text-white/60 md:flex-row md:items-center md:justify-between">
+      <span>© {year} {businessName}. All rights reserved.</span>
+      <span>Theme inspiration: Angie by Anthony Lan — used with attribution.</span>
+    </div>
+  </div>
+</footer>

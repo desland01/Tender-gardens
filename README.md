@@ -1,43 +1,39 @@
-# Astro Starter Kit: Minimal
+# Astro Local Business Starter (Vibe-coded)
 
-```sh
-npm create astro@latest -- --template minimal
-```
+## Quickstart
+1. `npm install`
+2. `npm run dev` → visit http://localhost:4321
+3. Update content files in `src/content/**` and watch the site refresh.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Edit Content Fast
+- Services → `src/content/services/*.md`
+- Service areas → `src/content/locations/*.md`
+- Reviews → `src/content/reviews/*.md`
+- Global styles → `src/styles/global.css`
 
-## 🚀 Project Structure
+## Handy Scripts
+- `npm run build` – production build (also generates sitemap + robots.txt)
+- `npm run preview` – serve the built site locally
+- `npm run typecheck` – TypeScript safety pass
+- `npm run upgrade:tailwind` – Tailwind v4 upgrade assist
 
-Inside of your Astro project, you'll see the following folders and files:
+## Next Steps
+- Follow the `CHECKLISTS/` folder in order.
+- Keep agents aligned with `.cursorrules` + `agents/*.md`.
+- Reference quick docs in `docs/ASTRO-5.md` and `docs/TAILWIND-4.md`.
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+### Client Onboarding Form
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+A comprehensive client intake form is available at `/client-onboarding`.
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+**Local development**: Submissions save to `docs/client-intake/` in your filesystem.
 
-Any static assets, like images, can be placed in the `public/` directory.
+**Production (Vercel)**: Submissions automatically commit to a `submissions` branch in your GitHub repo. This keeps your client data separate from your main codebase and prevents triggering unnecessary rebuilds.
 
-## 🧞 Commands
+To enable GitHub submissions for production:
+1. Create a GitHub Personal Access Token with `repo` scope
+2. Add environment variables to Vercel: `GITHUB_TOKEN`, `GITHUB_OWNER`, `GITHUB_REPO`
+3. See detailed setup instructions in `docs/SETUP-GITHUB-SUBMISSIONS.md`
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+### Optional Analytics
+Set `PUBLIC_GA_ID` or `PUBLIC_GTM_ID` in your environment to enable Google Analytics or Tag Manager snippets. They remain disabled until you add those values.

@@ -1,0 +1,3 @@
+- [ ] Add basic GitHub Actions workflow (optional)
+- [ ] Document Netlify/Vercel deploy steps
+- [ ] .nvmrc set to 22

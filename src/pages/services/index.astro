@@ -1,0 +1,47 @@
+---
+import { getCollection } from "astro:content";
+import MainLayout from "../../layouts/MainLayout.astro";
+
+const services = await getCollection("services");
+const orderedServices = services.slice().sort((a, b) => a.data.order - b.data.order);
+---
+<MainLayout
+  title="Services | Tender Gardens"
+  description="Browse Tender Gardens services—from Angie-inspired design intensives to seasonal maintenance and irrigation tune-ups."
+>
+  <section class="px-4 pb-16 pt-10 sm:px-6">
+    <div class="mx-auto max-w-5xl text-center">
+      <p class="text-xs uppercase tracking-[0.35em] text-[#ff8a8a]">Services</p>
+      <h1 class="mt-3 text-4xl font-black uppercase md:text-5xl">Choose your garden glow-up</h1>
+      <p class="mx-auto mt-4 max-w-3xl text-base text-neutral-600">
+        Every service is delivered with the Angie aesthetic—bold color, curated textures, and kind crew energy. Mix and match or ask us to build a seasonal plan.
+      </p>
+    </div>
+  </section>
+
+  <section class="px-4 pb-24 sm:px-6">
+    <div class="mx-auto grid max-w-6xl gap-8 md:grid-cols-2">
+      {orderedServices.map((service) => (
+        <article class="flex h-full flex-col gap-4 rounded-3xl border-[3px] border-black bg-white p-6 shadow-[10px_10px_0_#111]">
+          {service.data.featuredImage && (
+            <img src={service.data.featuredImage} alt={`${service.data.title} photo`} class="h-56 w-full rounded-2xl border-[3px] border-black object-cover" loading="lazy" />
+          )}
+          <div class="flex-1 space-y-3">
+            <p class="inline-flex items-center gap-2 rounded-full border-[2px] border-[#0ea5e9] px-3 py-1 text-xs font-semibold uppercase tracking-widest text-[#0ea5e9]">
+              {service.data.highlight ?? "Service"}
+            </p>
+            <h2 class="text-2xl font-black uppercase">
+              <a href={`/services/${service.slug}/`}>{service.data.title}</a>
+            </h2>
+            <p class="text-sm text-neutral-600">{service.data.blurb}</p>
+            {service.data.duration && <p class="text-xs font-semibold uppercase tracking-wide text-neutral-500">{service.data.duration}</p>}
+          </div>
+          <a href={`/services/${service.slug}/`} class="inline-flex items-center gap-2 self-start rounded-full border-[3px] border-black bg-[#ffdc58] px-5 py-2 text-sm font-bold uppercase tracking-wide transition hover:-translate-y-1 hover:shadow-[6px_6px_0_#111]">
+            View details
+            <i class="ri-arrow-right-up-line"></i>
+          </a>
+        </article>
+      ))}
+    </div>
+  </section>
+</MainLayout>

@@ -1,0 +1,59 @@
+---
+import { getCollection } from "astro:content";
+import MainLayout from "../layouts/MainLayout.astro";
+
+const reviews = await getCollection("reviews");
+const services = await getCollection("services");
+const reviewList = reviews
+  .slice()
+  .sort((a, b) => b.data.published.getTime() - a.data.published.getTime())
+  .map((review) => {
+    const service = services.find((entry) => entry.slug === review.data.service);
+    return {
+      name: review.data.name,
+      rating: review.data.rating,
+      body: review.data.body,
+      published: review.data.published,
+      service: service?.data.title ?? service?.slug,
+    };
+  });
+---
+<MainLayout
+  title="Reviews | Tender Gardens"
+  description="What our Central Florida clients say about Tender Gardens' Angie-coded landscaping services."
+>
+  <section class="px-4 pb-24 pt-10 sm:px-6">
+    <div class="mx-auto max-w-5xl space-y-10">
+      <header class="text-center">
+        <p class="text-xs uppercase tracking-[0.3em] text-[#ff8a8a]">Reviews</p>
+        <h1 class="mt-3 text-4xl font-black uppercase md:text-5xl">Neighbors who trust Tender Gardens</h1>
+        <p class="mx-auto mt-4 max-w-3xl text-base text-neutral-600">
+          Our crew writes notes after each visit, snaps progress photos, and listens closely. Here's what clients say after a season of Angie-coded care.
+        </p>
+      </header>
+
+      <div class="grid gap-6 md:grid-cols-2">
+        {reviewList.map((review) => (
+          <article class="flex h-full flex-col gap-4 rounded-3xl border-[3px] border-black bg-white p-6 shadow-[10px_10px_0_#111]">
+            <header class="space-y-1">
+              <p class="text-xs font-semibold uppercase tracking-[0.25em] text-[#0ea5e9]">{review.service ?? "Tender Gardens"}</p>
+              <div class="flex items-center gap-1 text-[#ffdc58]">
+                {Array.from({ length: review.rating }).map((_, index) => (
+                  <i class="ri-star-fill" aria-hidden="true"></i>
+                ))}
+                <span class="sr-only">{review.rating} out of 5 stars</span>
+              </div>
+            </header>
+            <p class="flex-1 text-sm text-neutral-700">{review.body}</p>
+            <footer class="text-sm font-black uppercase text-[#111]">
+              <span>{review.name}</span>
+              <span class="ml-2 text-xs font-semibold uppercase tracking-wide text-neutral-500">
+                {review.published.toLocaleDateString("en-US", { month: "short", year: "numeric" })}
+              </span>
+            </footer>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+</MainLayout>

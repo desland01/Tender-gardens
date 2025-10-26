@@ -1,0 +1,80 @@
+---
+import { getCollection } from "astro:content";
+import MainLayout from "../../layouts/MainLayout.astro";
+
+export async function getStaticPaths() {
+  const locations = await getCollection("locations");
+  return locations.map((location) => ({
+    params: { slug: location.slug },
+    props: { location },
+  }));
+}
+
+const { location } = Astro.props;
+const services = await getCollection("services");
+const servicesForLocation = services.filter((service) =>
+  service.data.serviceAreas?.includes(location.slug)
+);
+
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  name: `Tender Gardens in ${location.data.city}`,
+  areaServed: {
+    "@type": "City",
+    name: location.data.city,
+  },
+  description: location.data.blurb,
+};
+---
+<MainLayout
+  title={`${location.data.city} Landscaping | Tender Gardens`}
+  description={location.data.blurb}
+  structuredData={structuredData}
+>
+  <section class="px-4 pb-24 pt-10 sm:px-6">
+    <div class="mx-auto max-w-6xl space-y-10">
+      <header class="grid gap-8 md:grid-cols-[0.9fr_1.1fr] md:items-start">
+        <div class="space-y-4">
+          <p class="text-xs font-semibold uppercase tracking-[0.3em] text-[#0ea5e9]">Service area</p>
+          <h1 class="text-4xl font-black uppercase md:text-5xl">{location.data.city}</h1>
+          <p class="text-base text-neutral-600">{location.data.blurb}</p>
+          {location.data.serviceHighlights.length > 0 && (
+            <ul class="mt-6 space-y-3 border-l-[3px] border-[#ffdc58] pl-4 text-sm text-neutral-700">
+              {location.data.serviceHighlights.map((item) => (
+                <li class="flex items-start gap-3">
+                  <span class="mt-1 size-2 rounded-full bg-[#ffdc58]"></span>
+                  <span>{item}</span>
+                </li>
+              ))}
+            </ul>
+          )}
+        </div>
+        {location.data.heroImage && (
+          <img src={location.data.heroImage} alt={`${location.data.city} landscape`} class="w-full rounded-3xl border-[3px] border-black object-cover shadow-[12px_12px_0_#111]" loading="lazy" />
+        )}
+      </header>
+
+      {servicesForLocation.length > 0 && (
+        <div class="space-y-6">
+          <h2 class="text-2xl font-black uppercase">Popular services here</h2>
+          <div class="grid gap-6 md:grid-cols-3">
+            {servicesForLocation.map((service) => (
+              <article class="rounded-3xl border-[3px] border-black bg-white p-5 transition hover:-translate-y-1 hover:shadow-[8px_8px_0_#111]">
+                <p class="text-xs font-semibold uppercase tracking-[0.3em] text-[#ff8a8a]">{service.data.highlight ?? "Service"}</p>
+                <h3 class="mt-3 text-xl font-black uppercase">
+                  <a href={`/services/${service.slug}/`}>{service.data.title}</a>
+                </h3>
+                <p class="mt-2 text-sm text-neutral-600">{service.data.blurb}</p>
+                <a href={`/services/${service.slug}/`} class="mt-4 inline-flex items-center gap-2 rounded-full border-[3px] border-black bg-[#ffdc58] px-4 py-2 text-xs font-bold uppercase tracking-widest">
+                  View service
+                  <i class="ri-arrow-right-up-line"></i>
+                </a>
+              </article>
+            ))}
+          </div>
+        </div>
+      )}
+    </div>
+  </section>
+</MainLayout>

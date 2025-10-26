@@ -1,0 +1,44 @@
+---
+import { getCollection } from "astro:content";
+import MainLayout from "../../layouts/MainLayout.astro";
+
+const locations = await getCollection("locations");
+const orderedLocations = locations.slice().sort((a, b) => a.data.city.localeCompare(b.data.city));
+---
+<MainLayout
+  title="Service Areas | Tender Gardens"
+  description="Explore the Central Florida neighborhoods where Tender Gardens offers Angie-inspired landscaping and garden care."
+>
+  <section class="px-4 pb-16 pt-10 sm:px-6">
+    <div class="mx-auto max-w-5xl text-center">
+      <p class="text-xs uppercase tracking-[0.35em] text-[#0ea5e9]">Service areas</p>
+      <h1 class="mt-3 text-4xl font-black uppercase md:text-5xl">Our crew roams Central Florida</h1>
+      <p class="mx-auto mt-4 max-w-3xl text-base text-neutral-600">
+        If your city isn't listed, reach out. We often assemble pop-up crews for special installs, brand activations, or wedding weekends within a 60-mile radius.
+      </p>
+    </div>
+  </section>
+
+  <section class="px-4 pb-24 sm:px-6">
+    <div class="mx-auto grid max-w-6xl gap-6 md:grid-cols-3">
+      {orderedLocations.map((location) => (
+        <article class="flex h-full flex-col gap-4 rounded-3xl border-[3px] border-black bg-white p-6 transition hover:-translate-y-1 hover:shadow-[10px_10px_0_#111]">
+          {location.data.heroImage && (
+            <img src={location.data.heroImage} alt={`${location.data.city} landscape`} class="h-48 w-full rounded-2xl border-[3px] border-black object-cover" loading="lazy" />
+          )}
+          <div class="flex-1 space-y-3">
+            <p class="text-xs font-semibold uppercase tracking-[0.25em] text-neutral-500">{location.data.county}</p>
+            <h2 class="text-2xl font-black uppercase">
+              <a href={`/service-areas/${location.slug}/`}>{location.data.city}</a>
+            </h2>
+            <p class="text-sm text-neutral-600">{location.data.blurb}</p>
+          </div>
+          <a href={`/service-areas/${location.slug}/`} class="inline-flex items-center gap-2 self-start rounded-full border-[3px] border-black bg-white px-5 py-2 text-sm font-bold uppercase tracking-wide transition hover:bg-[#ffdc58]">
+            Explore city guide
+            <i class="ri-arrow-right-up-line"></i>
+          </a>
+        </article>
+      ))}
+    </div>
+  </section>
+</MainLayout>

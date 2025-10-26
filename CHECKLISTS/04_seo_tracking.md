@@ -1,0 +1,4 @@
+- [ ] Unique titles/meta, OG/Twitter tags
+- [ ] sitemap.xml via @astrojs/sitemap
+- [ ] robots.txt
+- [ ] Analytics placeholders only (disabled by default)

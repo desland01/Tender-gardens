@@ -1,0 +1,93 @@
+---
+import heroBadge from "../assets/hero-content.svg";
+import pinkStar from "../assets/pink-star.svg";
+import ideaSvg from "../assets/idea.svg";
+import frameSvg from "../assets/mini-frame.svg";
+
+interface CallToAction {
+  label: string;
+  href: string;
+  variant?: "primary" | "secondary";
+}
+
+interface Props {
+  businessName: string;
+  tagline: string;
+  description: string;
+  ctas: CallToAction[];
+  heroImage?: string;
+}
+
+const {
+  businessName,
+  tagline,
+  description,
+  ctas = [],
+  heroImage = "https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+} = Astro.props satisfies Props;
+---
+<section class="relative overflow-hidden px-4 pb-24 pt-16 sm:px-6 md:pt-24">
+  <div class="pointer-events-none absolute -right-8 top-10 hidden h-24 w-24 rotate-12 md:block">
+    <img src={pinkStar.src} alt="star" class="h-full w-full" loading="lazy" />
+  </div>
+  <div class="pointer-events-none absolute -bottom-10 left-0 h-24 w-24 opacity-70">
+    <img src={pinkStar.src} alt="star" class="h-full w-full" loading="lazy" />
+  </div>
+
+  <div class="mx-auto grid max-w-6xl grid-cols-1 gap-10 md:grid-cols-[1.05fr_0.95fr] md:items-center">
+    <div class="space-y-6">
+      <div class="inline-flex items-center gap-3 rounded-full border-[3px] border-black bg-white px-4 py-2 text-sm font-semibold uppercase tracking-[0.3em] text-black shadow-[6px_6px_0_#111]">
+        <img src={heroBadge.src} alt="Tender Gardens badge" class="h-8 w-8" loading="lazy" />
+        {businessName}
+      </div>
+      <h1 class="text-4xl font-black uppercase leading-[1.05] md:text-5xl lg:text-6xl">
+        {tagline.split(" ").map((word, idx) => (
+          <span class="relative mr-2 inline-block">
+            {idx === 1 ? (
+              <span>
+                <span class="absolute inset-x-0 bottom-0 h-3 bg-[#ffdc58]"></span>
+                <span class="relative z-10">{word}</span>
+              </span>
+            ) : (
+              <span>{word}</span>
+            )}
+          </span>
+        ))}
+      </h1>
+      <p class="max-w-xl text-lg text-neutral-700 md:text-xl">{description}</p>
+      <div class="flex flex-wrap gap-4">
+        {ctas.map((cta) => (
+          <a
+            href={cta.href}
+            class={`inline-flex items-center gap-2 border-[3px] border-black px-6 py-3 text-sm font-bold uppercase tracking-wide transition hover:-translate-y-1 hover:shadow-[6px_6px_0_#111] ${cta.variant === "secondary" ? "bg-white" : "bg-[#ffdc58]"}`}
+          >
+            {cta.label}
+            <i class="ri-arrow-right-up-line"></i>
+          </a>
+        ))}
+      </div>
+      <div class="grid gap-3 rounded-xl border-[3px] border-black bg-white p-5 shadow-[6px_6px_0_#111] md:grid-cols-2">
+        <div>
+          <p class="text-xs uppercase tracking-[0.3em] text-neutral-500">Highlights</p>
+          <ul class="mt-2 space-y-1 text-sm font-semibold">
+            <li class="flex items-center gap-2"><i class="ri-leaf-line text-lg text-brand"></i>Weekly lawn artistry</li>
+            <li class="flex items-center gap-2"><i class="ri-flower-line text-lg text-brand"></i>Seasonal planting plans</li>
+          </ul>
+        </div>
+        <div class="rounded-lg border-2 border-dashed border-[#ffdc58]/80 bg-[#fffae5] p-4 text-sm font-medium text-neutral-700">
+          <p>
+            “We hand-script maintenance visits, so every bed and patio keeps the Angie energy all year.”
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="relative isolate mx-auto w-full max-w-lg">
+      <div class="absolute -left-6 top-8 h-12 w-12 animate-pulse rounded-full bg-[#ffdc58]/70"></div>
+      <div class="relative overflow-hidden border-[3px] border-black bg-white shadow-[12px_12px_0_#111]">
+        <img src={heroImage} alt="Lush garden installation" class="h-[420px] w-full object-cover" loading="eager" />
+        <img src={ideaSvg.src} alt="idea icon" class="absolute -right-8 top-6 h-20 w-20" loading="lazy" />
+        <img src={frameSvg.src} alt="decorative frame" class="absolute -bottom-6 right-6 h-20 w-20 rotate-6" loading="lazy" />
+      </div>
+    </div>
+  </div>
+</section>

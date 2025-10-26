@@ -1,0 +1,33 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  primaryCta: { label: string; href: string };
+  secondaryCta?: { label: string; href: string };
+}
+
+const {
+  title,
+  description,
+  primaryCta,
+  secondaryCta,
+} = Astro.props satisfies Props;
+---
+<section class="px-4 pb-24 sm:px-6">
+  <div class="mx-auto max-w-5xl rounded-3xl border-[3px] border-black bg-[#ffdc58] px-8 py-12 text-center shadow-[12px_12px_0_#111]">
+    <p class="text-xs uppercase tracking-[0.35em] text-black/70">Let’s design your next outdoor moment</p>
+    <h2 class="mt-4 text-3xl font-black uppercase leading-tight text-black md:text-4xl">{title}</h2>
+    <p class="mx-auto mt-4 max-w-2xl text-base font-medium text-black/80">{description}</p>
+    <div class="mt-8 flex flex-wrap justify-center gap-4">
+      <a href={primaryCta.href} class="inline-flex items-center gap-2 rounded-full border-[3px] border-black bg-black px-6 py-3 text-sm font-bold uppercase tracking-wide text-[#ffdc58] transition hover:translate-y-[-2px]">
+        {primaryCta.label}
+        <i class="ri-arrow-right-up-line"></i>
+      </a>
+      {secondaryCta && (
+        <a href={secondaryCta.href} class="inline-flex items-center gap-2 rounded-full border-[3px] border-black bg-white px-6 py-3 text-sm font-bold uppercase tracking-wide transition hover:-translate-y-1 hover:shadow-[6px_6px_0_#111]">
+          {secondaryCta.label}
+        </a>
+      )}
+    </div>
+  </div>
+</section>

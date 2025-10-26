@@ -1,0 +1,47 @@
+---
+interface ServiceItem {
+  title: string;
+  slug: string;
+  blurb?: string;
+  highlight?: string;
+}
+
+interface Props {
+  services: ServiceItem[];
+}
+
+const { services = [] } = Astro.props satisfies Props;
+---
+<section class="px-4 pb-20 sm:px-6">
+  <div class="mx-auto flex max-w-6xl flex-col gap-10">
+    <div class="flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
+      <div>
+        <p class="text-xs uppercase tracking-[0.35em] text-[#ff8a8a]">Services</p>
+        <h2 class="mt-2 text-3xl font-black uppercase md:text-4xl">Garden care designed for your rhythm</h2>
+      </div>
+      <a href="/services" class="inline-flex items-center gap-2 rounded-full border-[3px] border-black bg-[#ffdc58] px-5 py-3 text-sm font-bold uppercase tracking-wide transition hover:-translate-y-1 hover:shadow-[6px_6px_0_#111]">
+        All services
+        <i class="ri-arrow-right-up-line"></i>
+      </a>
+    </div>
+    <div class="grid gap-6 md:grid-cols-3">
+      {services.slice(0, 3).map((service) => (
+        <article class="group flex h-full flex-col justify-between rounded-3xl border-[3px] border-black bg-white p-6 transition hover:-translate-y-1 hover:shadow-[10px_10px_0_#111]">
+          <header class="space-y-3">
+            <p class="inline-flex items-center gap-2 rounded-full border-2 border-brand px-3 py-1 text-xs font-semibold uppercase tracking-widest text-brand">{service.highlight ?? "Core"}</p>
+            <h3 class="text-2xl font-black uppercase leading-tight text-[#111]">
+              <a href={`/services/${service.slug}/`}>
+                {service.title}
+              </a>
+            </h3>
+            {service.blurb && <p class="text-sm text-neutral-600">{service.blurb}</p>}
+          </header>
+          <footer class="mt-6 flex items-center justify-between text-sm font-semibold uppercase tracking-wide">
+            <span>See details</span>
+            <i class="ri-arrow-right-up-line text-base transition group-hover:translate-x-1"></i>
+          </footer>
+        </article>
+      ))}
+    </div>
+  </div>
+</section>

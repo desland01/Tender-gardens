@@ -1,0 +1,5 @@
+- [ ] / (hero, trust, CTA)
+- [ ] /services/[slug]
+- [ ] /service-areas/[city-slug]
+- [ ] /reviews, /gallery, /contact
+- [ ] Navigation wired

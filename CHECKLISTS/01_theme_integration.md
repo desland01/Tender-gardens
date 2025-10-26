@@ -1,0 +1,4 @@
+- [ ] Angie files integrated; license preserved
+- [ ] GSAP/Remix Icon installed only if used
+- [ ] Tailwind v4 classes verified (no v3 leftovers)
+- [ ] Layout and CTA adapted for local business

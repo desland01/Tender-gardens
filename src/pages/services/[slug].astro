@@ -1,0 +1,91 @@
+---
+import { getCollection } from "astro:content";
+import MainLayout from "../../layouts/MainLayout.astro";
+
+export async function getStaticPaths() {
+  const services = await getCollection("services");
+  return services.map((service) => ({
+    params: { slug: service.slug },
+    props: { service },
+  }));
+}
+
+const { service } = Astro.props;
+const locations = await getCollection("locations");
+const locationMap = new Map(locations.map((location) => [location.slug, location]));
+const serviceAreas =
+  service.data.serviceAreas
+    ?.map((ref) => {
+      if (typeof ref === "string") {
+        return locationMap.get(ref);
+      }
+      if (typeof ref === "object" && ref !== null) {
+        const slug = "slug" in ref ? (ref.slug as string) : undefined;
+        return slug ? locationMap.get(slug) : undefined;
+      }
+      return undefined;
+    })
+    .filter(Boolean) ?? [];
+
+const { Content } = await service.render();
+const structuredData = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  name: service.data.title,
+  description: service.data.blurb,
+  serviceType: service.data.highlight ?? "Landscape service",
+  areaServed: serviceAreas.map((area) => ({
+    "@type": "City",
+    name: area?.data.city,
+  })),
+};
+---
+<MainLayout
+  title={`${service.data.title} | Tender Gardens`}
+  description={service.data.blurb}
+  structuredData={structuredData}
+>
+  <article class="px-4 pb-24 pt-10 sm:px-6">
+    <div class="mx-auto grid max-w-5xl gap-8 md:grid-cols-[1fr_0.9fr] md:items-start">
+      <div class="space-y-6">
+        <p class="inline-flex items-center gap-2 rounded-full border-[2px] border-[#0ea5e9] px-3 py-1 text-xs font-semibold uppercase tracking-widest text-[#0ea5e9]">
+          {service.data.highlight ?? "Service"}
+        </p>
+        <h1 class="text-4xl font-black uppercase md:text-5xl">{service.data.title}</h1>
+        <p class="text-base text-neutral-600">{service.data.blurb}</p>
+        {service.data.duration && (
+          <p class="text-sm font-semibold uppercase tracking-wide text-neutral-500">{service.data.duration}</p>
+        )}
+        <div class="prose prose-invert max-w-none rounded-3xl border-[3px] border-black bg-[#111] p-6 text-[#fefbf1] prose-h2:font-black prose-h2:uppercase prose-strong:text-[#ffdc58]">
+          <Content />
+        </div>
+      </div>
+      <aside class="space-y-6">
+        {service.data.featuredImage && (
+          <img src={service.data.featuredImage} alt={`${service.data.title} showcase`} class="w-full rounded-3xl border-[3px] border-black object-cover shadow-[10px_10px_0_#111]" loading="lazy" />
+        )}
+        {serviceAreas.length > 0 && (
+          <div class="rounded-3xl border-[3px] border-black bg-white p-5 shadow-[8px_8px_0_#111]">
+            <h2 class="text-lg font-black uppercase">Service areas</h2>
+            <ul class="mt-3 space-y-2 text-sm text-neutral-700">
+              {serviceAreas.map((area) => (
+                <li>
+                  <a href={`/service-areas/${area?.slug}/`} class="underline-offset-4 hover:underline">
+                    {area?.data.city}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+        <div class="rounded-3xl border-[3px] border-black bg-[#ffdc58] p-5 text-sm font-semibold uppercase tracking-wide text-[#111] shadow-[8px_8px_0_#111]">
+          <p>Need this vibe for your space?</p>
+          <a href="/contact" class="mt-3 inline-flex items-center gap-2 rounded-full border-[3px] border-black bg-black px-5 py-2 text-xs font-bold uppercase tracking-widest text-[#ffdc58]">
+            Book a garden walk
+            <i class="ri-arrow-right-up-line"></i>
+          </a>
+        </div>
+      </aside>
+    </div>
+  </article>
+</MainLayout>

@@ -1,16 +1,87 @@
 ---
+import { getCollection } from "astro:content";
+import MainLayout from "../layouts/MainLayout.astro";
+import HeroSection from "../components/HeroSection.astro";
+import TrustIndicators from "../components/TrustIndicators.astro";
+import ServicesShowcase from "../components/ServicesShowcase.astro";
+import ServiceAreasGrid from "../components/ServiceAreasGrid.astro";
+import ReviewsSpotlight from "../components/ReviewsSpotlight.astro";
+import GalleryPreview from "../components/GalleryPreview.astro";
+import CallToActionBanner from "../components/CallToActionBanner.astro";
 
+const services = await getCollection("services");
+const orderedServices = services.slice().sort((a, b) => a.data.order - b.data.order);
+const featuredServices = orderedServices.map((service) => ({
+  title: service.data.title,
+  slug: service.slug,
+  blurb: service.data.blurb,
+  highlight: service.data.highlight,
+}));
+
+const locations = await getCollection("locations");
+const featuredLocations = locations
+  .slice()
+  .sort((a, b) => a.data.city.localeCompare(b.data.city))
+  .map((location) => ({
+    city: location.data.city,
+    slug: location.slug,
+    county: location.data.county,
+    blurb: location.data.blurb,
+  }));
+
+const reviews = await getCollection("reviews");
+const decoratedReviews = reviews
+  .slice()
+  .sort((a, b) => b.data.published.getTime() - a.data.published.getTime())
+  .map((review) => {
+    const service = services.find((entry) => entry.slug === review.data.service);
+    return {
+      name: review.data.name,
+      rating: review.data.rating,
+      body: review.data.body,
+      service: service?.data.title ?? service?.slug,
+    };
+  });
+
+const galleryImages = orderedServices
+  .filter((service) => Boolean(service.data.featuredImage))
+  .slice(0, 3)
+  .map((service) => ({
+    src: service.data.featuredImage!,
+    alt: `${service.data.title} project photo`,
+  }));
 ---
+<MainLayout>
+  <HeroSection
+    businessName="Tender Gardens"
+    tagline="Joyful outdoor spaces"
+    description="We design, plant, and maintain lush outdoor spaces that match your brand of joy. The Tender Gardens crew handles every visit with the Angie sparkle—so you can just sip iced tea and enjoy."
+    ctas={[
+      { label: "Book a garden walk", href: "/contact", variant: "primary" },
+      { label: "View services", href: "/services", variant: "secondary" },
+    ]}
+  />
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+  <TrustIndicators
+    items={[
+      { label: "12", supportingText: "years shaping Central FL yards" },
+      { label: "160+", supportingText: "recurring maintenance members" },
+      { label: "24hr", supportingText: "response on service requests" },
+    ]}
+  />
+
+  <ServicesShowcase services={featuredServices} />
+
+  <ServiceAreasGrid locations={featuredLocations} />
+
+  <GalleryPreview images={galleryImages} />
+
+  <ReviewsSpotlight reviews={decoratedReviews} />
+
+  <CallToActionBanner
+    title="Ready for a landscape glow-up?"
+    description="Schedule a complimentary garden walk-through so we can map out maintenance rhythms, seasonal planting palettes, and on-brand outdoor moments."
+    primaryCta={{ label: "Schedule my walk", href: "/contact" }}
+    secondaryCta={{ label: "Service areas", href: "/service-areas" }}
+  />
+</MainLayout>

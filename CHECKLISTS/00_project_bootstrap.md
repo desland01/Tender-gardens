@@ -1,0 +1,5 @@
+- [ ] Node 22 active (`node -v`)
+- [ ] Astro v5 installed, dev server boots
+- [ ] Tailwind v4 working (class renders)
+- [ ] .cursorrules + agents/* present
+- [ ] README explains how to run and edit content

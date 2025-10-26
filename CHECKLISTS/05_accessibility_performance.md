@@ -1,0 +1,4 @@
+- [ ] Semantic headings, landmarks, focus-visible
+- [ ] Color contrast >= AA
+- [ ] Images optimized, width/height set
+- [ ] Minimal client JS

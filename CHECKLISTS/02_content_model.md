@@ -1,0 +1,3 @@
+- [ ] Collections: services, locations, reviews defined
+- [ ] Seed 2–3 entries each
+- [ ] Pages read from Content Layer (no hardcoded lists)
