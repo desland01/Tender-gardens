@@ -1,0 +1,51 @@
+{
+  "intakeVersion": "2025-03",
+  "submittedAt": "2025-10-26T16:32:16.416Z",
+  "projectSnapshot": {
+    "businessName": "test",
+    "primaryContact": "test",
+    "email": "test@test.com",
+    "phone": "5555555555",
+    "keyLinks": [],
+    "timeline": "test"
+  },
+  "brandStory": {
+    "tagline": "test",
+    "elevatorPitch": "test",
+    "brandAdjectives": [],
+    "originStory": "test",
+    "differentiators": []
+  },
+  "audience": {
+    "segments": [],
+    "problemStatements": [],
+    "transformations": [],
+    "primaryCtas": []
+  },
+  "hero": {
+    "highlights": []
+  },
+  "services": {
+    "supporting": [
+      "test"
+    ],
+    "addOns": []
+  },
+  "proof": {
+    "testimonials": [],
+    "proofPoints": [],
+    "portfolioNotes": []
+  },
+  "experience": {
+    "faqs": [],
+    "clientExperience": []
+  },
+  "visuals": {
+    "references": [],
+    "avoid": []
+  },
+  "logistics": {
+    "serviceAreas": [],
+    "contactRequirements": []
+  }
+}
