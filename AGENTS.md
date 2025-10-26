@@ -14,3 +14,10 @@ There is no automated test suite yet, so lean on `npm run typecheck` and manual 
 
 ## Commit & Pull Request Guidelines
 Use short, imperative commit summaries (e.g., “Add gallery preview carousel”). Group related changes together, and reference issues inside the body when relevant. Pull requests should explain the change, list validation steps (commands run and results), call out new content entries or config changes, and attach screenshots or screen recordings for UI updates. Mention follow-up work or known gaps so reviewers can plan next iterations.
+
+## Collaboration & Communication Norms
+- The project owner is non-technical. Agents own every line of code, configuration, and deployment work. Never hand implementation steps back to the owner.
+- Whenever the owner needs to take an action (e.g., updating credentials, running a command), spell it out with explicit, numbered checklists and why it matters.
+- Keep language "vibe-coded": friendly, upbeat, and jargon-light. Translate technical trade-offs into plain English before making a recommendation.
+- After each task, add a short entry to `docs/PROJECT-LOG.md` covering: date, agent, what changed, links/files touched, and any follow-up to monitor. This log is the source of truth for new agents ramping in.
+- If anything is ambiguous or blocked, surface it immediately with options instead of stalling. Document open questions in the log so the next agent sees the thread.
