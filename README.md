@@ -30,10 +30,14 @@ A comprehensive client intake form is available at `/client-onboarding`.
 
 **Production (Vercel)**: Submissions automatically commit to a `submissions` branch in your GitHub repo. This keeps your client data separate from your main codebase and prevents triggering unnecessary rebuilds.
 
-To enable GitHub submissions for production:
-1. Create a GitHub Personal Access Token with `repo` scope
-2. Add environment variables to Vercel: `GITHUB_TOKEN`, `GITHUB_OWNER`, `GITHUB_REPO`
-3. See detailed setup instructions in `docs/SETUP-GITHUB-SUBMISSIONS.md`
+Production checklist:
+1. Create a GitHub Personal Access Token with `repo` scope and store it as `GITHUB_TOKEN`
+2. Add `GITHUB_OWNER=desland01` and `GITHUB_REPO=Tender-gardens` alongside the token in Vercel (Production, Preview, Development)
+3. Redeploy the project so the serverless function picks up the new environment variables
+4. Submit a quick smoke test—success returns `{ ok: true, branch: "submissions", ... }`
+5. When you want the data locally, run `git fetch origin submissions:submissions` and inspect `docs/client-intake/`
+
+Full setup notes and troubleshooting live in `docs/SETUP-GITHUB-SUBMISSIONS.md`
 
 ### Optional Analytics
 Set `PUBLIC_GA_ID` or `PUBLIC_GTM_ID` in your environment to enable Google Analytics or Tag Manager snippets. They remain disabled until you add those values.

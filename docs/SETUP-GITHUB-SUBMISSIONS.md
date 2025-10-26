@@ -35,8 +35,8 @@ This approach ensures:
 | Variable Name | Value | Example |
 |--------------|-------|---------|
 | `GITHUB_TOKEN` | Your personal access token from step 1 | `ghp_abc123...` |
-| `GITHUB_OWNER` | Your GitHub username or org name | `yourusername` |
-| `GITHUB_REPO` | Your repository name | `tender-gardens` |
+| `GITHUB_OWNER` | Your GitHub username or org name | `desland01` |
+| `GITHUB_REPO` | Your repository name | `Tender-gardens` |
 
 4. Make sure to apply these to **Production**, **Preview**, and **Development** environments
 5. Click "Save"
@@ -47,15 +47,23 @@ After adding the environment variables, trigger a new deployment:
 - Either push a new commit to your `main` branch
 - Or use Vercel's "Redeploy" button in the Deployments tab
 
+Submit a quick test intake once the deployment completes. A successful response looks like:
+
+```
+{"ok":true,"branch":"submissions", ...}
+```
+
+If that payload returns, the branch now exists in GitHub and you can sync it locally.
+
 ### 4. Review Submissions
 
-When clients submit the form, a new commit will be created on the `submissions` branch.
+When clients submit the form, a new commit is created on the `submissions` branch. The branch is created automatically on the first successful submission.
 
 To review submissions locally:
 
 ```bash
-# Fetch the latest from GitHub
-git fetch origin
+# Fetch the branch (creates a local tracking branch the first time)
+git fetch origin submissions:submissions
 
 # Switch to the submissions branch
 git checkout submissions
@@ -114,8 +122,8 @@ To test GitHub integration before deploying:
 1. Create a `.env` file (don't commit this!):
    ```bash
    GITHUB_TOKEN=ghp_your_token_here
-   GITHUB_OWNER=your-username
-   GITHUB_REPO=your-repo-name
+   GITHUB_OWNER=desland01
+   GITHUB_REPO=Tender-gardens
    ```
 
 2. Start the dev server:
