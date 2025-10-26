@@ -14,7 +14,7 @@ const SUBMISSIONS_BRANCH = "submissions";
 const RESEND_API_KEY = import.meta.env.RESEND_API_KEY;
 const RESEND_TO = import.meta.env.RESEND_TO || "desmond@grovestreetpainting.com";
 const RESEND_FROM =
-  import.meta.env.RESEND_FROM || "Tender Gardens Intake <intake@tender-gardens.com>";
+  import.meta.env.RESEND_FROM || "Tender Gardens Intake <intake@resend.dev>";
 
 const resend = RESEND_API_KEY ? new Resend(RESEND_API_KEY) : undefined;
 const RESEND_RECIPIENTS = RESEND_TO

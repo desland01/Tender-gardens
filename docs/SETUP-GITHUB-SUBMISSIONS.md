@@ -93,10 +93,11 @@ Want a heads-up as soon as someone submits the form?
    | --- | --- |
    | `RESEND_API_KEY` | The key you generated |
    | `RESEND_TO` | `desmond@grovestreetpainting.com` (or another recipient list, comma-separated) |
-   | `RESEND_FROM` | A verified sender, e.g. `Tender Gardens Intake <intake@tender-gardens.com>` |
+| `RESEND_FROM` | Optional. Defaults to `Tender Gardens Intake <intake@resend.dev>` |
 
    Apply each variable to Production, Preview, and Development, then redeploy so the API picks them up.
-3. Verify the `RESEND_FROM` address with Resend (or use their default domain while you wait for DNS verification).
+   > Tip: leaving `RESEND_TO` blank defaults delivery to `desmond@grovestreetpainting.com`.
+3. If you want to use a custom sender, verify it with Resend and set `RESEND_FROM`. Otherwise the default `intake@resend.dev` sender works out of the box.
 4. Submit a test intake locally or on Vercel; you should see an email with the summary and the full JSON payload.
 
 > Without `RESEND_API_KEY` the notification quietly falls back to logging a warning, so missed configuration won't break form submissions.

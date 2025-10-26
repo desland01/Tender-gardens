@@ -36,6 +36,7 @@ Production checklist:
 3. Redeploy the project so the serverless function picks up the new environment variables
 4. Submit a quick smoke test—success returns `{ ok: true, branch: "submissions", ... }`
 5. When you want the data locally, run `git fetch origin submissions:submissions` and inspect `docs/client-intake/`
+6. Optional: set `RESEND_API_KEY` (plus `RESEND_FROM` if you’ve verified a custom sender; otherwise the default uses `intake@resend.dev`) so new intakes ping `desmond@grovestreetpainting.com`
 
 Full setup notes and troubleshooting live in `docs/SETUP-GITHUB-SUBMISSIONS.md`
 
