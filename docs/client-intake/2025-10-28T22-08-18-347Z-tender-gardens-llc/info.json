@@ -1,0 +1,52 @@
+{
+  "intakeVersion": "2025-03",
+  "submittedAt": "2025-10-28T22:08:18.347Z",
+  "projectSnapshot": {
+    "businessName": "Tender Gardens LLC",
+    "primaryContact": "Jaime Goulet",
+    "email": "jaimegoulet@yahoo.com",
+    "phone": "941-786-4552",
+    "keyLinks": []
+  },
+  "brandStory": {
+    "tagline": "Creating and maintaining habitat for wildlife",
+    "elevatorPitch": "I work with native plants installing and maintaining wildlife habitat. Conserving native landscapes for the future.",
+    "brandAdjectives": [],
+    "originStory": "I began creating creating wildflower compositions for weddings and events in 2014. From there, my love for native plants blossomed and branched into the broader lense of creating long lasting native habitat.",
+    "differentiators": []
+  },
+  "audience": {
+    "segments": [],
+    "problemStatements": [],
+    "transformations": [
+      "'ve made a positive environmental impact. Their outdoor garden has become another \"room\" on their property to enjoy."
+    ],
+    "primaryCtas": []
+  },
+  "hero": {
+    "headline": "Planting native plants makes a huge impact in our state.",
+    "subheadline": "Creating and maintaining habitat for wildlife.",
+    "highlights": []
+  },
+  "services": {
+    "supporting": [],
+    "addOns": []
+  },
+  "proof": {
+    "testimonials": [],
+    "proofPoints": [],
+    "portfolioNotes": []
+  },
+  "experience": {
+    "faqs": [],
+    "clientExperience": []
+  },
+  "visuals": {
+    "references": [],
+    "avoid": []
+  },
+  "logistics": {
+    "serviceAreas": [],
+    "contactRequirements": []
+  }
+}
