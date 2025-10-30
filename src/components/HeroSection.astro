@@ -11,19 +11,21 @@ interface CallToAction {
 }
 
 interface Props {
-  businessName: string;
+  businessName?: string;
   tagline: string;
   description: string;
   ctas: CallToAction[];
   heroImage?: string;
+  heroAlt?: string;
 }
 
 const {
-  businessName,
+  businessName = "Tender Gardens",
   tagline,
   description,
   ctas = [],
-  heroImage = "https://images.pexels.com/photos/1858175/pexels-photo-1858175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+  heroImage = "/images/jaime-hero.jpg",
+  heroAlt = "Jaime Goulet tending a native garden in Venice, Florida",
 } = Astro.props satisfies Props;
 ---
 <section class="relative overflow-hidden px-4 pb-24 pt-16 sm:px-6 md:pt-24">
@@ -70,21 +72,19 @@ const {
         <div>
           <p class="text-xs uppercase tracking-[0.3em] text-neutral-500">Highlights</p>
           <ul class="mt-2 space-y-1 text-sm font-semibold">
-            <li class="flex items-center gap-2"><i class="ri-leaf-line text-lg text-brand"></i>Weekly lawn artistry</li>
-            <li class="flex items-center gap-2"><i class="ri-flower-line text-lg text-brand"></i>Seasonal planting plans</li>
+            <li class="flex items-center gap-2"><i class="ri-leaf-line text-lg text-brand"></i>Native garden maintenance plans</li>
+            <li class="flex items-center gap-2"><i class="ri-flower-line text-lg text-brand"></i>Butterfly & pollinator habitat installs</li>
           </ul>
         </div>
         <div class="rounded-lg border-2 border-dashed border-[#ffdc58]/80 bg-[#fffae5] p-4 text-sm font-medium text-neutral-700">
-          <p>
-            “We hand-script maintenance visits, so every bed and patio keeps the Angie energy all year.”
-          </p>
+          <p>“I hand-script every maintenance visit so your habitat thrives through Gulf heat, storms, and peak bloom.” — Jaime Goulet</p>
         </div>
       </div>
     </div>
     <div class="relative isolate mx-auto w-full max-w-lg">
       <div class="absolute -left-6 top-8 h-12 w-12 animate-pulse rounded-full bg-[#ffdc58]/70"></div>
       <div class="relative overflow-hidden border-[3px] border-black bg-white shadow-[12px_12px_0_#111]">
-        <img src={heroImage} alt="Lush garden installation" class="h-[420px] w-full object-cover" loading="eager" />
+        <img src={heroImage} alt={heroAlt} class="h-[420px] w-full object-cover" loading="eager" />
         <img src={ideaSvg.src} alt="idea icon" class="absolute -right-8 top-6 h-20 w-20" loading="lazy" />
         <img src={frameSvg.src} alt="decorative frame" class="absolute -bottom-6 right-6 h-20 w-20 rotate-6" loading="lazy" />
       </div>

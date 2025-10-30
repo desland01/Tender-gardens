@@ -43,30 +43,37 @@ const decoratedReviews = reviews
     };
   });
 
-const galleryImages = orderedServices
-  .filter((service) => Boolean(service.data.featuredImage))
-  .slice(0, 3)
-  .map((service) => ({
-    src: service.data.featuredImage!,
-    alt: `${service.data.title} project photo`,
-  }));
+const galleryImages = [
+  {
+    src: "/images/native-pollinator-border.jpg",
+    alt: "Venice native pollinator bed maintained by Jaime Goulet",
+  },
+  {
+    src: "/images/native-buttonbush-landscape.jpg",
+    alt: "Buttonbush blooms in a Sarasota shoreline planting",
+  },
+  {
+    src: "/images/native-muhly-senna.jpg",
+    alt: "Muhly grass and Chapman's senna swaying in coastal wind",
+  },
+];
 ---
 <MainLayout>
   <HeroSection
     businessName="Tender Gardens"
-    tagline="Joyful outdoor spaces"
-    description="We design, plant, and maintain lush outdoor spaces that match your brand of joy. The Tender Gardens crew handles every visit with the Angie sparkle—so you can just sip iced tea and enjoy."
+    tagline="Venice-native gardens with heart"
+    description="Hi, I’m Jaime Goulet—the native plant gardener-next-door keeping Venice and Sarasota spaces blooming with wildlife-friendly color. We plan, plant, and pamper every inch so you can enjoy the breeze while we handle the care."
     ctas={[
-      { label: "Book a garden walk", href: "/contact", variant: "primary" },
-      { label: "View services", href: "/services", variant: "secondary" },
+      { label: "Schedule a garden walk", href: "/contact", variant: "primary" },
+      { label: "Explore services", href: "/services", variant: "secondary" },
     ]}
   />
 
   <TrustIndicators
     items={[
-      { label: "12", supportingText: "years shaping Central FL yards" },
-      { label: "160+", supportingText: "recurring maintenance members" },
-      { label: "24hr", supportingText: "response on service requests" },
+      { label: "Est. 2014", supportingText: "Owner-operated native plant care" },
+      { label: "15 mi", supportingText: "Venice & Sarasota service radius" },
+      { label: "100%", supportingText: "Florida native plants in every project" },
     ]}
   />
 
@@ -79,9 +86,9 @@ const galleryImages = orderedServices
   <ReviewsSpotlight reviews={decoratedReviews} />
 
   <CallToActionBanner
-    title="Ready for a landscape glow-up?"
-    description="Schedule a complimentary garden walk-through so we can map out maintenance rhythms, seasonal planting palettes, and on-brand outdoor moments."
-    primaryCta={{ label: "Schedule my walk", href: "/contact" }}
-    secondaryCta={{ label: "Service areas", href: "/service-areas" }}
+    title="Walk the garden with me?"
+    description="Let’s stroll your space, sip something cold, and sketch the seasonal plan that keeps your native garden glowing without adding to your to-do list."
+    primaryCta={{ label: "Plan my visit", href: "/contact" }}
+    secondaryCta={{ label: "See service areas", href: "/service-areas" }}
   />
 </MainLayout>

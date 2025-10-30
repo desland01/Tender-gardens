@@ -1,15 +1,16 @@
 ---
 title: "Seasonal Bed Refresh"
 slug: "seasonal-bed-refresh"
-blurb: "Quarterly planting refresh with color block styling, soil boosts, and Angie-coded mulches for tidy borders."
+blurb: "Quarterly native plant refresh with color-coordinated blooms, soil boosts, and mulch touch-ups that keep habitats tidy."
 highlight: "Maintenance"
-featuredImage: "https://images.pexels.com/photos/1453499/pexels-photo-1453499.jpeg"
+featuredImage: "/images/native-cutleaf-coneflower.jpg"
 duration: "Half-day crew visit"
 order: 2
 serviceAreas:
-  - winter-park
-  - orlando
-  - sanford
+  - venice
+  - nokomis
+  - north-port
+  - englewood
 ---
 Our crew swaps in seasonal blooms, edges beds, top-dresses with compost, and leaves behind illustrated care cards. We track bloom windows so every change-out feels intentional, not rushed.
 

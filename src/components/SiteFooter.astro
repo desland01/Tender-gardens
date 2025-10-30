@@ -11,9 +11,9 @@ interface Props {
 
 const {
   businessName = "Tender Gardens",
-  phone = "(407) 555-0133",
-  email = "hello@tendergardens.com",
-  address = "1200 Bloom Lane, Orlando, FL",
+  phone = "941-786-4552",
+  email = "jaimegoulet@yahoo.com",
+  address = "Venice, FL • Serving a 15-mile coastal radius",
 } = Astro.props satisfies Props;
 
 const year = new Date().getFullYear();
@@ -36,7 +36,7 @@ const year = new Date().getFullYear();
         {businessName}
       </h2>
       <p class="max-w-lg text-base text-paper/80">
-        Sustainable landscaping, garden design, and seasonal upkeep crafted for Central Florida homes and boutique spaces. We blend Angie-inspired joy with dependable service schedules.
+        Florida-native garden maintenance, butterfly habitat installations, and seasonal refreshes crafted by owner Jaime Goulet for Venice, Sarasota, and nearby coastal communities.
       </p>
       <div class="flex flex-wrap gap-4 pt-2 text-sm uppercase">
         <a href={`tel:${phone.replace(/[^\d]/g, "")}`} class="flex items-center gap-2 rounded-full border-2 border-[#ffdc58] px-4 py-2 font-semibold tracking-wide text-[#ffdc58] transition hover:bg-[#ffdc58] hover:text-[#111]">
@@ -53,7 +53,7 @@ const year = new Date().getFullYear();
       <div class="space-y-2">
         <h3 class="text-sm font-bold uppercase tracking-wide text-[#ffdc58]">Studio</h3>
         <p class="text-base text-paper/85">{address}</p>
-        <p class="text-base text-paper/60">Weekdays 8a – 6p</p>
+        <p class="text-base text-paper/60">Visits scheduled by appointment</p>
       </div>
       <div class="space-y-2">
         <h3 class="text-sm font-bold uppercase tracking-wide text-[#ffdc58]">Follow</h3>

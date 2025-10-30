@@ -3,12 +3,13 @@ title: "Irrigation Tune & Mulch Glow"
 slug: "irrigation-tune-mulch"
 blurb: "Smart controller reset plus premium mulch install to lock in moisture and elevate the look instantly."
 highlight: "Care"
-featuredImage: "https://images.pexels.com/photos/1544887/pexels-photo-1544887.jpeg"
+featuredImage: "/images/native-muhly-senna.jpg"
 duration: "One crew morning"
-order: 3
+order: 4
 serviceAreas:
-  - orlando
-  - sanford
+  - venice
+  - sarasota
+  - osprey
 ---
 We audit spray patterns, adjust for new plant heights, and sync schedules to rainfall data. After tuning, we lay down cedar or pine straw with crisp lines and leave hydration gauges so you can monitor with ease.
 
