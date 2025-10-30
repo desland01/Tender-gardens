@@ -7,7 +7,10 @@ const services = defineCollection({
     slug: z.string().optional(),
     blurb: z.string(),
     highlight: z.string().optional(),
-    featuredImage: z.string().url().optional(),
+    featuredImage: z
+      .string()
+      .refine((val) => val.startsWith("http") || val.startsWith("/"), "Invalid image path")
+      .optional(),
     duration: z.string().optional(),
     order: z.number().default(0),
     serviceAreas: z.array(reference("locations")).optional(),
