@@ -16,6 +16,7 @@ pnpm-debug.log*
 # environment variables
 .env
 .env.production
+.mcp.json
 
 # macOS-specific files
 .DS_Store
@@ -25,3 +26,6 @@ pnpm-debug.log*
 
 # vercel build output
 .vercel/
+
+# claude settings (exclude local overrides but keep mcp.json for team sharing)
+.claude/settings.local.json

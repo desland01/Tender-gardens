@@ -1,0 +1,226 @@
+{
+  "businessIdentity": {
+    "legalName": "Tender Gardens LLC",
+    "dba": "Tender Gardens",
+    "owner": "Jaime Goulet",
+    "established": "2014",
+    "contactInfo": {
+      "phone": "941-786-4552",
+      "email": "jaimegoulet@yahoo.com",
+      "baseLocation": "Venice, Florida",
+      "serviceRadius": "15 miles from Venice, FL",
+      "primaryServiceCities": [
+        "Venice",
+        "Sarasota",
+        "North Port",
+        "Englewood",
+        "Osprey",
+        "Nokomis",
+        "Siesta Key"
+      ],
+      "secondaryServiceCities": [
+        "Laurel",
+        "Venice Gardens",
+        "South Venice",
+        "Plantation",
+        "Gulf Gate Estates",
+        "Vamo",
+        "Bee Ridge",
+        "Lake Sarasota",
+        "Warm Mineral Springs",
+        "Manasota Key"
+      ]
+    }
+  },
+  "businessDescription": {
+    "tagline": "Creating and maintaining habitat for wildlife",
+    "missionStatement": "Conserving native Florida landscapes for the future by installing and maintaining wildlife habitat using exclusively native plants.",
+    "coreFocus": "Small owner-operated native plant garden maintenance and installation service specializing in Florida native plants and wildlife habitat creation, serving the Venice and Sarasota area.",
+    "originStory": "Founded in 2014 creating wildflower compositions for weddings and events. Jaime's passion for native plants evolved into a focused business dedicated to creating long-lasting native habitat gardens that support local wildlife and pollinators in Southwest Florida.",
+    "businessModel": "Solo practitioner with potential for selective collaboration on larger projects. Focus on quality over volume, building long-term maintenance relationships with environmentally conscious clients."
+  },
+  "keyDifferentiators": [
+    "Exclusive use of Florida native plants - no non-natives or invasives",
+    "Wildlife habitat and pollinator garden expertise, especially butterfly gardens",
+    "Maintenance-first approach creating sustainable, low-input landscapes",
+    "Deep knowledge of Southwest Florida native plant communities and coastal ecology",
+    "Personal service from owner on every project",
+    "Conservation-minded approach focused on ecological outcomes",
+    "Experience since 2014 with native plants and wildflower design",
+    "Specialization in Venice/Sarasota area butterfly species (50+ local species)"
+  ],
+  "coreServices": {
+    "primaryService": {
+      "name": "Native Garden Maintenance",
+      "description": "Regular maintenance of established native plant gardens including specialized weeding (distinguishing native volunteers from invasives), seasonal cleanup, native plant health monitoring, mulch renewal, and ongoing habitat management.",
+      "targetMarket": "Homeowners with existing native gardens or recent native landscape installations",
+      "pricingApproach": "Monthly retainer or seasonal service packages",
+      "idealClientFrequency": "Monthly or bi-monthly visits"
+    },
+    "secondaryServices": [
+      {
+        "name": "Butterfly & Pollinator Garden Installation",
+        "description": "Design and installation of small to medium butterfly and pollinator gardens featuring native host plants (milkweed, pipevine, passionflower) and nectar sources that bloom seasonally to support Southwest Florida butterflies and native pollinators.",
+        "scope": "Residential scale, typically 100-500 sq ft",
+        "includedComponents": [
+          "Site assessment and plant selection",
+          "Native host plant installation for butterfly lifecycles",
+          "Native nectar plants for continuous bloom",
+          "Organic mulch and soil preparation",
+          "Initial establishment care guidance"
+        ]
+      },
+      {
+        "name": "Native Garden Installation",
+        "description": "Full native landscape installations and native garden bed creation for residential properties. Transform traditional landscapes into thriving native plant communities.",
+        "scope": "Residential yards and garden beds, not commercial properties",
+        "focus": [
+          "Foundation plantings with Florida native shrubs",
+          "Native perennial beds",
+          "Wildlife habitat corridors",
+          "Rain garden installations",
+          "Native groundcover conversions"
+        ]
+      },
+      {
+        "name": "Design Consultations",
+        "description": "On-site consultations to help homeowners plan native garden projects, identify existing native plants, create wildlife habitat plans, and develop phased installation approaches.",
+        "deliverables": [
+          "Site walk and assessment",
+          "Native plant recommendations specific to site conditions",
+          "Phased installation plan",
+          "Plant list with botanical and common names",
+          "Maintenance guidance"
+        ],
+        "pricing": "Hourly consultation or flat-rate for residential properties"
+      }
+    ]
+  },
+  "serviceCapabilities": {
+    "currentCapacity": "Owner-operator model with capacity for 8-12 monthly maintenance clients plus 2-4 installation projects per season",
+    "growthGoals": [
+      "Build consistent base of monthly maintenance clients",
+      "Establish reputation for butterfly and pollinator garden expertise",
+      "Offer seasonal design consultation packages",
+      "Develop relationships with native plant nurseries for reliable sourcing"
+    ],
+    "limitations": [
+      "Solo operation - one person handling all work",
+      "No large commercial projects",
+      "No hardscaping or irrigation installation (can recommend partners)",
+      "No tree removal or major land clearing",
+      "Service area limited to 15-mile radius from Venice, FL for efficiency"
+    ]
+  },
+  "targetCustomerProfile": {
+    "primaryAudience": {
+      "demographics": "Environmentally conscious homeowners in Venice/Sarasota area, typically 55-75 years old (retirees and pre-retirees), college-educated, middle to upper-middle income",
+      "psychographics": [
+        "Values wildlife conservation and habitat restoration",
+        "Interested in reducing lawn maintenance and water usage (retiree-appropriate low-maintenance)",
+        "Appreciates native plant aesthetics and ecological function",
+        "Willing to invest in sustainable landscaping for retirement home",
+        "Often birders, butterfly enthusiasts, or nature lovers with time to enjoy gardens",
+        "Prefers professional maintenance over DIY (physical limitations, time priorities)",
+        "Active in Sarasota County Butterfly Club, Audubon chapters, environmental groups"
+      ],
+      "painPoints": [
+        "Tired of high-maintenance traditional landscapes",
+        "Want to support pollinators but don't know which plants to use",
+        "Concerned about invasive species taking over their yards",
+        "Need help distinguishing native plants from weeds",
+        "Looking for professional who understands native plant care",
+        "Want low-water, low-input landscape that still looks beautiful"
+      ],
+      "desiredTransformations": [
+        "Create a thriving backyard habitat that attracts butterflies and birds",
+        "Reduce time and money spent on lawn maintenance",
+        "Make a positive environmental impact through their landscape choices",
+        "Transform their outdoor garden into another 'room' to enjoy",
+        "Feel confident their landscape supports local ecosystems"
+      ]
+    }
+  },
+  "competitivePositioning": {
+    "marketPosition": "Specialized boutique service focusing on native plant expertise and wildlife habitat",
+    "competitiveAdvantages": [
+      "Exclusive focus on Florida natives - not a side service",
+      "Deep ecological knowledge, not just aesthetic landscaping",
+      "Personal attention from experienced owner",
+      "Long-term maintenance relationships, not one-time installations",
+      "Butterfly and pollinator garden specialization",
+      "Education-focused approach helping clients understand their gardens"
+    ],
+    "pricingStrategy": "Premium pricing reflecting specialized expertise, positioned 15-25% above general landscaping maintenance but competitive with other native plant specialists"
+  },
+  "businessPhilosophy": {
+    "coreValues": [
+      "Ecological integrity - only Florida native plants",
+      "Education and stewardship - teaching clients about their landscapes",
+      "Quality over quantity - limited client base for excellent service",
+      "Long-term thinking - creating sustainable, self-supporting ecosystems",
+      "Conservation impact - every project contributes to habitat restoration"
+    ],
+    "approach": "Right plant, right place. Matching native species to specific site conditions to create thriving gardens that require minimal inputs once established.",
+    "clientRelationship": "Partner with clients as stewards of their land, providing ongoing guidance and seasonal recommendations beyond just maintenance visits."
+  },
+  "marketingMessages": {
+    "primaryHeadline": "Native Florida Gardens That Support Wildlife and Require Less Work",
+    "secondaryHeadlines": [
+      "Expert Native Plant Maintenance for Venice & Sarasota Gardens",
+      "Create Butterfly Habitat in Your Own Backyard",
+      "Transform Your Landscape Into Thriving Wildlife Habitat"
+    ],
+    "keyBenefits": [
+      "Reduced maintenance compared to traditional lawns",
+      "Support butterflies, bees, and native birds",
+      "Lower water bills with drought-adapted natives",
+      "Year-round beauty with seasonal interest",
+      "Professional care that understands native plant needs",
+      "Personalized service from an experienced native plant specialist"
+    ],
+    "callsToAction": [
+      "Schedule a Native Garden Consultation",
+      "Get a Maintenance Plan Quote",
+      "Design Your Butterfly Garden",
+      "Book a Seasonal Garden Assessment"
+    ]
+  },
+  "industryInsights": {
+    "marketTrends": [
+      "83% of landscaping clients now request native plant species",
+      "Native plant market growing faster than general landscaping (9% vs 6.7% CAGR)",
+      "Increasing municipal mandates for native plants in Florida (30-75% requirements)",
+      "Growing consumer awareness of pollinator decline and habitat loss",
+      "Shift from high-maintenance lawns to sustainable native landscapes"
+    ],
+    "typicalPricing": {
+      "maintenanceMonthly": "$150-400/month for residential properties depending on size and frequency",
+      "designConsultation": "$150-300 for initial consultation with basic plan",
+      "butterflyGardenInstall": "$800-2,500 depending on size (100-500 sq ft) and plant selections",
+      "nativeGardenBedInstall": "$8-15 per square foot including plants, soil prep, and mulch"
+    },
+    "customerJourney": {
+      "awareness": "Client realizes traditional landscape isn't working or wants to support wildlife",
+      "research": "Searches for 'native plant garden maintenance' or 'butterfly garden installation near me'",
+      "consideration": "Reviews website, social media, looks for native plant expertise and local knowledge",
+      "decision": "Books consultation to discuss their specific property and goals",
+      "onboarding": "Site visit, personalized plan, phased approach if budget requires",
+      "loyalty": "Monthly maintenance becomes long-term relationship, referrals to neighbors and friends"
+    }
+  },
+  "operationalRealities": {
+    "seasonalDemand": {
+      "peak": "Fall (September-November) for planting season, Spring (March-May) for consultations and installations",
+      "maintenance": "Year-round in Florida but lighter in summer heat, heavier in fall/winter growing season",
+      "note": "Potential snowbird seasonality in Venice market - some clients may be part-time residents (Oct-Apr)"
+    },
+    "supplySourcing": "Partner with local native plant nurseries in Sarasota area (Florida Native Plants Nursery, Sweet Bay Nursery). Challenge: native plant availability can be limited, requires advance planning for installations. Opportunity: referral partnership with nurseries.",
+    "timeAllocation": {
+      "maintenanceVisit": "2-4 hours typical residential property",
+      "designConsultation": "2-3 hours including site visit and plan development",
+      "smallInstallation": "1-2 days for butterfly garden (100-300 sq ft)",
+      "mediumInstallation": "3-5 days for larger native bed (500-1000 sq ft)"
+    }
+  }
+}
