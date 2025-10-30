@@ -24,7 +24,10 @@ const locations = defineCollection({
     slug: z.string().optional(),
     county: z.string().default("Orange County"),
     blurb: z.string(),
-    heroImage: z.string().url().optional(),
+    heroImage: z
+      .string()
+      .refine((val) => val.startsWith("http") || val.startsWith("/"), "Invalid image path")
+      .optional(),
     serviceHighlights: z.array(z.string()).default([]),
   }),
 });
