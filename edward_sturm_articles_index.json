@@ -1,0 +1,289 @@
+{
+  "overview": {
+    "totalArticles": 5,
+    "totalWords": 5050,
+    "averageReadTime": "4.6 minutes",
+    "author": "Edward Sturm",
+    "scrapedDate": "2025-11-01",
+    "sourceFile": "edward_sturm_articles_raw_data.json"
+  },
+  "categories": {
+    "SEO": {
+      "articleCount": 5,
+      "totalWords": 5050,
+      "articles": [
+        "low-hanging-fruit-seo",
+        "pareto-seo",
+        "2026-seo-playbook-maximize-coverage",
+        "bottom-of-funnel-seo-love-letter",
+        "10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google"
+      ]
+    }
+  },
+  "topicHierarchy": {
+    "SEO_Fundamentals": {
+      "description": "Core SEO principles and the 20% that matters",
+      "articles": ["pareto-seo"],
+      "keyTopics": [
+        "Technical SEO basics (Google Search Console, sitemaps)",
+        "On-page optimization (70% rule: title, meta, URL, H1, first sentence)",
+        "Bottom-of-funnel vs top-of-funnel keywords"
+      ]
+    },
+    "Quick_Wins_and_Low_Hanging_Fruit": {
+      "description": "Fast optimizations for immediate results",
+      "articles": ["low-hanging-fruit-seo", "10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google"],
+      "keyTopics": [
+        "Finding keywords ranking positions 6-25",
+        "Adding exact keywords to existing content",
+        "Clone and redirect technique for non-ranking pages",
+        "301 redirects and topical authority"
+      ]
+    },
+    "Bottom_of_Funnel_Strategy": {
+      "description": "Converting high-intent traffic with solution-focused keywords",
+      "articles": ["bottom-of-funnel-seo-love-letter", "pareto-seo"],
+      "keyTopics": [
+        "Targeting solutions not questions",
+        "300-500 word landing pages",
+        "/uses/ or /services/ hub structure",
+        "Higher conversion rates with less content",
+        "Backlink strategies (Product Hunt, BetaList, HARO)"
+      ]
+    },
+    "Future_of_SEO_2026": {
+      "description": "Multi-platform coverage and UGC strategies",
+      "articles": ["2026-seo-playbook-maximize-coverage"],
+      "keyTopics": [
+        "UGC platforms ranking in Google (YouTube, Facebook, Instagram, TikTok)",
+        "Maximum coverage: same keyword across platforms",
+        "Video transcript in descriptions",
+        "Clickable links from Facebook and YouTube",
+        "Diversification beyond website SEO"
+      ]
+    }
+  },
+  "useCaseMapping": {
+    "I_need_quick_SEO_wins": {
+      "primaryArticle": "low-hanging-fruit-seo",
+      "supportingArticles": ["10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google"],
+      "timeInvestment": "5-10 minutes per optimization",
+      "expectedResults": "Ranking improvements for keywords at positions 6-25"
+    },
+    "I_want_to_understand_SEO_basics": {
+      "primaryArticle": "pareto-seo",
+      "supportingArticles": ["bottom-of-funnel-seo-love-letter"],
+      "timeInvestment": "10 minutes reading",
+      "expectedResults": "Focus on the 20% of SEO that delivers 80% of results"
+    },
+    "I_want_more_conversions_not_just_traffic": {
+      "primaryArticle": "bottom-of-funnel-seo-love-letter",
+      "supportingArticles": ["pareto-seo"],
+      "timeInvestment": "300-500 words per landing page",
+      "expectedResults": "Higher conversion rates, less competitive keywords"
+    },
+    "My_page_is_not_ranking_at_all": {
+      "primaryArticle": "10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google",
+      "supportingArticles": ["low-hanging-fruit-seo"],
+      "timeInvestment": "10 minutes for clone and redirect",
+      "expectedResults": "Page reassessed with current topical authority"
+    },
+    "I_need_a_2026_SEO_strategy": {
+      "primaryArticle": "2026-seo-playbook-maximize-coverage",
+      "supportingArticles": ["pareto-seo"],
+      "timeInvestment": "Few minutes per video, multi-platform posting",
+      "expectedResults": "Maximum keyword coverage across web and UGC platforms"
+    }
+  },
+  "articles": {
+    "low-hanging-fruit-seo": {
+      "title": "People with websites don't know this - Low-Hanging Fruit SEO",
+      "url": "https://edwardsturm.com/articles/low-hanging-fruit-seo",
+      "publishDate": "2023-12-31",
+      "wordCount": 1100,
+      "readTime": "4 minutes",
+      "coreConcepts": [
+        "Google Search Console export and filtering",
+        "Keywords ranking positions 6-25 are low-hanging fruit",
+        "Add exact keyword phrases to existing content",
+        "5-minute optimizations for ranking improvements"
+      ],
+      "actionableSteps": [
+        "1. Go to Google Search Console > Performance > Search Results",
+        "2. Export data to spreadsheet",
+        "3. Filter for positions 6-25",
+        "4. Add exact keyword to existing relevant content",
+        "5. Resubmit URL to Google Search Console"
+      ],
+      "bestFor": ["Quick wins", "Existing content optimization", "5-minute changes"]
+    },
+    "pareto-seo": {
+      "title": "Pareto SEO: The 20% of SEO That Matters",
+      "url": "https://edwardsturm.com/articles/pareto-seo",
+      "publishDate": "2024-07-06",
+      "wordCount": 1050,
+      "readTime": "5 minutes",
+      "coreConcepts": [
+        "80/20 principle in SEO",
+        "Technical SEO: Google Search Console + sitemaps",
+        "70% of on-page SEO: 5 key locations for keywords",
+        "Bottom-of-funnel keywords convert better with less work",
+        "Niche directories for backlinks"
+      ],
+      "actionableSteps": [
+        "1. Connect Google Search Console, submit sitemaps",
+        "2. Put keyword in: page title, meta description, URL, H1, first sentence",
+        "3. Target bottom-of-funnel keywords (solutions) not top-of-funnel (questions)",
+        "4. Export Google Search Console data, find positions 6-25",
+        "5. Submit to niche directories with rich descriptions"
+      ],
+      "bestFor": ["SEO fundamentals", "Avoiding wasted effort", "Focus on what works"]
+    },
+    "2026-seo-playbook-maximize-coverage": {
+      "title": "The 2026 SEO Playbook - Maximize Coverage",
+      "url": "https://edwardsturm.com/articles/2026-seo-playbook-maximize-coverage",
+      "publishDate": "2025-09-21",
+      "wordCount": 650,
+      "readTime": "3 minutes",
+      "coreConcepts": [
+        "UGC platforms rising in Google rankings",
+        "Same keyword = website page + multiple videos",
+        "YouTube, Facebook, Instagram, TikTok coverage",
+        "Keyword at beginning of title/description",
+        "Link back from clickable platforms"
+      ],
+      "actionableSteps": [
+        "1. Create website page for target keyword",
+        "2. Create short video on same topic/keyword",
+        "3. Post to all platforms: YouTube, Facebook, Instagram, TikTok",
+        "4. Put keyword at beginning of title",
+        "5. Use video transcript as description",
+        "6. Link to website from YouTube and Facebook descriptions"
+      ],
+      "bestFor": ["2026 strategy", "Multi-platform SEO", "Video content", "Maximum coverage"]
+    },
+    "bottom-of-funnel-seo-love-letter": {
+      "title": "My Love Letter to Bottom-of-Funnel SEO",
+      "url": "https://edwardsturm.com/articles/bottom-of-funnel-seo-love-letter",
+      "publishDate": "2023-06-25",
+      "wordCount": 1400,
+      "readTime": "6 minutes",
+      "coreConcepts": [
+        "222,000 clicks per year from Google for free",
+        "Bottom-of-funnel = people know what they want, not which brand",
+        "Requires 7-10X LESS content than top-of-funnel",
+        "Higher conversion rates",
+        "/uses/ or /services/ hub structure",
+        "300-500 words per landing page"
+      ],
+      "actionableSteps": [
+        "1. Identify bottom-of-funnel keywords (solutions, not questions)",
+        "2. Create hub page at /uses/ or /services/",
+        "3. Create individual landing pages (300-500 words each)",
+        "4. Add CTA at top and bottom of each page",
+        "5. Score 92+ on Moz On-Page Grader",
+        "6. Get backlinks via Product Hunt, BetaList, podcasts, directories, HARO"
+      ],
+      "bestFor": ["High conversions", "Less competitive keywords", "Less content required", "Long-lasting traffic"]
+    },
+    "10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google": {
+      "title": "10-Minute SEO Hack That Took My Page From Invisible to #1 on Google",
+      "url": "https://edwardsturm.com/articles/10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google",
+      "publishDate": "2025-05-04",
+      "wordCount": 850,
+      "readTime": "5 minutes",
+      "coreConcepts": [
+        "Clone and redirect technique for non-ranking pages",
+        "Pages get reassessed with current topical authority",
+        "301 redirect transfers link juice",
+        "Results in 2 weeks",
+        "Works when site has gained authority since page creation"
+      ],
+      "actionableSteps": [
+        "1. Clone the non-ranking page to new URL",
+        "2. Make minor edits to URL, title, meta, opening (5 minutes)",
+        "3. 301 redirect old URL to new URL",
+        "4. Update internal links to new URL",
+        "5. Submit both URLs to Google Search Console"
+      ],
+      "bestFor": ["Non-ranking pages", "Topical authority issues", "Quick fixes", "10-minute changes"]
+    }
+  },
+  "keywordStrategies": {
+    "finding_keywords": {
+      "method": "Google Search Console Export",
+      "targetPositions": "6-25 (low-hanging fruit)",
+      "articles": ["low-hanging-fruit-seo", "pareto-seo"]
+    },
+    "keyword_targeting": {
+      "bottomOfFunnel": "Solutions/tools (e.g., 'collaboration software with intuitive learning')",
+      "topOfFunnel": "Questions/education (e.g., 'what is collaboration software')",
+      "recommendation": "Focus on bottom-of-funnel for higher conversions",
+      "articles": ["bottom-of-funnel-seo-love-letter", "pareto-seo"]
+    },
+    "keyword_placement": {
+      "70percentRule": [
+        "Page title",
+        "Meta description",
+        "URL",
+        "H1",
+        "First sentence"
+      ],
+      "articles": ["pareto-seo"]
+    }
+  },
+  "technicalGuides": {
+    "google_search_console": {
+      "setup": "Connect site, submit sitemaps",
+      "usage": "Export data, inspect URLs, submit new/updated pages",
+      "articles": ["low-hanging-fruit-seo", "pareto-seo"]
+    },
+    "301_redirects": {
+      "purpose": "Transfer link juice to new URL",
+      "useCase": "When page needs reassessment with current topical authority",
+      "process": "Clone page > minor edits > redirect old to new > update internal links",
+      "articles": ["10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google"]
+    },
+    "landing_page_structure": {
+      "wordCount": "300-500 words",
+      "elements": ["CTA at top", "CTA at bottom", "Images", "Moz score 92+"],
+      "hubStructure": "/uses/ or /services/ page linking to individual keyword pages",
+      "articles": ["bottom-of-funnel-seo-love-letter"]
+    }
+  },
+  "backlinkStrategies": {
+    "quickWins": [
+      "Product Hunt launch",
+      "BetaList launch",
+      "Podcast guest appearances",
+      "Business directories (Crunchbase, LinkedIn)",
+      "Journalist queries (HARO, Help a B2B Writer, Featured, Qwoted)"
+    ],
+    "niches": "Submit to niche directories with rich descriptions",
+    "articles": ["bottom-of-funnel-seo-love-letter", "pareto-seo"]
+  },
+  "timeSavingPrinciples": {
+    "pareto_principle": "80% of results from 20% of effort",
+    "avoid_these": [
+      "Schema markup (unless programmatic SEO)",
+      "Canonical attributes (unless migration/programmatic)",
+      "Top-of-funnel content (waste of time)",
+      "Over-optimization of technical SEO"
+    ],
+    "focus_on_these": [
+      "Google Search Console basics",
+      "70% on-page SEO rule (5 locations)",
+      "Bottom-of-funnel keywords",
+      "Low-hanging fruit (positions 6-25)",
+      "Simple backlink strategies"
+    ],
+    "articles": ["pareto-seo", "low-hanging-fruit-seo"]
+  },
+  "navigationHelper": {
+    "startHere": "pareto-seo - Get the 20% of SEO that matters",
+    "quickWins": "low-hanging-fruit-seo - 5-minute optimizations",
+    "pageNotRanking": "10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google",
+    "moreConversions": "bottom-of-funnel-seo-love-letter - Higher converting traffic",
+    "futureStrategy": "2026-seo-playbook-maximize-coverage - Multi-platform approach"
+  }
+}

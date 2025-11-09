@@ -4,7 +4,7 @@
 
 ## Purpose
 
-Practical, low-key standards your writing/code agents consult before drafting any on-site content. Built from proven local SEO practices and adapted for Astro. Focus on accuracy, clarity, and trust—no hype.
+Practical, low-key standards your writing/code agents consult before drafting any on-site content. Built from proven local SEO practices and adapted for Astro. Focus on accuracy, clarity, and trust, not hype.
 
 ## Related Documentation
 - Framework: `docs/ASTRO-5.md`
@@ -126,7 +126,7 @@ posts: defineCollection({
 ## 3) High-Intent Scenario Pages
 
 ### Goal
-Give ready-to-hire visitors the specifics they need to choose you and get in touch—without salesy tactics.
+Give ready-to-hire visitors the specifics they need to choose you and get in touch without salesy tactics.
 
 ### Must-Haves
 
@@ -643,7 +643,7 @@ faqs:
 
 ## Need Lawn Maintenance Today? We're Ready
 
-When your lawn needs immediate attention, Tender Gardens provides same-day service across Orlando. No guessing about arrival times—just reliable, professional care that shows up when promised.
+When your lawn needs immediate attention, Tender Gardens provides same-day service across Orlando. No guessing about arrival times; just reliable, professional care that shows up when promised.
 
 ### How Same-Day Service Works
 
@@ -653,7 +653,7 @@ When your lawn needs immediate attention, Tender Gardens provides same-day servi
 
 ### What to Expect
 
-Our same-day lawn maintenance includes mowing, edging, and blowing. You'll get the same thorough service as our scheduled appointments—we don't rush quality just because it's same-day.
+Our same-day lawn maintenance includes mowing, edging, and blowing. You'll get the same thorough service as our scheduled appointments; we don't rush quality just because it's same-day.
 
 ### Flat Pricing, No Surprises
 
@@ -689,7 +689,7 @@ serviceAreas:
 
 ## Professional Lawn Maintenance in Orlando
 
-Keep your lawn healthy and beautiful with consistent, reliable maintenance from Tender Gardens. We handle everything from mowing to edging to cleanup—so you can enjoy your outdoor space without the hassle.
+Keep your lawn healthy and beautiful with consistent, reliable maintenance from Tender Gardens. We handle everything from mowing to edging to cleanup, so you can enjoy your outdoor space without the hassle.
 
 ### Our Process
 
@@ -761,7 +761,7 @@ Winter Park's St. Augustine lawns are prime targets for chinch bugs in summer he
 
 Consider coontie, muhly grass, and firebush for beds that handle our summer extremes. These Winter Park natives laugh at 95°F and look better than heat-stressed annuals.
 
-Need help preparing your lawn for summer? Our [lawn maintenance service](/services/lawn-maintenance) includes proper mowing height, edging, and cleanup—setting you up for a healthier summer lawn.
+Need help preparing your lawn for summer? Our [lawn maintenance service](/services/lawn-maintenance) includes proper mowing height, edging, and cleanup, setting you up for a healthier summer lawn.
 ```
 
 ---
@@ -1023,7 +1023,7 @@ Orlando, FL 32801
 2. **During content creation**: Reference relevant sections
 3. **Before submitting**: Self-audit against §10 acceptance criteria
 4. **In PR description**: Cite sections followed, include self-audit checklist
-5. **If unsure**: Ask rather than guess—violating these rules can harm rankings
+5. **If unsure**: Ask rather than guess; violating these rules can harm rankings
 
 ---
 

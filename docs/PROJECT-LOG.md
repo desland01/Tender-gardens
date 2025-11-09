@@ -9,6 +9,35 @@ _Use this log to capture every meaningful change. Append new entries at the top 
 
 ---
 
+### 2025-11-02 · Codex
+- Scrubbed internal AI-agent guardrail language from the homepage Stage 1 section so visitors now see client-facing recaps while keeping the keyword anchors intact (`src/pages/index.astro`).
+- Validation: `npm run typecheck`.
+- Follow-up: Review other public pages for any lingering tooling or roadmap references before launch.
+
+### 2025-11-02 · Codex
+- Updated the homepage hero, meta tags, and a new Stage 1 callout section so `src/pages/index.astro` now features the exact native garden maintenance Venice FL/Sarasota and butterfly garden installation Venice/Sarasota phrases, contextual links, and the above-the-fold CTA the Edward Sturm roadmap calls for.
+- Validation: `npm run typecheck`.
+- Follow-up: Mirror the same keyword placement and internal link pattern on the two primary service pages next sprint to keep Stage 1 aligned.
+
+### 2025-11-02 · Codex
+- Added execution guardrails to the Edward Sturm roadmap so every agent logs progress, flags blockers for Jaime, and keeps the vibe-coded single-prompter context front-and-center.
+- Follow-up: Audit upcoming PR templates to make sure they call out agent-authored code per the new reminder.
+
+### 2025-11-02 · Codex
+- Framed a stage-based local visibility roadmap in `docs/EDWARD-STURM-KNOWLEDGEBASE copy.md` so agents can execute Edward Sturm tactics alongside the Venice-first plan without digging for slide decks.
+- Follow-up: Log Stage 1 publication milestones once the refreshed service pages and schema go live so the roadmap stays accountable.
+
+### 2025-11-02 · Codex
+- Pointed the team to the `edward_sturm_complete_articles.md` artifact in `docs/EDWARD-STURM-KNOWLEDGEBASE copy.md` as the first-stop resource for local ranking insights; no code changes required.
+- Follow-up: none.
+
+### 2025-11-01 · Codex
+- Reframed tone guidance in `docs/AI-Writing-Guide.md` to emphasize Jaime’s professional-first, conservation-focused voice, added direction on measured wit, and banned childish slang so every future draft lands with authority.
+- Synced agent playbooks (`agents/codex.md`, `agents/claude.md`) with the updated voice requirements, calling out the professional, habitat-minded posture we expect in all copy.
+- Replaced “glow-up” headlines across `src/pages/services/index.astro`, `src/pages/gallery.astro`, and `src/components/GalleryPreview.astro` with habitat-focused language that reinforces the seriousness of Jaime’s restoration work.
+- Updated homepage hero highlights and trust proof tiles (`src/components/HeroSection.astro`, `src/pages/index.astro`) so every visit promises a planned outcomes checklist and the maintenance label renders correctly.
+- Follow-up: Spot-check remaining marketing collateral for leftover playful phrases during the next content pass to keep tone consistent.
+
 ### 2025-10-29 · Codex
 - Rebuilt `docs/local-seo-strategy.md` around the Venice + Sarasota radius from `docs/business-info.json`, then synced `docs/seo-verification-dataforall.md` and `docs/AI-Writing-Guide.md` so agents follow the new source-of-truth hierarchy.
 - Refreshed copy guidelines in `AGENTS.md`, `agents/codex.md`, and `agents/claude.md` to enforce the verification order (business info → strategy → SERP data → UX) and Jaime’s voice.
@@ -21,12 +50,12 @@ _Use this log to capture every meaningful change. Append new entries at the top 
 - Follow-up: Capture seasonal updates of the same beds to rotate into the gallery quarterly and keep the visuals fresh for returning visitors.
 
 ### 2025-10-29 · Codex
-- Replaced the legacy Orlando-area location files with Venice, Sarasota, North Port, Englewood, Nokomis, and Osprey entries—each using field photography and conservation-focused highlights that match `docs/business-info.json`.
+- Replaced the legacy Orlando-area location files with Venice, Sarasota, North Port, Englewood, Nokomis, and Osprey entries, each using field photography and conservation-focused highlights that match `docs/business-info.json`.
 - Updated every service’s `serviceAreas` and imagery so cards reference the new coastal locations and real native plant installs.
 - Follow-up: Add Siesta Key and Laurel location entries once we have dedicated photos, then point future landing pages to these refreshed slugs.
 
 ### 2025-10-29 · Codex
-- Added a “Native Habitat Installation” service entry to spotlight full native garden conversions, using real project imagery and phased install details aligned with the situational SEO plan.
+- Added a “Native Habitat Installation” service entry to spotlight full native garden conversions, using real project imagery and phased install details aligned with the situational SEO plan. (Service page retired Oct 2025.)
 - Adjusted service ordering so the new install offering surfaces ahead of irrigation tune-ups.
 - Follow-up: Gather before/after photo sets from future installs to expand the service gallery.
 
@@ -39,7 +68,7 @@ _Use this log to capture every meaningful change. Append new entries at the top 
 - Follow-up: Consider adjusting `global.css` anchor defaults so semantic color utilities aren’t overridden project-wide.
 
 ### 2025-10-29 · Codex
-- Renamed the “Garden Design Intensive” service to “Native Habitat Design Intensive” so the card title reflects Jaime’s conservation-first voice.
+- Renamed the “Garden Design Intensive” service to “Native Habitat Design Intensive” so the card title reflects Jaime’s conservation-first voice. (Service retired Oct 2025.)
 - Follow-up: When we refresh the service-area content, update `serviceAreas` arrays to match the Venice & Sarasota map so routing stays accurate.
 
 ### 2025-10-29 · Codex
@@ -92,13 +121,13 @@ _Use this log to capture every meaningful change. Append new entries at the top 
 - **Next Actions**:
   - Create service pages optimized for verified keywords (native plant landscaping, butterfly garden installation, Florida friendly landscaping)
   - Set up Google Business Profile for Venice with category "Landscape Designer" + "Garden Center"
-  - Build content targeting educational keywords that convert to consultations (e.g., "best native plants for Florida butterflies" → butterfly garden consultation CTA)
+  - Build content targeting educational keywords that convert to garden walks or butterfly installs (e.g., "best native plants for Florida butterflies" → butterfly garden install CTA)
 - **Owner Note**: All keyword volumes verified with real data. Your positioning as native garden maintenance specialist is CORRECT - market gap confirmed with live SERP analysis.
 
 ### 2025-10-29 · Claude
 - **LOCATION CORRECTION**: Business is in Venice, FL (not Orlando/Central Florida) serving 15-mile radius (Sarasota, North Port, Englewood, Osprey, Nokomis).
 - Ran comprehensive SEO audit using Perplexity/Firecrawl (DataForSEO MCP configured but requires restart to activate).
-- **Key Finding**: Venice retiree market (median age 68.7, 80% homeownership, $74k income) is IDEAL for maintenance subscriptions—less DIY-oriented than younger demos.
+- **Key Finding**: Venice retiree market (median age 68.7, 80% homeownership, $74k income) is IDEAL for maintenance subscriptions; less DIY-oriented than younger demos.
 - **Competitive Intel**: Florida Native Plants Nursery (Sarasota) = established 1982, 25+ awards, BUT focuses retail/design not maintenance subscriptions. **Strategy**: Position as maintenance partner ("we maintain what they install") rather than direct competitor.
 - **Keyword Opportunities**: "native garden maintenance Sarasota" = moderate volume, ZERO strong competition. Long-tail maintenance keywords completely untapped.
 - **Files Shipped**:
@@ -121,7 +150,19 @@ _Use this log to capture every meaningful change. Append new entries at the top 
 ### 2025-10-28 · Codex
 - Cleared the legacy test intake folder so only the live Tender Gardens LLC submission remains under `docs/client-intake/`.
 - Synced with the `submissions` branch to confirm no additional client payloads are pending.
-- Follow-up: none—ready for the next real intake to land.
+- Follow-up: none; ready for the next real intake to land.
+
+### 2025-10-29 · Codex
+- Updated business and strategy docs to reflect Jaime’s 2014 native plant start with Williams Wildflowers and the June 14, 2024 LLC filing date. Adjusted service scope messaging (maintenance + small butterfly installs) across `docs/business-info.json`, `docs/local-seo-strategy.md`, `docs/service-pages-plan.md`, `docs/seo-verification-dataforall.md`, `docs/seo-audit-venice-2025.md`, and `docs/venice-seo-quick-wins.md`. Refreshed homepage trust indicator CTA copy in `src/pages/index.astro` to echo the revised story.
+- Logged Perplexity lookup confirming Florida document number L24000271123 corresponds to a June 14, 2024 filing.
+- Reworked copy throughout to remove unverified claims and center Jaime’s stated UVPs (Sarasota roots, solo delivery, conservation passion, trusted nursery ties, ongoing education). Updated `docs/TENDER-GARDENS-SEO-RESEARCH-SUMMARY.md`, `docs/AI-Writing-Guide.md`, `docs/business-info.json`, public SEO playbooks, and `src/pages/index.astro` accordingly.
+- Follow-up: once new homepage copy ships, audit remaining collateral (e.g., `docs/TENDER-GARDENS-SEO-RESEARCH-SUMMARY.md`, any marketing templates) for lingering full-install language so everything mirrors the maintenance-first positioning.
+
+### 2025-10-30 · Codex
+- Removed every em dash character across site and documentation, rewrote sentences for clarity, and updated `docs/AI-Writing-Guide.md` to ban their future use. Updated affected Astro components, content collections, and operational guides so punctuation stays consistent with the new rule.
+- Reworked customer-facing copy (homepage hero, services index, service blurbs) to incorporate verified situational keywords from `docs/local-seo-strategy.md` and `docs/seo-verification-dataforall.md`, and updated `docs/service-pages-plan.md` guidance to call for exact phrase placement.
+- Retired legacy design/storefront service references so the site and docs now reflect only two offers: native garden maintenance and small butterfly garden installs.
+- Follow-up: none.
 
 ### 2025-10-28 · Codex
 - Pulled down the latest client intake submissions from the `submissions` branch so they’re available under `docs/client-intake/`.

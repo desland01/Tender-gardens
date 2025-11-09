@@ -6,7 +6,7 @@
 3. Update content files in `src/content/**` and watch the site refresh.
 
 ## Edit Content Fast
-- Services → `src/content/services/*.md`
+- Services → `src/content/services/*.md` (only `native-garden-maintenance.md` and `butterfly-garden-installation.md` should exist)
 - Service areas → `src/content/locations/*.md`
 - Reviews → `src/content/reviews/*.md`
 - Global styles → `src/styles/global.css`
@@ -21,6 +21,7 @@
 - Follow the `CHECKLISTS/` folder in order.
 - Keep agents aligned with `.cursorrules` + `agents/*.md`.
 - Reference quick docs in `docs/ASTRO-5.md` and `docs/TAILWIND-4.md`.
+- Remember: the “vibe-coder” project owner only prompts; AI agents own every coding and implementation step—never hand work back to the owner as a task list.
 
 ### Client Onboarding Form
 
@@ -34,7 +35,7 @@ Production checklist:
 1. Create a GitHub Personal Access Token with `repo` scope and store it as `GITHUB_TOKEN`
 2. Add `GITHUB_OWNER=desland01` and `GITHUB_REPO=Tender-gardens` alongside the token in Vercel (Production, Preview, Development)
 3. Redeploy the project so the serverless function picks up the new environment variables
-4. Submit a quick smoke test—success returns `{ ok: true, branch: "submissions", ... }`
+4. Submit a quick smoke test; success returns `{ ok: true, branch: "submissions", ... }`
 5. When you want the data locally, run `git fetch origin submissions:submissions` and inspect `docs/client-intake/`
 6. Optional: set `RESEND_API_KEY` (plus `RESEND_FROM` if you’ve verified a custom sender; otherwise the default uses `intake@resend.dev`) so new intakes ping `desmond@grovestreetpainting.com`
 

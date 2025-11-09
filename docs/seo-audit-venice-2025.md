@@ -23,7 +23,12 @@ Venice/Sarasota market is BETTER suited for Tender Gardens than Orlando market b
 1. Older demographic = higher maintenance demand (less DIY)
 2. Higher environmental awareness = native plant interest
 3. Established competitors focus on retail/design, NOT maintenance subscriptions
-4. Strong butterfly interest (50-60 local species) = butterfly garden niche opportunity
+4. Strong local enthusiasm for butterfly and pollinator habitat = butterfly garden niche opportunity
+
+**SERVICE SCOPE GUARDRAIL (Nov 2025):**
+- Hands-on services are limited to ongoing native garden maintenance and small-scale butterfly garden installs (100-400 sq ft).
+- Jaime maintains a four-day, 20-hour workweek and works solo, with no crew management or large-scale installs.
+- Larger projects may be referred out or handled via selective collaborations with trusted native experts.
 
 ---
 
@@ -66,7 +71,7 @@ Venice/Sarasota market is BETTER suited for Tender Gardens than Orlando market b
 
 **Psychographics & Behaviors:**
 - **Environmental Consciousness**: HIGH - Growing interest in sustainability, native plants, wildlife habitat
-- **Butterfly/Pollinator Interest**: STRONG - 50-60 butterfly species in area, active Sarasota County Butterfly Club
+- **Butterfly/Pollinator Interest**: STRONG - Residents actively support butterfly gardening and local conservation groups
 - **Garden Maintenance Preference**: Professional services preferred over DIY (retiree demographic, less physical ability)
 - **Sustainability Trends**: Retirement communities actively adding native plant amenities, eco-focused landscaping
 
@@ -163,9 +168,9 @@ Venice/Sarasota market is BETTER suited for Tender Gardens than Orlando market b
 |---------|-------------------------|-------------------|---------------|----------|
 | **native garden maintenance Sarasota** | Low-Moderate (50-150) | Moderate-High | High intent, maintenance | #1 PRIMARY |
 | **butterfly garden Sarasota** | Moderate (150-300) | Moderate-High | Design + installation | #1 PRIMARY |
-| **native plant landscaping Venice FL** | Moderate (100-200) | Moderate | Installation | #2 PRIMARY |
+| **native plant landscaping Venice FL** | Moderate (100-200) | Moderate | Research (use for educational authority, qualify leads) | CONTENT SUPPORT |
 | **butterfly garden installation Venice** | Low-Moderate (50-100) | Moderate | Installation | #2 PRIMARY |
-| **pollinator garden Sarasota** | Low-Moderate (50-150) | Moderate | Education + design | #3 |
+| **pollinator garden Sarasota** | Low-Moderate (50-150) | Moderate | Education + small-scale installs | #3 |
 | **wildlife habitat garden Venice** | Low (<50) | Low | High intent, conservation | #3 |
 
 ### Long-Tail High-Intent Keywords (LOW Competition)
@@ -184,15 +189,15 @@ Venice/Sarasota market is BETTER suited for Tender Gardens than Orlando market b
 | Keyword | Purpose | Link To |
 |---------|---------|---------|
 | "best native plants for Sarasota butterfly gardens" | Authority building | Butterfly garden installation page |
-| "native plants for Venice FL coastal gardens" | Local expertise | Native landscaping service page |
+| "native plants for Venice FL coastal gardens" | Local expertise | Native garden maintenance page |
 | "seasonal butterfly garden care Florida" | Education → maintenance upsell | Maintenance service page |
-| "attract monarch butterflies Sarasota" | Lead generation | Butterfly garden consultation |
-| "low maintenance native Florida plants" | Value proposition | All service pages |
+| "attract monarch butterflies Sarasota" | Lead generation | Butterfly garden installation page |
+| "low maintenance native Florida plants" | Value proposition | Native garden maintenance page |
 
 **Keyword Strategy Insight:**
 - Primary keywords have MODERATE volume (good for small business)
 - Long-tail maintenance keywords have ZERO competition (quick wins)
-- Educational keywords can drive consultation leads
+- Educational keywords nurture maintenance walkthrough and butterfly install inquiries
 - "Subscription" language is UNTAPPED opportunity
 
 ---
@@ -257,9 +262,9 @@ Venice/Sarasota market is BETTER suited for Tender Gardens than Orlando market b
    - "Native garden maintenance costs in Venice FL"
 
 2. **Residential Scale Focus** (competitors focus on large projects):
-   - "Small butterfly garden design for Venice homes"
-   - "Backyard native habitat installation Sarasota"
-   - "Native garden makeover for small yards"
+   - "Small butterfly garden install for Venice homes"
+   - "Backyard native habitat maintenance Sarasota"
+   - "Native garden touch-ups for small yards"
 
 3. **Service-Based Content** (competitors emphasize retail):
    - "Native garden maintenance subscription Sarasota"
@@ -286,9 +291,9 @@ Venice/Sarasota market is BETTER suited for Tender Gardens than Orlando market b
 - "How to rescue a neglected native garden"
 
 **Educational + Service Hybrid:**
-- "10 best native plants for Venice butterfly gardens [+ Installation Service]"
+- "10 best native plants for Venice butterfly gardens [+ Install Service]"
 - "Native garden maintenance: DIY vs. Professional [Cost Comparison]"
-- "Creating monarch butterfly habitat in Sarasota [Design Consultation Available]"
+- "Creating monarch butterfly habitat in Sarasota [Maintenance Plan Available]"
 
 ---
 
@@ -301,7 +306,7 @@ Venice/Sarasota market is BETTER suited for Tender Gardens than Orlando market b
 1. **Venice Area Audubon Society**
    - **Opportunity**: Educational partnership, demonstration garden maintenance
    - **Link Potential**: Partner listings, conservation resources
-   - **Outreach**: Offer pro-bono native garden consultation for members
+   - **Outreach**: Offer pro-bono native garden walk for members
 
 2. **Sarasota Audubon Society**
    - **Opportunity**: Bird-friendly native garden expertise
@@ -325,10 +330,10 @@ Venice/Sarasota market is BETTER suited for Tender Gardens than Orlando market b
    - **Link Potential**: Green business directory
    - **Outreach**: Apply for Green Business Partner status
 
-6. **Sarasota County Butterfly Club**
-   - **Opportunity**: Butterfly garden expert contributor
+6. **Local Butterfly and Pollinator Groups**
+   - **Opportunity**: Share native host plant expertise with community volunteers
    - **Link Potential**: Resources, event partnerships
-   - **Outreach**: Sponsor butterfly count event, provide expertise
+   - **Outreach**: Offer seasonal maintenance tips or sponsor a neighborhood butterfly walk
 
 **Tier 3: Business Partnerships**
 
@@ -519,13 +524,14 @@ Jaime
 
 **Homepage Headline Options:**
 1. "Native Garden Maintenance You Can Count On | Venice & Sarasota"
-2. "Creating & Caring for Venice Butterfly Gardens Since 2014"
+2. "Rooted in Florida native plants since 2014 through Williams Wildflowers"
 3. "Your Native Plant Garden Deserves Expert Monthly Care"
 
 **Value Propositions (Retiree-Focused):**
 - ✅ "Low-maintenance gardens that actually are low-maintenance"
 - ✅ "Watch butterflies from your porch - we'll handle the gardening"
 - ✅ "Personal service from owner Jaime on every visit"
+- ✅ "Sarasota native with trusted local nursery relationships"
 - ✅ "Monthly care so your native garden thrives, not just survives"
 - ✅ "Professional maintenance, friendly neighborhood service"
 
@@ -533,7 +539,7 @@ Jaime
 - "Monthly native garden care - we do the weeding, you enjoy the butterflies"
 - "Butterfly garden installation designed for YOUR yard and YOUR mobility"
 - "Expert native plant care without the physical labor"
-- "Seasonal consultations to plan your garden evolution"
+- "Seasonal maintenance reviews to plan your garden evolution"
 
 ---
 
@@ -547,7 +553,7 @@ Jaime
 - ✅ Strong environmental consciousness
 - ✅ Established competitors focus on retail/design, not maintenance
 - ✅ Venice location provides geographic advantage over Sarasota competitors
-- ✅ High butterfly interest (50-60 local species)
+- ✅ Strong local enthusiasm for butterfly habitat projects
 - ✅ Partnership opportunities with major competitor (Florida Native Plants)
 
 **Challenges:**
@@ -621,7 +627,7 @@ The "maintenance-first, residential specialist" positioning is highly defensible
 
 **Website Traffic:**
 - 150+ monthly organic sessions
-- 10+ consultation form submissions per month
+- 10+ garden-walk form submissions per month
 - Top 5 rankings for primary Venice/Sarasota keywords
 
 **Business Outcomes:**

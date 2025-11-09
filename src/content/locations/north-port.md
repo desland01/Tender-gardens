@@ -9,4 +9,4 @@ serviceHighlights:
   - "Rain garden basins that manage summer downpours naturally"
   - "Bi-monthly stewardship programs to keep vigorous natives in balance"
 ---
-North Port residents often trade turf for resilient prairie-style plantings. We clear invasives, amend sandy soils, and install layered habitat mixes—think cutleaf coneflower, blazing star, and senna—that deliver color, stormwater control, and wildlife refuge without constant irrigation.
+North Port residents often trade turf for resilient prairie-style plantings. We clear invasives, amend sandy soils, and install layered habitat mixes such as cutleaf coneflower, blazing star, and senna that deliver color, stormwater control, and wildlife refuge without constant irrigation.

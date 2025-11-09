@@ -5,7 +5,9 @@
 **Date**: October 29, 2025
 **Research Method**: DataForSEO API (live keyword data) + SERP analysis
 **Location**: Venice, FL (15-mile radius: Sarasota, North Port, Englewood, Osprey, Nokomis)
-**Primary Focus**: Native plant landscaping, butterfly gardens, garden maintenance
+**Primary Focus**: Native garden maintenance and small-scale butterfly habitat installs delivered personally by Sarasota-born owner Jaime Goulet
+
+> **Service Scope Update (Nov 2025):** Jaime now limits hands-on services to ongoing native garden maintenance and handcrafted butterfly gardens. Use broader "landscaping" or design keywords for educational authority and lead filtering; do not promise full-scale landscape conversions.
 
 ---
 
@@ -15,7 +17,7 @@
 **Key Finding**: Preliminary research was ACCURATE. Native garden maintenance is severely underserved with zero local competition.
 
 ### Critical Discoveries:
-1. **Local SERP Gap Confirmed**: Zero service providers in local pack for "native plant landscaping" in Venice/Sarasota area
+1. **Local SERP Gap Confirmed**: Zero service providers in local pack for "native plant landscaping" in Venice/Sarasota area, using content to capture this traffic and route qualified leads toward maintenance/butterfly offers
 2. **Competitor Weakness**: floridanativeplants.com (main competitor) ranks for 5,211 keywords but focuses on nursery/design, NOT maintenance
 3. **Butterfly Garden Opportunity**: Educational sites dominate SERPs; no commercial installation services visible in top 10
 4. **Keyword Difficulty**: All primary targets have KD scores 13-22 (VERY attainable for new site)
@@ -35,15 +37,15 @@
 
 | Keyword | Search Volume | Competition | KD Score | CPC | Search Intent | Priority |
 |---------|---------------|-------------|----------|-----|---------------|----------|
-| **native plant landscaping** | 3,600/mo (2,000 normalized) | LOW (0.06) | 22 | $2.95 | Transactional | **#1 PRIMARY** ⭐ |
+| **native plant landscaping** | 3,600/mo (2,000 normalized) | LOW (0.06) | 22 | $2.95 | Transactional | **CONTENT AUTHORITY** (educate → qualify) |
 | **Florida native plants** | 5,400/mo (3,000 normalized) | MEDIUM (0.47) | 19 | $0.85 | Commercial | **EDUCATIONAL** |
-| **Florida friendly landscaping** | 1,000/mo (777 normalized) | LOW (0.10) | 22 | $1.02 | Commercial | **#2 PRIMARY** |
+| **Florida friendly landscaping** | 1,000/mo (777 normalized) | LOW (0.10) | 22 | $1.02 | Commercial | **CONTENT SUPPORT** |
 | **monarch butterfly garden** | 590/mo | LOW (0.30) | 13 | $0.91 | Transactional | **#2 PRIMARY** ⭐ |
-| **butterfly garden design** | 320/mo | MEDIUM (0.39) | — | $0.32 | Commercial | **#3 PRIMARY** |
+| **butterfly garden design** | 320/mo | MEDIUM (0.39) | n/a | $0.32 | Commercial | **#3 PRIMARY** |
 | **pollinator garden design** | 260/mo | MEDIUM (0.43) | 22 | $1.52 | Commercial | **#3 PRIMARY** |
-| **conservation landscaping** | 90/mo | LOW (0.14) | — | $1.95 | Navigational | **NICHE AUTHORITY** |
-| **wildlife habitat garden** | 50/mo | VERY LOW (0.01) | 17 | — | Navigational | **LONG-TAIL** ⭐ |
-| **native garden maintenance** | Not tracked nationally | — | — | — | Transactional | **#1 PRIMARY** ⭐⭐⭐ |
+| **conservation landscaping** | 90/mo | LOW (0.14) | n/a | $1.95 | Navigational | **NICHE AUTHORITY** |
+| **wildlife habitat garden** | 50/mo | VERY LOW (0.01) | 17 | n/a | Navigational | **LONG-TAIL** ⭐ |
+| **native garden maintenance** | Not tracked nationally | n/a | n/a | n/a | Transactional | **#1 PRIMARY** ⭐⭐⭐ |
 
 **Note on "native garden maintenance"**: Too niche/low volume for national tracking in DataForSEO = ZERO competition opportunity. This is your PRIMARY differentiator.
 
@@ -96,7 +98,7 @@
 - Plant nurseries (Troy's Tropics)
 - Educational organizations (Butterfly Club)
 
-**Opportunity**: No one is selling butterfly garden installation/design services in the Venice/Sarasota SERP!
+**Opportunity**: No one is selling butterfly garden installation services in the Venice/Sarasota SERP!
 
 ---
 
@@ -156,20 +158,20 @@
 - "native butterfly habitat installation" - <50/month, conservation angle
 - "small butterfly garden design" - <100/month, perfect for your scale
 
-#### Tertiary - Native Plant Landscapes
+#### Content Authority - Native Plant Landscapes (education only)
 
-- "native plant landscaping [Venice or Sarasota]" - 260-590/month, location-specific ⭐
-- "Florida-friendly landscaping" - 1,600/month, state-certified program alignment
-- "wildlife habitat garden installation" - <100/month, conservation mission
-- "native Florida garden design" - <200/month, niche positioning
-- "conservation landscaping Florida" - <50/month, mission-driven customers
+- "native plant landscaping [Venice or Sarasota]" - 260-590/month, location-specific ⭐ (publish guides, funnel to maintenance)
+- "Florida-friendly landscaping" - 1,600/month, state-certified program alignment (use as comparison, clarify service scope)
+- "wildlife habitat garden installation" - <100/month, conservation mission (position as collaborative/partner projects only)
+- "native Florida garden design" - <200/month, niche positioning (frame as DIY planning resources + maintenance CTA)
+- "conservation landscaping Florida" - <50/month, mission-driven customers (educate, highlight maintenance outcomes)
 
-#### Educational/Consultation Drivers
+#### Educational Lead Magnets & Nurture Paths
 
-- "best native plants for Florida wildlife" - <500/month, leads to consultation
-- "how to create butterfly garden Florida" - <200/month, converts to design service
-- "native plants for Southwest Florida gardens" - <300/month, location-specific expertise
-- "low maintenance native Florida garden" - <200/month, value proposition appeal
+- "best native plants for Florida wildlife" - <500/month, offer planting lists that segue into upkeep services
+- "how to create butterfly garden Florida" - <200/month, convert to butterfly install inquiries with clear project size expectations
+- "native plants for Southwest Florida gardens" - <300/month, demonstrate expertise then invite maintenance walkthroughs
+- "low maintenance native Florida garden" - <200/month, reinforce maintenance retainer benefits over one-time installs
 
 ---
 
@@ -297,12 +299,12 @@
 
 | Directory | Domain Authority | Cost | Notes |
 |-----------|-----------------|------|-------|
-| **HomeAdvisor** | 78 | PAID | Optional. Heavy HOA/large-project leads—filter for native garden inquiries only. |
+| **HomeAdvisor** | 78 | PAID | Optional. Heavy HOA/large-project leads; filter for native garden inquiries only. |
 | **Porch** | 77 | FREE/PAID | Optional. Add "native plant maintenance only" filter responses. |
 | **Angi** (Angie's List) | 76 | FREE/PAID | Optional. Keep profile but decline mowing-only requests. |
 | **Yardbook** | 38 | FREE | Landscaping-specific, lets you describe native-only services. |
 | **MeetAGardener** | 20-23 | PAID | Gardening niche; emphasize native habitat specialization. |
-| **Landscape.com** | 29 | FREE | Industry directory—specify "Residential native plant care" to deter commercial leads. |
+| **Landscape.com** | 29 | FREE | Industry directory; specify "Residential native plant care" to deter commercial leads. |
 
 ### Tier 3: Florida-Specific & Native Plant Niche
 
@@ -410,7 +412,7 @@
 **Insight**: Competitors focus on aesthetics; you focus on ecology + beauty
 **Tactic**:
 
-- Create "Conservation Impact" metrics (e.g., "Supported 50+ monarch butterflies this year")
+- Create "Conservation Impact" metrics (e.g., seasonal monarch sightings or host plants added)
 - Partner with wildlife tracking apps (iNaturalist, eBird)
 - Publish annual biodiversity reports for client gardens
 
@@ -430,7 +432,7 @@
 
 - Create comprehensive guides (like competitors) but with CTAs
 - Example: "Ultimate Guide to Florida Butterfly Gardens" → "Schedule Your Butterfly Garden Consultation"
-- Rank for informational keywords, convert to design consults
+- Rank for informational keywords, convert readers to maintenance or butterfly install inquiries
 
 ### Strategy #4: Hyperlocal Service Area Pages
 
@@ -460,7 +462,7 @@
 #### Content → Service Conversion Keywords
 
 1. "best native plants for Southwest Florida" → Native Plant Selection Service
-2. "butterfly garden design ideas Florida" → Butterfly Garden Installation
+2. "butterfly garden design ideas Florida" → Butterfly Garden Installation page
 3. "low maintenance native Florida plants" → Native Garden Maintenance
 4. "how to attract monarchs to your garden" → Butterfly Garden Consultation
 5. "Florida friendly landscaping requirements" → FFL Certified Services

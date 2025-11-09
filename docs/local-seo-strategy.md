@@ -7,10 +7,10 @@ _Source-of-truth alignment: This plan follows `docs/business-info.json` (busines
 
 ## Executive Summary
 
-Tender Gardens LLC is Jaime Goulet’s owner-operated native plant garden maintenance and installation company based in Venice, Florida. The business serves a 15-mile radius that includes Venice, Sarasota, North Port, Englewood, Osprey, Nokomis, Siesta Key, Laurel, Venice Gardens, South Venice, Plantation, Gulf Gate Estates, Vamo, Bee Ridge, Lake Sarasota, Warm Mineral Springs, and Manasota Key.  
+Tender Gardens LLC is Sarasota-born Jaime Goulet’s owner-operated native plant garden maintenance studio with small butterfly habitat installs based in Venice, Florida. The business serves a 15-mile radius that includes Venice, Sarasota, North Port, Englewood, Osprey, Nokomis, Siesta Key, Laurel, Venice Gardens, South Venice, Plantation, Gulf Gate Estates, Vamo, Bee Ridge, Lake Sarasota, Warm Mineral Springs, and Manasota Key.  
 
-**Primary goal:** Rank on page one within six months for high-intent native plant and butterfly garden keywords tied to the Venice–Sarasota coast, generating 5–10 qualified consultation inquiries per month.  
-**Core positioning:** Wildlife-supporting landscapes maintained by the owner herself, with exclusive use of Florida native plants and a maintenance-first model.
+**Primary goal:** Rank on page one within six months for high-intent native garden maintenance and butterfly garden keywords tied to the Venice–Sarasota coast, generating enough qualified leads to support 8–10 recurring accounts plus 1–2 small installs per month.  
+**Core positioning:** Wildlife-supporting landscapes maintained directly by Jaime, a Sarasota native who keeps a four-day, 20-hour workweek, nurtures long-standing nursery relationships, and occasionally partners with other native experts for larger installs.
 
 ---
 
@@ -18,41 +18,34 @@ Tender Gardens LLC is Jaime Goulet’s owner-operated native plant garden mainte
 
 Keyword volumes and difficulty scores are confirmed in `docs/seo-verification-dataforall.md`. Focus on phrases that match Jaime’s offer and service geography.
 
-### Primary High-Intent Keywords (Top 4)
+### Primary High-Intent Keywords (Top Targets)
 1. **“native garden maintenance Venice FL”** / **“native garden maintenance Sarasota”**  
    - Search intent: Homeowners seeking ongoing care for existing native gardens  
    - Competition: Zero direct providers in SERPs (highest priority)  
    - Landing page: Core services page + Venice and Sarasota service-area pages
 
 2. **“butterfly garden installation Sarasota”** / **“butterfly garden installation Venice”**  
-   - Search intent: Homeowners and venues commissioning small butterfly habitats  
+   - Search intent: Homeowners commissioning small butterfly habitats  
    - Competition: Educational sites and tourist attractions only  
-   - Landing page: Butterfly & Pollinator Garden service page
+   - Landing page: Butterfly Garden Installation service page
 
-3. **“native plant landscaping Venice”** / **“native plant landscaping Sarasota”**  
-   - Search intent: Broader native landscape projects with maintenance potential  
-   - Competition: Nurseries/design firms; none emphasize maintenance  
-   - Landing page: Native garden installation page + relevant service areas
-
-4. **“Florida friendly landscaping Venice”**  
-   - Search intent: Residents looking for sustainable, low-water landscapes  
-   - Competition: Low KD (per `seo-verification-dataforall`)  
-   - Landing page: Educational blog posts + installation page
+3. **“native plant maintenance service Venice”** / **“native plant maintenance service Sarasota”**  
+   - Search intent: Homeowners searching for ongoing care from a native plant specialist rather than a general landscaper  
+   - Competition: Sparse; most SERP results are nursery directories or DIY guides  
+   - Landing page: Native Garden Maintenance service page + relevant service areas
 
 ### Supporting Keywords (Use in copy, H2s, FAQs)
-- “pollinator garden design Venice / Sarasota”
+- “pollinator garden maintenance Venice / Sarasota”
 - “monarch butterfly garden Venice”
 - “native plant care service Venice”
 - “wildlife habitat garden Sarasota”
 - “native plant maintenance near me” (pair with geo modifiers)
-- “Florida native plant garden care”
 
 ### Long-Tail Opportunity Phrases
 - “who maintains native gardens in Venice”
 - “help identifying weeds in native garden Sarasota”
 - “monthly native garden maintenance Venice”
-- “convert lawn to native plants Venice”
-- “low maintenance native garden Venice”
+- “native garden maintenance for snowbirds Venice”
 
 Use these in FAQs, blog posts, and Google Business Profile (GBP) updates to capture conversational searches.
 
@@ -71,11 +64,11 @@ Use these in FAQs, blog posts, and Google Business Profile (GBP) updates to capt
   - Email: jaimegoulet@yahoo.com  
   - Service area: Venice, Sarasota, North Port, Englewood, Osprey, Nokomis, Siesta Key, Laurel, Venice Gardens, South Venice, Plantation, Gulf Gate Estates, Vamo, Bee Ridge, Lake Sarasota, Warm Mineral Springs, Manasota Key
 - [ ] Business hours: By appointment
-- [ ] Add services: Native Garden Maintenance, Butterfly & Pollinator Garden Installation, Native Garden Installation, Native Garden Design Consultations
+- [ ] Add services: Native Garden Maintenance, Butterfly & Pollinator Garden Installation
 
 ### Business Description (≤750 characters)
 ```
-Tender Gardens LLC is Jaime Goulet’s Venice-based native garden maintenance and installation studio. Since 2014 we have created and stewarded Florida-native landscapes, butterfly habitats, and pollinator gardens across Venice, Sarasota, North Port, Englewood, Osprey, Nokomis, and Siesta Key. We handle monthly native garden maintenance, invasive removal, seasonal refreshes, and habitat-friendly installations that keep your landscape thriving with butterflies, bees, and birds. Exclusive use of Florida native plants and personal service on every visit.
+Tender Gardens LLC is Sarasota-born Jaime Goulet’s Venice-based native garden maintenance practice. She has worked hands-on with Florida natives since 2014, beginning with Williams Wildflowers, and now personally stewards landscapes across Venice, Sarasota, North Port, Englewood, Osprey, Nokomis, and Siesta Key. Jaime handles monthly native garden maintenance and small butterfly garden installs herself, relying on trusted nursery partners and a focused four-day, 20-hour weekly schedule that keeps every visit personal, reliable, and conservation-minded.
 ```
 
 ### Photo Strategy
@@ -90,7 +83,7 @@ Publish weekly with a 4:1 give-to-ask ratio:
 - **Project highlight**: Feature a maintenance win in Venice Gardens or a new install in Siesta Key.
 - **Seasonal reminder**: Tips for fall planting, summer irrigation, or monarch migration.
 - **Educational bite**: Native plant spotlight, wildlife fact, or invasive ID.
-- **Soft CTA**: Invite prospects to “Schedule a native garden consultation in Venice.”
+- **Soft CTA**: Invite prospects to “Schedule a native garden walk in Venice.”
 
 ### Review Collection
 - After 2–3 visits, send review requests referencing the client’s city.  
@@ -103,9 +96,11 @@ Publish weekly with a 4:1 give-to-ask ratio:
 
 ### Homepage Meta & Messaging
 - **Title tag**: `Native Garden Maintenance & Butterfly Gardens | Venice & Sarasota FL`
-- **Meta description**: `Owner-operated native plant maintenance, butterfly garden installation, and habitat design across Venice and Sarasota. Schedule a native garden consultation with Jaime.`
+- **Meta description**: `Owner-operated native plant maintenance and butterfly garden installations across Venice and Sarasota. Schedule a garden walk with Jaime.`
 - **H1**: `Native Florida Gardens That Support Wildlife and Require Less Work`
 - **Intro copy**: Mention Venice, Sarasota, Osprey, and Nokomis within the first 150 words.
+- **Hero body**: Include the exact phrases `native garden maintenance Venice FL` (or `native garden maintenance in Venice, FL`) and `butterfly garden installation Sarasota` in the opening paragraph to align with priority keywords.
+- **Performance**: Target sub-2.5s Largest Contentful Paint on mobile and verify CTAs render above the fold on small screens after updates.
 
 ### Service-Area Pages (Add/Rework First 4)
 1. `/service-areas/native-garden-maintenance-venice-fl`
@@ -117,22 +112,21 @@ Publish weekly with a 4:1 give-to-ask ratio:
 1. Local intro: Reference neighborhoods (e.g., Venice Island, Lido Key).
 2. Why local homeowners love natives: Tie to wildlife, water savings.
 3. Service delivery details: Maintenance cadence, plant sourcing, invasive removal.
-4. Local plant and wildlife callouts: Mention species from business info (milkweed, passionflower, 50+ butterfly species).
+4. Local plant and wildlife callouts: Mention Florida native species from business info (e.g., milkweed, passionflower) plus Jaime’s Sarasota roots when relevant.
 5. Nearby areas served: Link to 2–3 adjacent service pages.
-6. CTA: “Schedule a native garden consultation in Venice” (link to contact).
+6. CTA: “Schedule a native garden walk in Venice” (link to contact).
 
 Include LocalBusiness + Service schema per location (update geo coordinates accordingly).
 
 ### Priority Landing Pages
-- Native Garden Maintenance (emphasize monthly retainers)
-- Butterfly & Pollinator Garden Installation
-- Native Garden Installation
-- Design Consultations
+- Native Garden Maintenance (emphasize monthly and bi-monthly retainers)
+- Butterfly & Pollinator Garden Installation (clarify small-scale, handcrafted habitats)
 
 Each page should:
 - Reference Venice/Sarasota in title tags and H1s.
 - Include testimonials once available (city callouts).
 - Mention plant sourcing partnerships (Florida Native Plants Nursery, Sweet Bay Nursery) to reinforce local expertise.
+- Answer at least one common client question (FAQ) and link to related service-area or blog content to support internal navigation.
 
 ---
 
@@ -140,28 +134,37 @@ Each page should:
 
 Publish 2 posts per month minimum, alternating between educational and local intent themes. Internal link to service pages and related posts.
 
+- Add one quick-hit Q&A post per month answering a frequently asked service question (e.g., scheduling cadence, plant selection) and link back to the relevant service page and contact form.
+
 ### High-Impact Topics
 1. **“10 Native Plants for Butterfly Gardens on the Venice Coast”**  
    - Include milkweed, passionflower, coreopsis, beautyberry.  
-   - CTA: “Design your butterfly garden in Venice.”
+   - CTA: “Plan your butterfly garden install in Venice.”
 
 2. **“Native Garden Maintenance Calendar for Sarasota & Venice”**  
    - Break down tasks by season; mention retirees preferring low-effort landscapes.  
    - CTA: “Book monthly maintenance with Jaime.”
 
-3. **“How We Convert Lawns to Native Habitat in Osprey and Nokomis”**  
-   - Show before/after, reference water savings.  
-   - Link to installation page.
+3. **“How We Install Compact Butterfly Gardens in Venice & Sarasota”**  
+   - Walk through footprint sizing, plant pairing, and establishment timeline.  
+   - CTA: “Schedule a butterfly garden install in Venice.”
 
 4. **“Butterfly Species You Can Attract in Englewood”**  
    - Highlight monarchs, swallowtails, zebra longwings.  
-   - CTA: “Schedule a butterfly garden consultation.”
+   - CTA: “Schedule a butterfly garden install.”
 
 5. **“Native Plant Weed Watch: Venice & Sarasota Invasive Lookalikes”**  
    - Help prospects understand why professional maintenance matters.  
    - CTA: “Add us to your monthly maintenance rotation.”
 
 Cross-post these articles to GBP, email, and social channels.
+
+### Under-a-Minute SEO Checklist (Edward Sturm)
+- Confirm priority local keywords appear on homepage, services, and service-area pages (title, H1, first paragraph, CTA).
+- Keep site fast on mobile (sub-2.5s LCP) and ensure tap targets, forms, and CTAs are easy to use.
+- Maintain clear, descriptive service pages with internal links to related offers and nearby service areas.
+- Keep Google Business Profile accurate, add photos regularly, and request/respond to reviews after each visit.
+- Publish concise content answering frequent client questions, then link to the corresponding service/contact path.
 
 ---
 
@@ -207,7 +210,7 @@ Maintain a spreadsheet with login credentials, listing URLs, status, and notes. 
 
 ### Nextdoor
 - Encourage satisfied clients to post recommendations in their neighborhood groups.
-- Offer “neighbor consult specials” during slow seasons (summer heat months).
+- Offer “neighbor garden walk specials” during slower seasons (summer heat months).
 
 ### Community Involvement
 - Volunteer workshops with Sarasota County Butterfly Club or Venice Area Audubon Society.

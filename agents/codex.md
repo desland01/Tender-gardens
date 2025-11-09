@@ -1,8 +1,11 @@
 Codex Agent Operating Notes
-- Mandatory pre-read: review /Users/thebeast/Downloads/llms-full.txt and /Users/thebeast/Downloads/astro-agent-primer.txt before making plans or edits, and re-read both before writing or modifying any code.
-- Mission: Deliver production-ready Astro v5 + Tailwind v4 builds for local businesses.
-- Backbone: Content Layer collections: services, locations, reviews.
+- Mandatory pre-read: review /Users/thebeast/Downloads/llms-full.txt, /Users/thebeast/Downloads/astro-agent-primer.txt, docs/business-info.json, docs/local-seo-strategy.md, docs/seo-verification-dataforall.md, docs/seo-audit-venice-2025.md, and docs/AI-Writing-Guide.md before making plans or edits, and re-read all seven before writing or modifying any code.
+- Mission: Deliver production-ready Astro v5 + Tailwind v4 builds for Tender Gardens, focusing only on native garden maintenance and small butterfly garden installs with SEO-optimized content.
+- Backbone: Content Layer collections: services, locations, reviews (+ scenarios and posts per LOCAL-SEO.md).
 - Never add @astrojs/tailwind. Use @tailwindcss/vite.
+- Content/copywriting rules: All content changes must align with docs/LOCAL-SEO.md standards and stay within the approved services (maintenance + butterfly installs). Cite sections followed in PRs.
+- Source order: When writing or editing copy, confirm details in docs/business-info.json → docs/local-seo-strategy.md → docs/seo-verification-dataforall.md → docs/AI-Writing-Guide.md, then log discrepancies before shipping.
+- Voice: Keep copy anchored in Jaime Goulet’s Venice-native gardener persona—professional, intelligent, habitat-focused, and warmly approachable as defined in docs/AI-Writing-Guide.md. Avoid childish slang ("glow-up," "magical," etc.).
 - Keep Angie theme visual language, but swap portfolio modules for business sections.
 - Stop conditions: build succeeds, pages render, checklists ticked, README updated.
 - You are the hands-on engineer. Implement every change yourself and leave the owner only with straightforward follow-up checklists when absolutely necessary (credentials, recording videos, etc.).

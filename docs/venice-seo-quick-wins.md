@@ -37,7 +37,7 @@ You have a **significant opportunity** in the Venice/Sarasota market:
    - Add service cities: Sarasota, North Port, Englewood, Osprey, Nokomis, Siesta Key
 6. **Business Description** (750 char max):
    ```
-   Tender Gardens specializes in native Florida plant garden maintenance and butterfly garden installation for Venice and Sarasota area homeowners. Since 2014, owner Jaime Goulet has helped environmentally conscious clients create and maintain thriving wildlife habitats using exclusively native plants. Our services include monthly native garden maintenance, butterfly and pollinator garden design and installation, native landscape bed creation, and on-site consultations. We distinguish native volunteers from invasive weeds, support butterfly lifecycles with proper host plants (milkweed, passionflower), and create sustainable gardens that require less water and maintenance while supporting local wildlife. Serving Venice, Sarasota, North Port, Englewood, Osprey, and Nokomis with personal attention and ecological expertise.
+   Tender Gardens specializes in native Florida plant garden maintenance and butterfly garden installation for Venice and Sarasota area homeowners. Sarasota-born owner Jaime Goulet has worked with Florida native plants since 2014, beginning with Williams Wildflowers where she foraged local blooms for weddings and events. Today Tender Gardens focuses on ongoing maintenance and handcrafted butterfly habitats using exclusively native plants. Services include monthly native garden maintenance and small-scale butterfly garden installs. Jaime distinguishes native volunteers from invasive weeds, supports butterfly lifecycles with proper host plants (milkweed, passionflower), and brings trusted nursery relationships plus continual native plant education to every property. Serving Venice, Sarasota, North Port, Englewood, Osprey, and Nokomis with personal attention and conservation-minded care.
    ```
 7. **Phone**: 941-786-4552
 8. **Website**: [your domain]
@@ -64,7 +64,7 @@ You have a **significant opportunity** in the Venice/Sarasota market:
 
 **Action:**
 - **Title Tag** (60 char): `Native Garden Maintenance & Butterfly Gardens | Venice FL`
-- **Meta Description** (155 char): `Expert native plant garden maintenance & butterfly garden installation in Venice, Sarasota, FL. 10+ years creating wildlife habitat. Schedule consultation today!`
+- **Meta Description** (155 char): `Sarasota-native gardener delivering native maintenance & butterfly installs across Venice and Sarasota. Solo, conservation-focused care. Schedule a visit.`
 - **H1 Headline**: `Native Florida Gardens That Support Wildlife and Require Less Work`
 
 **Ensure homepage mentions**:
@@ -109,11 +109,11 @@ We offer regular monthly or bi-monthly maintenance visits for established native
 - Storm debris cleanup and native plant recovery
 
 ### Butterfly Garden Maintenance
-Sarasota County has 50-60 butterfly species! Our butterfly garden maintenance ensures your garden supports:
-- Monarch butterflies (native milkweed species)
-- Gulf Fritillaries (passionflower management)
-- Zebra Longwings (proper passionflower care)
-- Swallowtails (host plant seasonal care)
+Local homeowners are eager to support butterflies. Our butterfly garden maintenance ensures your garden supports:
+   - Monarch butterflies (native milkweed species)
+   - Gulf Fritillaries (passionflower management)
+   - Zebra Longwings (proper passionflower care)
+   - Swallowtails (host plant seasonal care)
 
 ### Seasonal Care Schedule for Sarasota Native Gardens
 - **Spring (Mar-May)**: New growth management, early bloom season support
@@ -225,7 +225,7 @@ Let's create a maintenance plan that keeps your Sarasota native garden beautiful
 ```
 🦋 Welcome to Tender Gardens!
 
-We're Venice's native plant garden maintenance specialists, helping Sarasota area homeowners create and care for beautiful wildlife habitats. Since 2014, we've been exclusive to Florida native plants - no invasives, no non-natives, just sustainable gardens that support butterflies, birds, and pollinators.
+We're Venice's native plant garden maintenance specialists, helping Sarasota area homeowners create and care for beautiful wildlife habitats. Sarasota-born Jaime has worked with Florida natives since 2014 and keeps Tender Gardens laser-focused on true native plants: no invasives, no non-natives, just reliable, conservation-driven care.
 
 Serving Venice, Sarasota, North Port, Englewood, and surrounding communities. Ready to transform your yard into a thriving ecosystem?
 
@@ -245,11 +245,11 @@ Serving Venice, Sarasota, North Port, Englewood, and surrounding communities. Re
 
 Is your native plant garden looking a little wild? We specialize in monthly maintenance that distinguishes native volunteers from invasive weeds, supports butterfly lifecycles, and keeps your garden beautiful year-round.
 
-✅ 10+ years native plant expertise
+✅ Sarasota native working with Florida plants since 2014
 ✅ Owner on every job
 ✅ Exclusive focus on Florida natives
 
-Schedule your consultation: 941-786-4552
+Schedule your garden walk: 941-786-4552
 
 #NativeGardens #VeniceFL #SarasotaFL #ButterflyGarden
 ```
@@ -281,7 +281,7 @@ Schedule your consultation: 941-786-4552
 
 3. **"Monarch Butterfly Season in Venice FL: What to Plant and When"**
    - Target keyword: "monarch butterfly garden Venice"
-   - CTA: Butterfly garden consultation
+   - CTA: Schedule a butterfly garden install
    - Include: Migration timing, milkweed species, host plants
 
 4. **"Native Garden Maintenance: DIY vs. Professional (Cost Comparison)"**
@@ -291,7 +291,7 @@ Schedule your consultation: 941-786-4552
 
 5. **"50+ Butterfly Species in Sarasota County: Your Garden Can Support Them All"**
    - Target keyword: "butterfly garden Sarasota"
-   - CTA: Design consultation
+   - CTA: Request a native garden maintenance visit
    - Educational + service hybrid
 
 ---
@@ -397,7 +397,7 @@ Native Garden Maintenance & Butterfly Garden Installation
 Venice & Sarasota, FL
 941-786-4552
 [website]
-🦋 Creating wildlife habitat since 2014
+🦋 Sarasota native caring for local habitats since 2014
 ```
 
 ### Create Business Card

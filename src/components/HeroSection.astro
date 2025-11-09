@@ -36,7 +36,7 @@ const {
     <img src={pinkStar.src} alt="star" class="h-full w-full" loading="lazy" />
   </div>
 
-  <div class="mx-auto grid max-w-6xl grid-cols-1 gap-10 md:grid-cols-[1.05fr_0.95fr] md:items-center">
+  <div class="mx-auto grid max-w-6xl grid-cols-1 gap-10 md:grid-cols-[1.05fr_0.95fr] md:items-start">
     <div class="space-y-6">
       <div class="inline-flex items-center gap-3 rounded-full border-[3px] border-black bg-white px-4 py-2 text-sm font-semibold uppercase tracking-[0.3em] text-black shadow-[6px_6px_0_#111]">
         <img src={heroBadge.src} alt="Tender Gardens badge" class="h-8 w-8" loading="lazy" />
@@ -56,6 +56,15 @@ const {
           </span>
         ))}
       </h1>
+      {/* Hero image - appears between H1 and description on mobile */}
+      <div class="relative isolate mx-auto w-full max-w-lg md:hidden">
+        <div class="absolute -left-6 top-8 h-12 w-12 animate-pulse rounded-full bg-[#ffdc58]/70"></div>
+        <div class="relative overflow-hidden border-[3px] border-black bg-white shadow-[12px_12px_0_#111]">
+          <img src={heroImage} alt={heroAlt} class="h-[320px] w-full object-cover" loading="eager" />
+          <img src={ideaSvg.src} alt="idea icon" class="absolute -right-8 top-6 h-20 w-20" loading="lazy" />
+          <img src={frameSvg.src} alt="decorative frame" class="absolute -bottom-6 right-6 h-20 w-20 rotate-6" loading="lazy" />
+        </div>
+      </div>
       <p class="max-w-xl text-lg text-neutral-700 md:text-xl">{description}</p>
       <div class="flex flex-wrap gap-4">
         {ctas.map((cta) => (
@@ -68,25 +77,81 @@ const {
           </a>
         ))}
       </div>
-      <div class="grid gap-3 rounded-xl border-[3px] border-black bg-white p-5 shadow-[6px_6px_0_#111] md:grid-cols-2">
+      <div class="col-span-full grid gap-3 rounded-xl border-[3px] border-black bg-white p-5 shadow-[6px_6px_0_#111] lg:grid-cols-2">
         <div>
           <p class="text-xs uppercase tracking-[0.3em] text-neutral-500">Highlights</p>
           <ul class="mt-2 space-y-1 text-sm font-semibold">
-            <li class="flex items-center gap-2"><i class="ri-leaf-line text-lg text-brand"></i>Native garden maintenance plans</li>
+            <li class="flex items-center gap-2"><i class="ri-leaf-line text-lg text-brand"></i>Native garden maintenance plans with shared visit outcomes</li>
             <li class="flex items-center gap-2"><i class="ri-flower-line text-lg text-brand"></i>Butterfly & pollinator habitat installs</li>
           </ul>
         </div>
         <div class="rounded-lg border-2 border-dashed border-[#ffdc58]/80 bg-[#fffae5] p-4 text-sm font-medium text-neutral-700">
-          <p>“I hand-script every maintenance visit so your habitat thrives through Gulf heat, storms, and peak bloom.” — Jaime Goulet</p>
+          <p>"Every maintenance visit includes a planned outcomes checklist we review together, so your habitat handles Gulf heat, storms, and peak bloom," Jaime Goulet says.</p>
         </div>
       </div>
     </div>
-    <div class="relative isolate mx-auto w-full max-w-lg">
-      <div class="absolute -left-6 top-8 h-12 w-12 animate-pulse rounded-full bg-[#ffdc58]/70"></div>
-      <div class="relative overflow-hidden border-[3px] border-black bg-white shadow-[12px_12px_0_#111]">
-        <img src={heroImage} alt={heroAlt} class="h-[420px] w-full object-cover" loading="eager" />
-        <img src={ideaSvg.src} alt="idea icon" class="absolute -right-8 top-6 h-20 w-20" loading="lazy" />
-        <img src={frameSvg.src} alt="decorative frame" class="absolute -bottom-6 right-6 h-20 w-20 rotate-6" loading="lazy" />
+    {/* Hero image and form - desktop version (hidden on mobile) */}
+    <div class="relative isolate mx-auto hidden w-full max-w-lg flex-col gap-6 md:flex">
+      <div class="relative">
+        <div class="absolute -left-6 top-8 h-12 w-12 animate-pulse rounded-full bg-[#ffdc58]/70"></div>
+        <div class="relative overflow-hidden border-[3px] border-black bg-white shadow-[12px_12px_0_#111]">
+          <img src={heroImage} alt={heroAlt} class="h-[420px] w-full object-cover" loading="eager" />
+          <img src={ideaSvg.src} alt="idea icon" class="absolute -right-8 top-6 h-20 w-20" loading="lazy" />
+          <img src={frameSvg.src} alt="decorative frame" class="absolute -bottom-6 right-6 h-20 w-20 rotate-6" loading="lazy" />
+        </div>
+      </div>
+      
+      <div class="rounded-xl border-[3px] border-black bg-white p-6 shadow-[6px_6px_0_#111]">
+        <h3 class="mb-4 text-xl font-black uppercase">Get started</h3>
+        <form
+          class="space-y-4"
+          method="post"
+          action="https://formspree.io/f/{replace-with-form-id}"
+        >
+          <label class="block">
+            <span class="mb-2 block text-sm font-semibold uppercase tracking-wide text-neutral-700">Name</span>
+            <input
+              type="text"
+              name="name"
+              placeholder="Your name"
+              required
+              class="w-full rounded-lg border-2 border-black bg-paper px-4 py-3 text-sm font-medium text-neutral-800 placeholder:text-neutral-400 focus:outline-none focus:ring-2 focus:ring-brand"
+            />
+          </label>
+          <label class="block">
+            <span class="mb-2 block text-sm font-semibold uppercase tracking-wide text-neutral-700">Email</span>
+            <input
+              type="email"
+              name="email"
+              placeholder="your@email.com"
+              required
+              class="w-full rounded-lg border-2 border-black bg-paper px-4 py-3 text-sm font-medium text-neutral-800 placeholder:text-neutral-400 focus:outline-none focus:ring-2 focus:ring-brand"
+            />
+          </label>
+          <label class="block">
+            <span class="mb-2 block text-sm font-semibold uppercase tracking-wide text-neutral-700">Service interest</span>
+            <select
+              name="service"
+              class="w-full rounded-lg border-2 border-black bg-paper px-4 py-3 text-sm font-medium text-neutral-800 focus:outline-none focus:ring-2 focus:ring-brand"
+            >
+              <option value="">Select a service...</option>
+              <option value="maintenance">Native garden maintenance</option>
+              <option value="butterfly-install">Butterfly garden install</option>
+              <option value="both">Both services</option>
+              <option value="not-sure">Not sure yet</option>
+            </select>
+          </label>
+          <button 
+            type="submit" 
+            class="w-full inline-flex items-center justify-center gap-2 rounded-lg border-[3px] border-black bg-[#ffdc58] px-6 py-3 text-sm font-bold uppercase tracking-wide transition hover:-translate-y-1 hover:shadow-[6px_6px_0_#111]"
+          >
+            Schedule a visit
+            <i class="ri-arrow-right-up-line"></i>
+          </button>
+          <p class="text-xs text-neutral-500">
+            We'll reply within one business day with next steps.
+          </p>
+        </form>
       </div>
     </div>
   </div>

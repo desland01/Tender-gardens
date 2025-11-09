@@ -4,7 +4,7 @@ Tailwind v4 with Astro (Vite plugin)
 - Global CSS: @import "tailwindcss";
 - Customize theme tokens in @theme {} (colors, spacing, fonts).
 - Upgrade v3 → v4: npx @tailwindcss/upgrade, then review renamed utilities (e.g., shadow-sm→shadow-xs, outline-none→outline-hidden, ring→ring-3).
-- v4 uses the bundler to detect class usage—no content[] array needed.
+- v4 uses the bundler to detect class usage, so no content[] array is needed.
 
 Example theme tokens:
 @theme {

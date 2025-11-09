@@ -3,10 +3,10 @@
 This guide distills Alex Hormozi's marketing teachings into a practical process for every agent who writes copy for Tender Gardens. **Read and follow this document _before_ drafting or revising any marketing content.** It works alongside the required pre-reads and must be applied after verifying higher-priority sources.
 
 ### Source-of-Truth Order (Review in this sequence every time)
-1. `docs/business-info.json` — definitive facts about the business, owner (Jaime Goulet), services, differentiators, and service areas.
-2. `docs/local-seo-strategy.md` — current campaign focus, priority keywords, and geographic targets.
-3. `docs/seo-verification-dataforall.md` — validated keyword volumes, SERP gaps, and competitive positioning.
-4. `docs/AI-Writing-Guide.md` — tone, structure, and offer framing guidelines (this file).
+1. `docs/business-info.json`: definitive facts about the business, owner (Jaime Goulet), services, differentiators, and service areas.
+2. `docs/local-seo-strategy.md`: current campaign focus, priority keywords, and geographic targets.
+3. `docs/seo-verification-dataforall.md`: validated keyword volumes, SERP gaps, and competitive positioning.
+4. `docs/AI-Writing-Guide.md`: tone, structure, and offer framing guidelines (this file).
 
 If any conflicts arise, defer to the higher-ranked document and flag the discrepancy in `docs/PROJECT-LOG.md` before publishing.
 
@@ -30,11 +30,11 @@ Every paragraph should either increase the numerator or shrink the denominator. 
 ### Grand Slam Offers & $100M Offers Principles
 
 1. **Define the dream outcome** for the exact audience segment.
-2. **List every obstacle** stopping them from hiring us (budget, time, design overwhelm, compliance).
+2. **List every obstacle** stopping them from hiring us (budget, time, maintenance overwhelm, compliance).
 3. **Stack solutions** that remove those obstacles (financing, seasonal upkeep, HOA paperwork support).
 4. **Trim low-value components** so the final bundle feels premium but focused.
 5. **Price on value, not cost:** Frame price against the 10× value (increased bookings, venue buzz, higher property value).
-6. **Risk reversal:** Pair guarantees (design revisions, satisfaction checks) with clear next steps.
+6. **Risk reversal:** Pair guarantees (first maintenance review, establishment checks) with clear next steps.
 7. **Urgency + scarcity:** Time-bound bonuses, limited install windows, or seasonal discounts.
 
 ### $100M Leads Guidance
@@ -54,10 +54,17 @@ Every paragraph should either increase the numerator or shrink the denominator. 
 
 ## 2. Voice & Tone Checklist
 
-- **Embodied persona:** Write in Jaime Goulet’s voice—a Venice-based, friendly female founder with soil under her nails. Use first-person plural (“we”) for the crew and first-person singular (“I”) sparingly when Jaime shares personal stories or field lessons.
+- **Embodied persona:** Write in Jaime Goulet’s voice, a Venice-based, friendly female founder with soil under her nails. Use first-person plural (“we”) for the crew and first-person singular (“I”) sparingly when Jaime shares personal stories or field lessons.
+- **Service scope clarity:** Keep copy centered on ongoing native garden maintenance and handcrafted butterfly habitat installs. Larger installs are rare and should be framed as selective collaborations with trusted native experts, not standard offers.
+- **Professional-first warmth:** Lead with Jaime’s intelligence and field expertise so she’s taken seriously, then layer in approachable, friendly phrasing. Reserve playful banter for one-on-one asides; never let copy read as flippant.
+- **Lifestyle boundaries respected:** When capacity comes up, reinforce her four-day, 20-hour workweek and preference for working solo as a strength that protects quality.
+- **Rooted credibility:** Weave in her Sarasota upbringing, long-standing nursery relationships, and ongoing native plant education when they reinforce trust.
+- **Habitat advocacy:** Treat habitat restoration as essential work. Spotlight how each service protects pollinators, water, and soil health without sounding preachy.
+- **Measured wit:** A hint of dry humor is welcome when it reinforces confidence, but never joke in ways that make the work sound casual or cute.
+- **Punctuation discipline:** Avoid em dashes; choose commas, semicolons, or periods instead.
 
-- **Plain-language confidence:** Short sentences, strong verbs, zero fluff. Favor concrete nouns over abstractions.
-- **Authoritative warmth:** Blend expertise with neighborly care—sound like the gardener next door who happens to know native plants inside and out.
+- **Plain-language confidence:** Short sentences, strong verbs, zero fluff. Favor concrete nouns over abstractions. Replace trendy slang (e.g., “glow-up,” “magical”) with precise habitat-focused language.
+- **Authoritative warmth:** Blend expertise with neighborly care, sound like the gardener next door who happens to know native plants inside and out.
 - **Evidence-rich storytelling:** Use mini case studies, before/after snapshots, or quantified anecdotes for credibility.
 - **Authenticity beats hype:** Root examples in real projects, local neighborhoods, and seasonal rhythms Venice clients recognize.
 - **Urgency that feels earned:** Tie deadlines to seasonal planting windows, vendor availability, or event calendars.
@@ -87,10 +94,10 @@ Before publishing, read the copy aloud. If any sentence feels awkward, jargon-he
 
 - **Outcome Headline:** “Transform `[venue type]` into `[specific benefit]` in `[time frame]` without `[major pain].`”
 - **Proof Block:** “`[Client]` booked `[result metric]` more events after `[specific action we handled]`.”
-- **CTA:** “Schedule a 20-minute design consult” + microcopy on what happens next.
+- **CTA:** “Schedule a native garden walk” + microcopy on what happens next.
 - **Risk Reversal:** “If you’re not thrilled after the first bloom cycle, we’ll replant at no additional cost.”
 
-Adapt templates—never copy-paste. Tailor every element to the audience and the offer bundle you created.
+Adapt templates; never copy-paste. Tailor every element to the audience and the offer bundle you created.
 
 ---
 
@@ -102,7 +109,7 @@ Adapt templates—never copy-paste. Tailor every element to the audience and the
 - Have we removed unnecessary effort and highlighted speed?
 - Is there a compelling reason to act before the next season?
 - Did we integrate SEO focus keywords naturally?
-- Does it sound like Jaime—our Venice-based native gardener—speaking directly to neighbors and venue partners?
+- Does it sound like Jaime, our Venice-based native gardener, speaking directly to neighbors and venue partners?
 
 If any answer is “no,” revise before sharing or publishing.
 

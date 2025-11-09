@@ -15,12 +15,85 @@ const { locations = [] } = Astro.props satisfies Props;
 <section class="px-4 pb-20 sm:px-6">
   <div class="mx-auto max-w-6xl rounded-3xl border-[3px] border-black bg-paper p-8 shadow-[10px_10px_0_#111]">
     <div class="flex flex-col gap-6 md:flex-row md:items-start md:justify-between">
-      <div class="max-w-md space-y-3">
+      <div class="max-w-md space-y-4">
         <p class="text-xs uppercase tracking-[0.35em] text-brand">Service areas</p>
         <h2 class="text-3xl font-black uppercase md:text-4xl">We tend to habitats across the Venice coast</h2>
-        <p class="text-sm text-neutral-600">
-          From Venice Island cottages to Siesta Key courtyards and Sarasota storefront patios, the Tender Gardens crew brings native planting plans and reliable maintenance visits.
+        <p class="text-sm font-medium text-neutral-700">
+          From Venice Island cottages to Siesta Key courtyards, the Tender Gardens crew brings:
         </p>
+        <ul class="space-y-3">
+          <li class="flex items-start gap-3">
+            <i class="ri-plant-line text-xl text-brand flex-shrink-0 mt-0.5"></i>
+            <span class="text-sm text-neutral-600"><strong class="font-semibold text-neutral-800">Native planting plans</strong> tailored to your coastal microclimate and soil conditions</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <i class="ri-calendar-check-line text-xl text-brand flex-shrink-0 mt-0.5"></i>
+            <span class="text-sm text-neutral-600"><strong class="font-semibold text-neutral-800">Recurring maintenance visits</strong> that keep your habitat thriving through Gulf heat, storms, and peak bloom seasons</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <i class="ri-flower-line text-xl text-brand flex-shrink-0 mt-0.5"></i>
+            <span class="text-sm text-neutral-600"><strong class="font-semibold text-neutral-800">Handcrafted butterfly gardens</strong> designed to attract pollinators and support local ecosystem health</span>
+          </li>
+          <li class="flex items-start gap-3">
+            <i class="ri-file-list-3-line text-xl text-brand flex-shrink-0 mt-0.5"></i>
+            <span class="text-sm text-neutral-600"><strong class="font-semibold text-neutral-800">Visit recaps and outcomes tracking</strong> so you always know what we tuned, what we observed, and what blooms to expect next</span>
+          </li>
+        </ul>
+        
+        <div class="mt-6 rounded-2xl border-[3px] border-black bg-white p-6 shadow-[8px_8px_0_#111]">
+          <h3 class="mb-4 text-lg font-black uppercase">Ready to get started?</h3>
+          <form
+            class="space-y-3"
+            method="post"
+            action="https://formspree.io/f/{replace-with-form-id}"
+          >
+            <div class="grid gap-3 sm:grid-cols-2">
+              <label class="block">
+                <span class="sr-only">Name</span>
+                <input
+                  type="text"
+                  name="name"
+                  placeholder="Your name"
+                  required
+                  class="w-full rounded-lg border-2 border-black bg-paper px-4 py-2.5 text-sm font-medium text-neutral-800 placeholder:text-neutral-400 focus:outline-none focus:ring-2 focus:ring-brand"
+                />
+              </label>
+              <label class="block">
+                <span class="sr-only">Email</span>
+                <input
+                  type="email"
+                  name="email"
+                  placeholder="your@email.com"
+                  required
+                  class="w-full rounded-lg border-2 border-black bg-paper px-4 py-2.5 text-sm font-medium text-neutral-800 placeholder:text-neutral-400 focus:outline-none focus:ring-2 focus:ring-brand"
+                />
+              </label>
+            </div>
+            <label class="block">
+              <span class="sr-only">Service interest</span>
+              <select
+                name="service"
+                class="w-full rounded-lg border-2 border-black bg-paper px-4 py-2.5 text-sm font-medium text-neutral-800 focus:outline-none focus:ring-2 focus:ring-brand"
+              >
+                <option value="">Select a service...</option>
+                <option value="maintenance">Native garden maintenance</option>
+                <option value="butterfly-install">Butterfly garden install</option>
+                <option value="both">Both services</option>
+                <option value="not-sure">Not sure yet</option>
+              </select>
+            </label>
+            <button 
+              type="submit" 
+              class="w-full inline-flex items-center justify-center gap-2 rounded-lg border-[3px] border-black bg-[#ffdc58] px-6 py-3 text-sm font-bold uppercase tracking-wide transition hover:-translate-y-1 hover:shadow-[6px_6px_0_#111]"
+            >
+              Schedule a visit
+              <i class="ri-arrow-right-up-line"></i>
+            </button>
+            <p class="text-xs text-neutral-500">
+              We'll reply within one business day with next steps.
+            </p>
+          </form>
+        </div>
       </div>
       <div class="grid flex-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {locations.slice(0, 6).map((location) => (

@@ -1,0 +1,208 @@
+---
+interface GalleryImage {
+  src: string;
+  alt: string;
+}
+
+interface Props {
+  images: GalleryImage[];
+  title?: string;
+}
+
+const {
+  images = [],
+  title = "Recent native habitat work",
+} = Astro.props satisfies Props;
+---
+
+<section class="px-4 pb-20 sm:px-6">
+  <div class="mx-auto max-w-6xl">
+    <div class="mb-8">
+      <p class="text-xs uppercase tracking-[0.35em] text-brand">Gallery</p>
+      <h2 class="mt-2 text-3xl font-black uppercase md:text-4xl">{title}</h2>
+    </div>
+    
+    <div class="relative">
+      <div class="overflow-x-auto scrollbar-hide snap-x snap-mandatory scroll-smooth -mx-4 px-4 md:mx-0 md:px-0" id="gallery-carousel">
+        <div class="flex gap-4 pb-4">
+          {images.map((image, index) => (
+            <figure class="relative flex-shrink-0 w-[calc(100vw-2rem)] snap-center snap-always overflow-hidden rounded-2xl border-[3px] border-black bg-white shadow-[8px_8px_0_#111] md:w-80">
+              <img 
+                src={image.src} 
+                alt={image.alt} 
+                class="h-64 w-full object-cover md:h-64"
+                loading={index < 2 ? "eager" : "lazy"}
+              />
+            </figure>
+          ))}
+        </div>
+      </div>
+      
+      <div class="mt-6 flex items-center justify-center gap-4">
+        <button 
+          class="rounded-full border-2 border-black bg-white p-3 text-black transition hover:bg-[#ffdc58] disabled:opacity-50 disabled:cursor-not-allowed"
+          id="carousel-prev"
+          aria-label="Previous image"
+        >
+          <i class="ri-arrow-left-line text-xl"></i>
+        </button>
+        <div class="flex gap-2" id="carousel-dots"></div>
+        <button 
+          class="rounded-full border-2 border-black bg-white p-3 text-black transition hover:bg-[#ffdc58] disabled:opacity-50 disabled:cursor-not-allowed"
+          id="carousel-next"
+          aria-label="Next image"
+        >
+          <i class="ri-arrow-right-line text-xl"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
+
+<script>
+  const carousel = document.getElementById('gallery-carousel');
+  const prevButton = document.getElementById('carousel-prev');
+  const nextButton = document.getElementById('carousel-next');
+  const dotsContainer = document.getElementById('carousel-dots');
+  
+  if (carousel && prevButton && nextButton && dotsContainer) {
+    const images = carousel.querySelectorAll('figure');
+    const totalImages = images.length;
+    let currentIndex = 0;
+    let isScrolling = false;
+    let scrollTimeout: ReturnType<typeof setTimeout>;
+    
+    // Calculate image width dynamically
+    function getImageWidth() {
+      const firstImage = images[0] as HTMLElement;
+      if (!firstImage) return 0;
+      const style = window.getComputedStyle(firstImage);
+      const width = firstImage.offsetWidth;
+      const marginRight = parseInt(style.marginRight) || 16;
+      return width + marginRight;
+    }
+    
+    // Create dots
+    images.forEach((_, index) => {
+      const dot = document.createElement('button');
+      dot.className = `h-2 w-2 rounded-full transition ${index === 0 ? 'bg-black' : 'bg-black/30'}`;
+      dot.setAttribute('aria-label', `Go to image ${index + 1}`);
+      dot.addEventListener('click', () => {
+        currentIndex = index;
+        updateCarousel();
+      });
+      dotsContainer.appendChild(dot);
+    });
+    
+    const dots = dotsContainer.querySelectorAll('button');
+    
+    function updateCarousel() {
+      const imageWidth = getImageWidth();
+      carousel.scrollTo({
+        left: currentIndex * imageWidth,
+        behavior: 'smooth'
+      });
+      
+      // Update dots
+      dots.forEach((dot, index) => {
+        dot.className = `h-2 w-2 rounded-full transition ${index === currentIndex ? 'bg-black' : 'bg-black/30'}`;
+      });
+      
+      // Update button states
+      prevButton.disabled = currentIndex === 0;
+      nextButton.disabled = currentIndex === totalImages - 1;
+    }
+    
+    function updateFromScroll() {
+      if (isScrolling) return;
+      
+      const imageWidth = getImageWidth();
+      const scrollLeft = carousel.scrollLeft;
+      const newIndex = Math.round(scrollLeft / imageWidth);
+      
+      if (newIndex !== currentIndex && newIndex >= 0 && newIndex < totalImages) {
+        currentIndex = newIndex;
+        dots.forEach((dot, index) => {
+          dot.className = `h-2 w-2 rounded-full transition ${index === currentIndex ? 'bg-black' : 'bg-black/30'}`;
+        });
+        prevButton.disabled = currentIndex === 0;
+        nextButton.disabled = currentIndex === totalImages - 1;
+      }
+    }
+    
+    prevButton.addEventListener('click', () => {
+      if (currentIndex > 0) {
+        currentIndex--;
+        updateCarousel();
+      }
+    });
+    
+    nextButton.addEventListener('click', () => {
+      if (currentIndex < totalImages - 1) {
+        currentIndex++;
+        updateCarousel();
+      }
+    });
+    
+    // Handle scroll events with debouncing
+    carousel.addEventListener('scroll', () => {
+      clearTimeout(scrollTimeout);
+      scrollTimeout = setTimeout(() => {
+        updateFromScroll();
+      }, 100);
+    });
+    
+    // Handle scroll end (for better snap detection)
+    carousel.addEventListener('scrollend', () => {
+      updateFromScroll();
+      // Ensure we're snapped to the nearest image
+      const imageWidth = getImageWidth();
+      const scrollLeft = carousel.scrollLeft;
+      const nearestIndex = Math.round(scrollLeft / imageWidth);
+      if (nearestIndex !== currentIndex) {
+        currentIndex = Math.max(0, Math.min(nearestIndex, totalImages - 1));
+        updateCarousel();
+      }
+    });
+    
+    // Initialize
+    updateCarousel();
+    
+    // Update on resize
+    let resizeTimeout: ReturnType<typeof setTimeout>;
+    window.addEventListener('resize', () => {
+      clearTimeout(resizeTimeout);
+      resizeTimeout = setTimeout(() => {
+        updateCarousel();
+      }, 250);
+    });
+  }
+</script>
+
+<style>
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  
+  #gallery-carousel {
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    overscroll-behavior-x: contain;
+  }
+  
+  #gallery-carousel figure {
+    scroll-snap-align: center;
+    scroll-snap-stop: always;
+  }
+  
+  @media (min-width: 768px) {
+    #gallery-carousel figure {
+      scroll-snap-align: start;
+    }
+  }
+</style>
+

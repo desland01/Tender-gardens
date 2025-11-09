@@ -3,8 +3,8 @@
 **Date**: October 29, 2025  
 **Business**: Tender Gardens LLC  
 **Owner**: Jaime Goulet  
-**Primary Service**: Native Garden Maintenance  
-**Service Area**: 10-mile radius, Central Florida
+**Primary Service**: Native garden maintenance with selective small-scale butterfly installs  
+**Service Area**: 15-mile radius around Venice & Sarasota, FL
 
 ---
 
@@ -16,7 +16,7 @@ Using Perplexity AI, comprehensive research was conducted on:
    - Service offerings and business models in the native plant industry
    - Market trends and growth projections (9% CAGR for eco-conscious landscaping)
    - Customer demographics and buying behavior
-   - Typical pricing structures for maintenance and installation services
+   - Typical pricing structures for maintenance and butterfly install services
    - Industry challenges and opportunities
 
 2. **Local SEO Keywords for Native Plant Services**
@@ -41,7 +41,7 @@ Using Perplexity AI, comprehensive research was conducted on:
 
 Comprehensive business information file including:
 - Business identity and contact information
-- Detailed service descriptions (maintenance, butterfly gardens, installations, consultations)
+- Detailed service descriptions (maintenance and butterfly gardens)
 - Target customer profiles and pain points
 - Competitive positioning and differentiators
 - Marketing messages and CTAs
@@ -50,9 +50,10 @@ Comprehensive business information file including:
 
 **Key Insights**:
 - Positioned as specialized boutique service with conservation focus
-- Primary target: Eco-conscious homeowners 35-65, college-educated
+- Primary target: Eco-conscious homeowners 55-75 across Venice and Sarasota who value native habitat maintenance
+- Sarasota-born owner delivers every visit personally and maintains trusted nursery relationships
 - Premium pricing strategy (15-25% above general landscaping)
-- Maintenance-first business model with 8-12 monthly clients capacity
+- Maintenance-first business model capped at 8-10 monthly clients to protect a four-day, 20-hour workweek
 
 ---
 
@@ -123,7 +124,7 @@ Enhanced the original client intake with:
 - Months 4-6: Scale and refine
 
 **Success Metrics (6 Months)**:
-- 5-10 consultation inquiries per month from organic search
+- 5-10 garden walk inquiries per month from organic search
 - Top 3 rankings for 2-3 primary keywords
 - 15+ Google reviews with 4.8+ average
 - Google Business Profile in local pack
@@ -150,7 +151,7 @@ Enhanced the original client intake with:
 #### Page 3: Florida Native Plant Landscaping in [Primary City]
 - Target: "Florida native plant landscaping [city]"
 - 900-1100 word outline
-- Focus: Full landscape installations, lawn conversions, design process
+- Focus: Native garden maintenance cadence, small butterfly installs, seasonal stewardship
 - Implementation: Month 2
 
 #### Page 4: Native Garden Maintenance in [Secondary City]
@@ -187,7 +188,7 @@ Enhanced the original client intake with:
 1. **Exclusive Florida Natives Focus** - Not a side service, it's THE service
 2. **Butterfly Garden Specialization** - Strong differentiator, high search intent
 3. **Maintenance-First Approach** - Recurring revenue, long-term relationships
-4. **10+ Years Experience** - Credibility since 2014
+4. **10+ Years Experience** - Hands-on with Florida natives since 2014 (Williams Wildflowers), LLC filed June 14, 2024
 5. **Owner-Operator Personal Service** - Quality over volume
 
 ### Business Positioning
@@ -195,7 +196,7 @@ Enhanced the original client intake with:
 **Do Position As**: Specialized native plant expert for eco-conscious homeowners who value wildlife habitat and personalized service
 
 ### Realistic Capacity Planning
-- **Current Capacity**: 8-12 monthly maintenance clients + 2-4 installations per season
+- **Current Capacity**: 8-10 monthly maintenance clients + 1-2 butterfly installs per month (schedule permitting)
 - **Service Area**: Keep 10-mile radius for quality and efficiency
 - **Project Types**: Residential only, no large commercial
 - **Growth Path**: Build maintenance base first, installations as schedule allows
@@ -285,7 +286,7 @@ Enhanced the original client intake with:
 ### Month 4-6: Early Results Phase
 - Pages indexed and starting to rank
 - Rankings for long-tail keywords (positions 5-20)
-- First organic consultation inquiries (1-3/month)
+- First organic garden walk inquiries (1-3/month)
 - **Expected Results**: 5-10 organic inquiries per month
 
 ### Month 7-12: Growth Phase
@@ -368,7 +369,7 @@ By Month 6, you should have:
 - ✅ Ranking in top 10 for "butterfly garden installation [primary city]"
 - ✅ 3-5 service area pages published with 800+ words each
 - ✅ 5-10 blog posts published on native plant topics
-- ✅ 5-10 qualified consultation inquiries per month from organic search
+- ✅ 5-10 qualified garden walk inquiries per month from organic search
 - ✅ 2-4 new maintenance clients signed from SEO leads
 
 If you hit these metrics at 6 months, you'll be well-positioned to scale your business through organic search as your primary marketing channel.
@@ -392,4 +393,3 @@ Start with the First 30 Days action items. Build momentum. Adjust based on what 
 ---
 
 **Questions or need clarification on any strategy component? All the details are in the four core documents created from this research.**
-

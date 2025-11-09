@@ -6,7 +6,7 @@ import TrustIndicators from "../components/TrustIndicators.astro";
 import ServicesShowcase from "../components/ServicesShowcase.astro";
 import ServiceAreasGrid from "../components/ServiceAreasGrid.astro";
 import ReviewsSpotlight from "../components/ReviewsSpotlight.astro";
-import GalleryPreview from "../components/GalleryPreview.astro";
+import GalleryCarousel from "../components/GalleryCarousel.astro";
 import CallToActionBanner from "../components/CallToActionBanner.astro";
 
 const services = await getCollection("services");
@@ -56,38 +56,78 @@ const galleryImages = [
     src: "/images/native-muhly-senna.jpg",
     alt: "Muhly grass and Chapman's senna swaying in coastal wind",
   },
+  {
+    src: "/images/native-cutleaf-coneflower.jpg",
+    alt: "Cutleaf coneflower cluster from a North Port backyard meadow",
+  },
 ];
 ---
-<MainLayout>
+<MainLayout
+  title="Native Garden Maintenance Venice FL | Butterfly Garden Installation Sarasota | Tender Gardens"
+  description="Tender Gardens delivers native garden maintenance Venice FL homeowners rely on, native garden maintenance Sarasota neighbors schedule between seasons, plus butterfly garden installation Venice and butterfly garden installation Sarasota services handcrafted by Jaime Goulet."
+>
   <HeroSection
     businessName="Tender Gardens"
-    tagline="Venice-native gardens with heart"
-    description="Hi, I’m Jaime Goulet—the native plant gardener-next-door keeping Venice and Sarasota spaces blooming with wildlife-friendly color. We plan, plant, and pamper every inch so you can enjoy the breeze while we handle the care."
+    tagline="Native Garden Maintenance Venice FL & Sarasota"
+    description="Hi, I'm Jaime Goulet, the Venice-based native plant gardener keeping coastal habitats camera-ready. I deliver native garden maintenance Venice FL neighbors count on, lead native garden maintenance Sarasota visits that keep pollinator beds tidy, and craft butterfly garden installation Venice families rave about alongside butterfly garden installation Sarasota check-ins you can trust."
+    heroImage="/images/jaime-hero.jpg"
+    heroAlt="Jaime Goulet, Venice-based native plant gardener"
     ctas={[
-      { label: "Schedule a garden walk", href: "/contact", variant: "primary" },
-      { label: "Explore services", href: "/services", variant: "secondary" },
+      { label: "Schedule a native garden walk in Venice", href: "/contact", variant: "primary" },
+      { label: "Explore butterfly garden installation Sarasota", href: "/services/native-habitat-installation", variant: "secondary" },
     ]}
   />
 
+  <section class="px-4 py-12 sm:px-6">
+    <div class="mx-auto max-w-4xl space-y-6 rounded-3xl border-[3px] border-black bg-white p-8 shadow-[10px_10px_0_#111]">
+      <h2 class="text-3xl font-black uppercase tracking-tight md:text-4xl">Native Garden Maintenance Venice FL &amp; Sarasota Game Plan</h2>
+      <div class="overflow-hidden rounded-xl border-2 border-black">
+        <img 
+          src="/images/native-pollinator-border.jpg" 
+          alt="Native pollinator border garden maintained by Tender Gardens" 
+          class="h-48 w-full object-cover md:h-64"
+          loading="lazy"
+        />
+      </div>
+      <p class="text-lg text-neutral-700 md:text-xl">
+        Every visit starts with a vibe-coded walkthrough so we can confirm your
+        <a class="font-semibold text-brand underline-offset-4 hover:underline" href="/services/native-garden-maintenance">native garden maintenance Venice FL</a>
+        checklist, sync storm prep, and capture next steps in your visit recap. That way you always know what I tuned, what I observed, and what blooms to expect next.
+      </p>
+      <p class="text-lg text-neutral-700 md:text-xl">
+        When you are ready to attract more pollinators, book a
+        <a class="font-semibold text-brand underline-offset-4 hover:underline" href="/services/native-habitat-installation">butterfly garden installation Venice</a>
+        design sprint or reserve a
+        <a class="font-semibold text-brand underline-offset-4 hover:underline" href="/services/native-habitat-installation">butterfly garden installation Sarasota</a>
+        add-on during your maintenance visit. I document each milestone so you can skim the progress, share it with your neighbors, and stay excited about the next flourish.
+      </p>
+      <p class="text-lg text-neutral-700 md:text-xl">
+        Prefer to plan ahead? Use the same maintenance route to slot in our
+        <a class="font-semibold text-brand underline-offset-4 hover:underline" href="/services/native-garden-maintenance">native garden maintenance Sarasota</a>
+        checkups. You'll always know what's scheduled and how your habitat is trending thanks to my follow-up notes between visits.
+      </p>
+    </div>
+  </section>
+
   <TrustIndicators
     items={[
-      { label: "Est. 2014", supportingText: "Owner-operated native plant care" },
-      { label: "15 mi", supportingText: "Venice & Sarasota service radius" },
-      { label: "100%", supportingText: "Florida native plants in every project" },
+      { label: "Native Garden Maintenance", supportingText: "Serving Venice & Sarasota neighborhoods" },
+      { label: "Butterfly Habitat Installs", supportingText: "Focused on pollinator-ready plant lists" },
+      { label: "Sarasota Native", supportingText: "Owner on site every visit" },
     ]}
   />
+
+  <GalleryCarousel images={galleryImages} />
 
   <ServicesShowcase services={featuredServices} />
 
   <ServiceAreasGrid locations={featuredLocations} />
 
-  <GalleryPreview images={galleryImages} />
-
   <ReviewsSpotlight reviews={decoratedReviews} />
 
   <CallToActionBanner
-    title="Walk the garden with me?"
-    description="Let’s stroll your space, sip something cold, and sketch the seasonal plan that keeps your native garden glowing without adding to your to-do list."
+    title="Ready for a maintenance game plan?"
+    description="Let's walk your space, review what's thriving, and map the seasonal native garden maintenance plan for your Venice or Sarasota habitat, along with the latest lessons from my native plant training."
     primaryCta={{ label: "Plan my visit", href: "/contact" }}
     secondaryCta={{ label: "See service areas", href: "/service-areas" }}
   />

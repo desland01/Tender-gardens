@@ -76,10 +76,13 @@ All components are server-rendered with no client-side hydration by default.
 ## Critical Rules from .cursorrules
 
 1. **NEVER add `@astrojs/tailwind`** - Only use `@tailwindcss/vite` (already configured in `astro.config.mjs`)
-2. **Mandatory pre-reads**: Before ANY code changes, read `/Users/thebeast/Downloads/llms-full.txt` AND `/Users/thebeast/Downloads/astro-agent-primer.txt`
+2. **Mandatory pre-reads**: Before ANY code changes, read:
+   - `/Users/thebeast/Downloads/llms-full.txt`
+   - `/Users/thebeast/Downloads/astro-agent-primer.txt`
+   - `docs/LOCAL-SEO.md` (mandatory for all content/copywriting work)
 3. **Server-first**: Prefer zero/low JS, avoid adding client-side frameworks unless explicitly required
 4. **Content Layer**: Use Astro's Content Layer API (`getCollection`) for all content operations
-5. **Follow reference docs**: Check `docs/ASTRO-5.md` and `docs/TAILWIND-4.md` for framework-specific guidance
+5. **Follow reference docs**: Check `docs/ASTRO-5.md`, `docs/TAILWIND-4.md`, and `docs/LOCAL-SEO.md` for framework-specific guidance
 6. **Before merge**: Always run `npm run build && npm run preview` to verify production builds
 
 ## SEO & Analytics

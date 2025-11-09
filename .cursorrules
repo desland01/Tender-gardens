@@ -2,6 +2,7 @@
 goals:
   - Mandatory: before any planning or edits, read /Users/thebeast/Downloads/llms-full.txt AND /Users/thebeast/Downloads/astro-agent-primer.txt fully and keep both open as reference; re-read both before writing or modifying any code.
   - Build and maintain an Astro v5 + Tailwind v4 site.
+  - Keep site content limited to native garden maintenance and small butterfly garden installs; do not introduce other service offerings.
   - Prefer zero/low JS, server-first rendering, Content Layer for content.
   - Keep changes aligned with docs/ASTRO-5.md and docs/TAILWIND-4.md.
 defaults:

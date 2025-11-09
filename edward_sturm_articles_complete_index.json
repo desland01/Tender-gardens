@@ -1,0 +1,3065 @@
+{
+  "version": "1.0",
+  "generated": "2025-11-02T01:10:59Z",
+  "sourceArticles": 100,
+  "totalWords": 86206,
+  "averageReadTimeMinutes": 4.31,
+  "topicHierarchy": {
+    "seo": {
+      "description": "Bottom-of-funnel SEO frameworks, technical quick wins, and ranking experiments.",
+      "articleCount": 61,
+      "articles": [
+        "4-seo-strategies-from-this-weeks-podcast-guests",
+        "startup-1m-arr-ai-organic-linkedin",
+        "2026-seo-playbook-maximize-coverage",
+        "15-minute-rule-build-authority-opportunity-online",
+        "claude-artifacts-rank-on-google-in-hours",
+        "content-refreshes-seo-double-traffic-fast",
+        "humanize-chatgpt-content",
+        "22x-seo-traffic-in-under-2-months",
+        "7-seo-experiments-case-studies-lessons-learned",
+        "instagram-official-seo-notice-to-creators",
+        "manufacturing-social-proof-build-an-8-figure-business",
+        "dont-give-up-on-your-content",
+        "the-biggest-mistake-digital-marketers-will-make-this-year",
+        "youtube-and-seo-page-titles-that-get-more-clicks",
+        "seo-for-services-businesses-under-one-minute-read-time",
+        "the-biggest-seo-opportunity-may-still-be-ahead-of-us",
+        "10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google",
+        "no-link-building-budget-could-buy-these-results",
+        "give-visitors-what-they-want-before-they-start-scrolling",
+        "target-competitor-brand-names-using-video",
+        "easy-seo-big-purchase-orders",
+        "three-podcasts-five-growth-hacks",
+        "rank-google-best-of-keywords-2025",
+        "four-useful-things-for-social-media-marketing-and-seo",
+        "how-to-get-on-google-images",
+        "greatest-networking-hack",
+        "trending-keywords",
+        "the-most-powerful-seo",
+        "featured-free-tier-is-mental",
+        "search-engine-deoptimization",
+        "5-minute-seo-ranking",
+        "pour-one-out-for-help-a-reporter-out",
+        "linkedin-hacks",
+        "seo-easy-mode",
+        "five-marketing-stories",
+        "harsh-feedback-made-me-viral",
+        "youtube-seo-emds-in-seo-instagrams-flagged-for-review-followers",
+        "ranking-my-newsletter",
+        "link-getting-backlinks-in-hyrule",
+        "get-guest-writers",
+        "youtube-shorts-seo",
+        "linkedin-video-organic-prioritization",
+        "pareto-seo",
+        "ranking-on-google-in-under-24-hours",
+        "seo-experiments-from-the-google-algorithm-leak",
+        "freshness",
+        "seo-down-the-funnel",
+        "viral-stunts-lower-cac-increase-awareness-get-backlinks",
+        "tony-delivers-original-marketing",
+        "low-priced-tiktok-outsourcing-and-easy-backlinks-for-new-sites",
+        "persistence-in-marketing",
+        "mozbar-domain-authority-and-page-authority-to-tell-legitimacy-of-websites-and-find-big-wins",
+        "how-to-do-seo-for-a-newsletter",
+        "seven-viral-hooks",
+        "best-games-youtube-2024",
+        "low-hanging-fruit-seo",
+        "this-website-didnt-exist-one-year-ago-remarkable-seo-story",
+        "marketing-hacks-that-seem-too-good-right-now",
+        "game-changers-from-this-week",
+        "just-a-bit-of-extra-text",
+        "automate-press-outreach-and-have-journalists-reach-out-to-you"
+      ]
+    },
+    "social_media": {
+      "description": "Organic social systems spanning Instagram, TikTok, LinkedIn, YouTube, and Shorts.",
+      "articleCount": 33,
+      "articles": [
+        "10x-podcast-growth",
+        "sora-2-fleeting-opportunity-crazy-visibility",
+        "how-to-grow-on-instagram",
+        "useful-content-vs-entertaining-content-useful-content-wins",
+        "find-evergreen-subject-matter",
+        "push-past-the-plateaus",
+        "same-views-200x-more-followers",
+        "quality-ideas-not-gear",
+        "post-daily-dont-give-up",
+        "cafe-trick-hack-engagement-instagram-reels-tiktok-youtube-shorts",
+        "everything-in-marketing-is-a-block-of-stone-with-a-beautiful-sculpture-inside",
+        "i-used-a-celebritys-death-to-go-viral",
+        "how-often-to-post-on-instagram-2025",
+        "social-media-posting-strategy",
+        "steal-this-product-promotion-format",
+        "post-even-if-imperfect",
+        "5x-tiktok-growth",
+        "engagement-statistics-viral-short-form-video",
+        "25-hooks-tiktok-instagram-reels-youtube-shorts",
+        "if-people-like-it-once-theyll-like-it-again",
+        "going-viral-ten-times-with-one-video",
+        "when-do-i-use-music-in-my-videos",
+        "personalize-to-dramatically-increase-close-rate-on-sales-calls",
+        "the-head-of-instagram-wont-stop-talking-about-this",
+        "how-much-do-instagram-accounts-sell-for",
+        "no-extra-work-tiktok-to-snapchat-spotlight-automation",
+        "brevity-reposting-strategies-and-how-to-price",
+        "pimentae-tequila-launch-story",
+        "easy-ways-to-get-great-subject-matter",
+        "sam-altman-just-fired-as-ceo-of-openai",
+        "this-instagram-hack-3xd-my-followers-this-week",
+        "how-i-built-my-tiktok-audience",
+        "budget-doesnt-matter"
+      ]
+    },
+    "content": {
+      "description": "Daily publishing cadence, email copy, hooks, and storytelling processes.",
+      "articleCount": 5,
+      "articles": [
+        "say-less-get-more-short-marketing",
+        "increase-email-open-rates-four-hacks",
+        "lessons-from-ryan-reynolds",
+        "raise-prices-stories-of-effectively-charging-more",
+        "lunchclub-virtual-networking-review"
+      ]
+    },
+    "ai_automation": {
+      "description": "Using AI models, artifacts, and automation to accelerate marketing output.",
+      "articleCount": 1,
+      "articles": [
+        "get-on-podcasts-as-guest-2025"
+      ]
+    }
+  },
+  "queryIndex": {
+    "increase_local_seo": {
+      "docsSection": "seo",
+      "concepts": [
+        "bottom-of-funnel pages",
+        "low-hanging fruit",
+        "content refreshes"
+      ],
+      "sourceArticles": [
+        "4-seo-strategies-from-this-weeks-podcast-guests",
+        "startup-1m-arr-ai-organic-linkedin",
+        "2026-seo-playbook-maximize-coverage",
+        "15-minute-rule-build-authority-opportunity-online",
+        "claude-artifacts-rank-on-google-in-hours",
+        "content-refreshes-seo-double-traffic-fast",
+        "humanize-chatgpt-content",
+        "22x-seo-traffic-in-under-2-months",
+        "7-seo-experiments-case-studies-lessons-learned",
+        "instagram-official-seo-notice-to-creators",
+        "manufacturing-social-proof-build-an-8-figure-business",
+        "dont-give-up-on-your-content",
+        "the-biggest-mistake-digital-marketers-will-make-this-year",
+        "youtube-and-seo-page-titles-that-get-more-clicks",
+        "seo-for-services-businesses-under-one-minute-read-time",
+        "the-biggest-seo-opportunity-may-still-be-ahead-of-us",
+        "10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google",
+        "no-link-building-budget-could-buy-these-results",
+        "give-visitors-what-they-want-before-they-start-scrolling",
+        "target-competitor-brand-names-using-video",
+        "easy-seo-big-purchase-orders",
+        "three-podcasts-five-growth-hacks",
+        "rank-google-best-of-keywords-2025",
+        "four-useful-things-for-social-media-marketing-and-seo",
+        "how-to-get-on-google-images",
+        "greatest-networking-hack",
+        "trending-keywords",
+        "the-most-powerful-seo",
+        "featured-free-tier-is-mental",
+        "search-engine-deoptimization",
+        "5-minute-seo-ranking",
+        "pour-one-out-for-help-a-reporter-out",
+        "linkedin-hacks",
+        "seo-easy-mode",
+        "five-marketing-stories",
+        "harsh-feedback-made-me-viral",
+        "youtube-seo-emds-in-seo-instagrams-flagged-for-review-followers",
+        "ranking-my-newsletter",
+        "link-getting-backlinks-in-hyrule",
+        "get-guest-writers",
+        "youtube-shorts-seo",
+        "linkedin-video-organic-prioritization",
+        "pareto-seo",
+        "ranking-on-google-in-under-24-hours",
+        "seo-experiments-from-the-google-algorithm-leak",
+        "freshness",
+        "seo-down-the-funnel",
+        "viral-stunts-lower-cac-increase-awareness-get-backlinks",
+        "tony-delivers-original-marketing",
+        "low-priced-tiktok-outsourcing-and-easy-backlinks-for-new-sites",
+        "persistence-in-marketing",
+        "mozbar-domain-authority-and-page-authority-to-tell-legitimacy-of-websites-and-find-big-wins",
+        "how-to-do-seo-for-a-newsletter",
+        "seven-viral-hooks",
+        "best-games-youtube-2024",
+        "low-hanging-fruit-seo",
+        "this-website-didnt-exist-one-year-ago-remarkable-seo-story",
+        "marketing-hacks-that-seem-too-good-right-now",
+        "game-changers-from-this-week",
+        "just-a-bit-of-extra-text",
+        "automate-press-outreach-and-have-journalists-reach-out-to-you"
+      ],
+      "timeInvestment": "3-6 hours to implement and monitor"
+    },
+    "boost_social_media_growth": {
+      "docsSection": "social_media",
+      "concepts": [
+        "posting cadence",
+        "hooks",
+        "repurposing"
+      ],
+      "sourceArticles": [
+        "10x-podcast-growth",
+        "sora-2-fleeting-opportunity-crazy-visibility",
+        "how-to-grow-on-instagram",
+        "useful-content-vs-entertaining-content-useful-content-wins",
+        "find-evergreen-subject-matter",
+        "push-past-the-plateaus",
+        "same-views-200x-more-followers",
+        "quality-ideas-not-gear",
+        "post-daily-dont-give-up",
+        "cafe-trick-hack-engagement-instagram-reels-tiktok-youtube-shorts",
+        "everything-in-marketing-is-a-block-of-stone-with-a-beautiful-sculpture-inside",
+        "i-used-a-celebritys-death-to-go-viral",
+        "how-often-to-post-on-instagram-2025",
+        "social-media-posting-strategy",
+        "steal-this-product-promotion-format",
+        "post-even-if-imperfect",
+        "5x-tiktok-growth",
+        "engagement-statistics-viral-short-form-video",
+        "25-hooks-tiktok-instagram-reels-youtube-shorts",
+        "if-people-like-it-once-theyll-like-it-again",
+        "going-viral-ten-times-with-one-video",
+        "when-do-i-use-music-in-my-videos",
+        "personalize-to-dramatically-increase-close-rate-on-sales-calls",
+        "the-head-of-instagram-wont-stop-talking-about-this",
+        "how-much-do-instagram-accounts-sell-for",
+        "no-extra-work-tiktok-to-snapchat-spotlight-automation",
+        "brevity-reposting-strategies-and-how-to-price",
+        "pimentae-tequila-launch-story",
+        "easy-ways-to-get-great-subject-matter",
+        "sam-altman-just-fired-as-ceo-of-openai",
+        "this-instagram-hack-3xd-my-followers-this-week",
+        "how-i-built-my-tiktok-audience",
+        "budget-doesnt-matter"
+      ],
+      "timeInvestment": "30 minutes daily publishing sprint"
+    },
+    "scale_with_ai": {
+      "docsSection": "ai_automation",
+      "concepts": [
+        "Claude projects",
+        "ChatGPT workflows",
+        "automation"
+      ],
+      "sourceArticles": [
+        "get-on-podcasts-as-guest-2025"
+      ],
+      "timeInvestment": "2 hours to template prompts"
+    },
+    "earn_authority": {
+      "docsSection": "pr_backlinks",
+      "concepts": [
+        "press releases",
+        "podcast tours",
+        "research assets"
+      ],
+      "sourceArticles": [],
+      "timeInvestment": "1-2 weeks for outreach and promotion"
+    },
+    "engineer_growth_loops": {
+      "docsSection": "growth_marketing",
+      "concepts": [
+        "viral stunts",
+        "pricing psychology",
+        "referral mechanics"
+      ],
+      "sourceArticles": [],
+      "timeInvestment": "Variable \u2014 plan, test, iterate"
+    }
+  },
+  "conceptMap": {
+    "low_hanging_fruit": {
+      "docsSection": "seo",
+      "actionableSteps": [
+        "Export Search Console queries between positions 6-25",
+        "Insert exact-match phrasing into existing copy",
+        "Refresh titles and add internal links"
+      ],
+      "relatedConcepts": [
+        "content_refresh",
+        "bottom_of_funnel"
+      ],
+      "sourceArticles": [
+        "15-minute-rule-build-authority-opportunity-online",
+        "seo-for-services-businesses-under-one-minute-read-time",
+        "10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google",
+        "5-minute-seo-ranking",
+        "youtube-seo-emds-in-seo-instagrams-flagged-for-review-followers",
+        "viral-stunts-lower-cac-increase-awareness-get-backlinks",
+        "low-priced-tiktok-outsourcing-and-easy-backlinks-for-new-sites",
+        "low-hanging-fruit-seo"
+      ]
+    },
+    "content_refresh": {
+      "docsSection": "seo",
+      "actionableSteps": [
+        "Audit posts losing traffic",
+        "Update stats, screenshots, and CTAs",
+        "Re-submit URLs to Search Console"
+      ],
+      "relatedConcepts": [
+        "low_hanging_fruit"
+      ],
+      "sourceArticles": [
+        "content-refreshes-seo-double-traffic-fast"
+      ]
+    },
+    "ugc_max_coverage": {
+      "docsSection": "social_media",
+      "actionableSteps": [
+        "Write 300-500 word script from pillar article",
+        "Shoot vertical and horizontal variants",
+        "Republish to YouTube, TikTok, Instagram, Facebook"
+      ],
+      "relatedConcepts": [
+        "ai_workflows",
+        "hooks"
+      ],
+      "sourceArticles": [
+        "cafe-trick-hack-engagement-instagram-reels-tiktok-youtube-shorts",
+        "engagement-statistics-viral-short-form-video",
+        "25-hooks-tiktok-instagram-reels-youtube-shorts"
+      ]
+    },
+    "ai_workflows": {
+      "docsSection": "ai_automation",
+      "actionableSteps": [
+        "Document brand voice inside Claude projects",
+        "Prompt section-by-section instead of single-shot",
+        "Automate hand-offs via Slack or zaps"
+      ],
+      "relatedConcepts": [
+        "ugc_max_coverage"
+      ],
+      "sourceArticles": [
+        "get-on-podcasts-as-guest-2025"
+      ]
+    },
+    "press_to_backlinks": {
+      "docsSection": "pr_backlinks",
+      "actionableSteps": [
+        "Draft research-backed narrative",
+        "Distribute on tier-one press wires",
+        "Pitch journalists and recycle assets for podcasts"
+      ],
+      "relatedConcepts": [
+        "low_hanging_fruit"
+      ],
+      "sourceArticles": []
+    },
+    "viral_ops": {
+      "docsSection": "growth_marketing",
+      "actionableSteps": [
+        "Design spectacle or stunt tied to core message",
+        "Stack distribution (press, socials, partners)",
+        "Annotate learnings for rinse-and-repeat"
+      ],
+      "relatedConcepts": [
+        "ugc_max_coverage"
+      ],
+      "sourceArticles": []
+    }
+  },
+  "strategicThemes": {
+    "compounding_seo": {
+      "docsSection": "seo",
+      "coreIdea": "Stack low-effort updates, bottom-of-funnel pages, and fast refreshes to own intent.",
+      "focus": [
+        "Search Console exports",
+        "clone-and-redirect",
+        "service page frameworks"
+      ],
+      "avoid": [
+        "Overbuilding TOFU",
+        "Schema rabbit holes without payoff"
+      ]
+    },
+    "omni_channel_social": {
+      "docsSection": "social_media",
+      "coreIdea": "Publish daily across short-form platforms with re-usable hooks and batching.",
+      "focus": [
+        "Short-form hooks",
+        "Repost cadence",
+        "Follower monetization"
+      ],
+      "avoid": [
+        "Platform-exclusive scripts",
+        "Overediting every clip"
+      ]
+    },
+    "ai_assisted_ops": {
+      "docsSection": "ai_automation",
+      "coreIdea": "Use AI to draft, personalize, and route marketing assets without losing voice.",
+      "focus": [
+        "Claude projects",
+        "Section-based prompting",
+        "Automated follow-ups"
+      ],
+      "avoid": [
+        "Publishing AI slop",
+        "Unreviewed drafts"
+      ]
+    },
+    "earned_media_machine": {
+      "docsSection": "pr_backlinks",
+      "coreIdea": "Turn research, testimonials, and press releases into authority backlinks.",
+      "focus": [
+        "Research assets",
+        "Podcast tours",
+        "Authority press wires"
+      ],
+      "avoid": [
+        "Spray-and-pray PR",
+        "Low-quality directories"
+      ]
+    },
+    "offer_led_growth": {
+      "docsSection": "growth_marketing",
+      "coreIdea": "Engineer offers, stunts, and pricing to multiply reach and revenue.",
+      "focus": [
+        "Pricing stories",
+        "Referral stunts",
+        "Story-driven launches"
+      ],
+      "avoid": [
+        "Feature dumping",
+        "Vanity metrics"
+      ]
+    }
+  },
+  "useCaseRouter": {
+    "I_need_ready_to_buy_traffic": {
+      "primaryStrategy": "compounding_seo",
+      "docsSection": "seo",
+      "estimatedTimeToResults": "2-4 weeks"
+    },
+    "I_need_daily_content_system": {
+      "primaryStrategy": "omni_channel_social",
+      "docsSection": "social_media",
+      "estimatedTimeToResults": "Immediate once schedule set"
+    },
+    "I_need_ai_to_scale_team": {
+      "primaryStrategy": "ai_assisted_ops",
+      "docsSection": "ai_automation",
+      "estimatedTimeToResults": "1 week"
+    },
+    "I_need_more_backlinks": {
+      "primaryStrategy": "earned_media_machine",
+      "docsSection": "pr_backlinks",
+      "estimatedTimeToResults": "4-6 weeks"
+    },
+    "I_need_breakthrough_awareness": {
+      "primaryStrategy": "offer_led_growth",
+      "docsSection": "growth_marketing",
+      "estimatedTimeToResults": "Depends on campaign cycle"
+    }
+  },
+  "articles": {
+    "4-seo-strategies-from-this-weeks-podcast-guests": {
+      "title": "4 SEO Strategies From This Week's Podcast Guests That ACTUALLY Move the Needle",
+      "url": "https://edwardsturm.com/articles/4-seo-strategies-from-this-weeks-podcast-guests/",
+      "published": "2025-10-21T12:22:57+00:00",
+      "wordCount": 805,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "1. Targeting \"your brand + review\" keywords with YouTube and other video platforms.",
+        "2. Research report linkable assets still work.",
+        "3. It's better to cultivate relationships with journalists than to pay a PR agency.",
+        "4. Press releases might work to influence AI... forever",
+        "Speaking of influencing AI..."
+      ],
+      "actionableSteps": [
+        "Is brand legit?",
+        "Brand review?",
+        "Is brand a scam?",
+        "Does brand really work?",
+        "Brand 2025 review.",
+        "Brand worth buying?",
+        "Brand alternative."
+      ],
+      "readTimeMinutes": 4.03
+    },
+    "10x-podcast-growth": {
+      "title": "How I've 10x'd My Podcast Growth Year Over Year",
+      "url": "https://edwardsturm.com/articles/10x-podcast-growth/",
+      "published": "2025-10-13T20:15:04+00:00",
+      "wordCount": 1060,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "social media organic"
+      ],
+      "headings": [
+        "On the horizon",
+        "By the way"
+      ],
+      "actionableSteps": [
+        "Early August, 2023: Started using the Descript editing app. I previously wrote about how big a difference this app made on my short-form videos. With my long-form podcast, it allowed me to tighten episodes by easily removing long gaps and areas where I was trying to figure out what to say.",
+        "Mid-late August, 2023: Covered a viral topic ( the TwitterX Ads Glitch I discovered ) that my growing TikTok audience (I hadn't yet cracked Instagram) wanted more detail on. The episode got a few thousand listeners. A tiny fraction of those listeners became repeat listeners.",
+        "Early November, 2023: Added captions to the episodes. Helped a bit with retention as my podcast was still audio-only.",
+        "Mid February, 2024: Started recording with video at the suggestion of my friend, Avni Barman . When I first started doing the podcast with video I was super self-conscious and nervous - which is why it took so long in the first place.",
+        "Late May, 2024: Stopped using captions in my videos. Captions were a huge time drain. Descript's automatic transcriptions have major errors and I was spending a lot of time correcting them. By not doing captions I made it less intimidating for me to do long episodes. I also freed up time for more important things (written below). Turned out captions also only provided a very minimal retention increase, too.",
+        "Late May, 2024: Was one of the first to cover Google's Algorithm Leak , Google's biggest leak ever. The removal of captions right before was good timing - this Algorithm Leak episode was 34 minutes and I was okay with doing it because I knew I wouldn't have to correct captions. By being one of the first to cover this topic, I got a ton of views (as you can see from the graph) and like with #2, a small fraction turned into repeat viewers.",
+        "Mid January, 2025: Released Compact Keywords, my SEO course, so I had more bandwidth to dedicate to the podcast. This is notable because it took a year to make Compact Keywords.",
+        "Mid January, 2025: Routinely started having guests on the podcast. I was waiting until the release of Compact Keywords to do this, as guest episodes were more work (at the time) than normal episodes."
+      ],
+      "readTimeMinutes": 5.3
+    },
+    "sora-2-fleeting-opportunity-crazy-visibility": {
+      "title": "Sora 2 Is a Fleeting Opportunity for Crazy Visibility",
+      "url": "https://edwardsturm.com/articles/sora-2-fleeting-opportunity-crazy-visibility/",
+      "published": "2025-10-05T22:38:02+00:00",
+      "wordCount": 1113,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "social media organic"
+      ],
+      "headings": [
+        "My results with Sora 2",
+        "How to get around some protections within Sora 2",
+        "How I'm using Sora 2 for content",
+        "Future predictions with Sora 2-type tech",
+        "One more thing"
+      ],
+      "actionableSteps": [
+        "Completely free.",
+        "Gives unlimited generations with no quantity constraints.",
+        "https://www.instagram.com/reel/DPW5dIxDMmR/ - 431,000 views Sora 2 for the hook. If you're into SEO, this one is extra cool, by the way. Use this to see the language ChatGPT searches the web with - then take this language and use it in your content to increase coverage across LLMs.",
+        "Sora 2 for the hook.",
+        "If you're into SEO, this one is extra cool, by the way. Use this to see the language ChatGPT searches the web with - then take this language and use it in your content to increase coverage across LLMs.",
+        "https://www.instagram.com/reel/DPUXLvzDCcF/ - 141,000 views Sora 2 for the hook and the ending.",
+        "Sora 2 for the hook and the ending.",
+        "https://www.instagram.com/reel/DPYwq7WjMUL/ - 29,000 views Sora 2 for the hook. This one was a flop, but my flops typically receive way less views than this, so the Sora 2 hook made even the flop perform above average."
+      ],
+      "readTimeMinutes": 5.57
+    },
+    "startup-1m-arr-ai-organic-linkedin": {
+      "title": "How This Startup Hit $1M ARR in 6 Months Using AI and LinkedIn",
+      "url": "https://edwardsturm.com/articles/startup-1m-arr-ai-organic-linkedin/",
+      "published": "2025-09-28T12:21:15+00:00",
+      "wordCount": 804,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "social media organic"
+      ],
+      "headings": [
+        "For fun",
+        "It's possible"
+      ],
+      "actionableSteps": [
+        "Amos, my guest, uses Claude to write his high-performing LinkedIn posts. He's found hard numbers and facts, subject matter about automating workflows and employees, and current events do especially well.",
+        "He has a Project in Claude where he has a ton of documentation about the types of hooks he wants, subject matter he wants, copy he wants, facts he wants, his personal journal, his business, and more. Claude, when it generates a LinkedIn post, uses this Project documentation as a high-level prompt. Two days before Amos, I had on Nico from AI Ranking on the podcast. Similarly, Nico said Projects in ChatGPT (essentially the same thing as Claude), \" is the most underrated thing in the world .\"",
+        "Two days before Amos, I had on Nico from AI Ranking on the podcast. Similarly, Nico said Projects in ChatGPT (essentially the same thing as Claude), \" is the most underrated thing in the world .\"",
+        "Amos doesn't have Claude write the LinkedIn posts without human guidance. He spends 30-60 minutes on each post, guiding it section by section. Nico, who automates SEO blog posts and pages, said the same thing: \" It's more effective to have AI write section by section, rather than writing the whole thing in one shot .\"",
+        "Nico, who automates SEO blog posts and pages, said the same thing: \" It's more effective to have AI write section by section, rather than writing the whole thing in one shot .\"",
+        "Amos only puts up 3-4 posts per week. More would be even better, but the inbound he gets is so crazy he doesn't have time for more.",
+        "He uses AIs within Slack to qualify and filter leads . He then responds to the most high-value ones manually. The $1,000,000 ARR is from only 200 customers, but high-value ones. His business is an AI GTM automation, Swan .",
+        "He has a team of just three people - him and two others. He believes he can get to $10,000,000 ARR per employee ."
+      ],
+      "readTimeMinutes": 4.02
+    },
+    "2026-seo-playbook-maximize-coverage": {
+      "title": "The 2026 SEO Playbook - Maximize Coverage",
+      "url": "https://edwardsturm.com/articles/2026-seo-playbook-maximize-coverage/",
+      "published": "2025-09-21T11:33:39+00:00",
+      "wordCount": 426,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "Go deeper"
+      ],
+      "actionableSteps": [
+        "As you're targeting keywords with pages and posts on your website, you're also making short videos on the subject matter, targeting THE SAME KEYWORD.",
+        "You're making the videos fast and casually. Example 1 . Example 2 . Example 3 . Each of those high-performing videos took a few minutes total with ideation, recording, editing, posting.",
+        "You're now targeting one keyword with a single page/post and MULTIPLE videos.",
+        "Each video releases to every platform, following this method .",
+        "This is giving you maximum coverage on the keyword.",
+        "The keyword is always positioned at the beginning of your content title/description. You're taking your video transcript and using it as the rest of the description.",
+        "When your page/post is published on your website, the UGC also links back to it. Links in Instagram and TikTok descriptions are not clickable but links in Facebook Reels and YouTube descriptions ARE clickable. Google just admitted ' the open web is in rapid decline .' Google needs more link signals. Links from video descriptions, especially links that get clicks, are valuable."
+      ],
+      "readTimeMinutes": 2.13
+    },
+    "15-minute-rule-build-authority-opportunity-online": {
+      "title": "The 15-Minute Rule: How to Build Authority and Opportunity Online",
+      "url": "https://edwardsturm.com/articles/15-minute-rule-build-authority-opportunity-online/",
+      "published": "2025-09-14T09:59:23+00:00",
+      "wordCount": 878,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "What people don't realize",
+        "Instagram/TikTok/YouTube",
+        "X/Threads/LinkedIn",
+        "SEO",
+        "Stack these"
+      ],
+      "actionableSteps": [
+        "Day 1: Blog post (15 minutes).",
+        "Day 2: Respond to journalist query on Help a Reporter Out , Source of Sources , or Featured (15 minutes).",
+        "Day 3: Submit your site to a relevant directory (15 minutes).",
+        "Day 4: Blog post (15 minutes).",
+        "Day 5: Respond to journalist query (15 minutes)."
+      ],
+      "readTimeMinutes": 4.39
+    },
+    "claude-artifacts-rank-on-google-in-hours": {
+      "title": "Ranking on Google in Hours with Claude Artifacts",
+      "url": "https://edwardsturm.com/articles/claude-artifacts-rank-on-google-in-hours/",
+      "published": "2025-09-08T07:47:37+00:00",
+      "wordCount": 665,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "But",
+        "More",
+        "Get customers with SEO"
+      ],
+      "actionableSteps": [
+        "Copy your whole landing page into Claude. Give it keywords you want it to use. Tell it to make an article for why your brand is great, reputable, trustworthy, etc. Hopefully you have all this supporting information on your landing page.",
+        "It will draft the article as an Artifact.",
+        "Click Publish."
+      ],
+      "readTimeMinutes": 3.33
+    },
+    "content-refreshes-seo-double-traffic-fast": {
+      "title": "Content Refreshes in SEO: How to Double Your Traffic Fast",
+      "url": "https://edwardsturm.com/articles/content-refreshes-seo-double-traffic-fast/",
+      "published": "2025-09-01T20:50:19+00:00",
+      "wordCount": 1363,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Why content refreshes are incredible",
+        "Common ways to do content refreshes",
+        "Become more efficient with SEO",
+        "More on content refreshes"
+      ],
+      "actionableSteps": [
+        "You're able to evaluate your content with fresh eyes. \" Every now and then go away, have a little relaxation, for when you come back to your work your judgment will be surer. Go some distance away because then the work appears smaller and more of it can be taken in at a glance and a lack of harmony and proportion is more readily seen. \" - Leonardo da Vinci The first draft is usually the worst draft. Common issues you may notice: Awkward keyword targeting. Takes too long to get to the meat of the page. The images aren't related to the content. The writing is boring. The page is UGLY. The page is slow. The keyword isn't in the key places (for example, the page title). The intent was misjudged. Sources weren't cited. You didn't interlink to the content; the page is orphaned. You accidentally noindexed the page. No OG image. The page title doesn't stand out from competitor page titles. The URL slug is a random string. The list goes on...",
+        "\" Every now and then go away, have a little relaxation, for when you come back to your work your judgment will be surer. Go some distance away because then the work appears smaller and more of it can be taken in at a glance and a lack of harmony and proportion is more readily seen. \" - Leonardo da Vinci",
+        "The first draft is usually the worst draft.",
+        "Common issues you may notice: Awkward keyword targeting. Takes too long to get to the meat of the page. The images aren't related to the content. The writing is boring. The page is UGLY. The page is slow. The keyword isn't in the key places (for example, the page title). The intent was misjudged. Sources weren't cited. You didn't interlink to the content; the page is orphaned. You accidentally noindexed the page. No OG image. The page title doesn't stand out from competitor page titles. The URL slug is a random string. The list goes on...",
+        "Awkward keyword targeting.",
+        "Takes too long to get to the meat of the page.",
+        "The images aren't related to the content.",
+        "The writing is boring."
+      ],
+      "readTimeMinutes": 6.82
+    },
+    "humanize-chatgpt-content": {
+      "title": "How to Humanize ChatGPT Content",
+      "url": "https://edwardsturm.com/articles/humanize-chatgpt-content/",
+      "published": "2025-08-29T05:41:25+00:00",
+      "wordCount": 944,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "seo"
+      ],
+      "headings": [
+        "What I use AI writing for",
+        "What I don't use AI writing for",
+        "How I humanize my ChatGPT output",
+        "My favorite way to use this",
+        "Can you spot and fix AI-sounding text?"
+      ],
+      "actionableSteps": [
+        "Turning my podcast transcripts into: LinkedIn posts promoting the podcasts Podcast titles YouTube descriptions X threads",
+        "LinkedIn posts promoting the podcasts",
+        "Podcast titles",
+        "YouTube descriptions",
+        "X threads",
+        "Listing product benefits - ChatGPT is especially good at doing this in a concise human-enough sounding way",
+        "Checking over long emails",
+        "Entire newsletters"
+      ],
+      "readTimeMinutes": 4.72
+    },
+    "22x-seo-traffic-in-under-2-months": {
+      "title": "22x SEO Traffic in Under 2 Months",
+      "url": "https://edwardsturm.com/articles/22x-seo-traffic-in-under-2-months/",
+      "published": "2025-08-26T03:23:57+00:00",
+      "wordCount": 1502,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [],
+      "actionableSteps": [
+        "Age - from Wayback Machine, it looks like AInvest has existed since at least 2021. They've pivoted a bit since then, but their logo and branding have stayed the same. Several years of history is a major trust signal for search engines. Since they've existed for years, they've naturally scaled up their content output at a reasonable pace - not immediately going from 0 to 100. This avoids setting off red flags.",
+        "Several years of history is a major trust signal for search engines.",
+        "Since they've existed for years, they've naturally scaled up their content output at a reasonable pace - not immediately going from 0 to 100. This avoids setting off red flags.",
+        "This avoids setting off red flags.",
+        "They have a holistic view of marketing. Active on all major social networks. 14,000 followers on Instagram . Almost all their content is AI generated - including descriptions for YouTube videos. The content isn't great, but it allows them to post often. As I've shared - high-frequency posting is great for growth . They're not just doing SEO - they're doing real marketing: press pushes, outreach, actually trying to make good on-site AI content (not slop).",
+        "Active on all major social networks. 14,000 followers on Instagram . Almost all their content is AI generated - including descriptions for YouTube videos. The content isn't great, but it allows them to post often. As I've shared - high-frequency posting is great for growth .",
+        "Almost all their content is AI generated - including descriptions for YouTube videos. The content isn't great, but it allows them to post often. As I've shared - high-frequency posting is great for growth .",
+        "They're not just doing SEO - they're doing real marketing: press pushes, outreach, actually trying to make good on-site AI content (not slop)."
+      ],
+      "readTimeMinutes": 7.51
+    },
+    "how-to-grow-on-instagram": {
+      "title": "How to Grow On Instagram in 2025",
+      "url": "https://edwardsturm.com/articles/how-to-grow-on-instagram/",
+      "published": "2025-08-23T19:18:01+00:00",
+      "wordCount": 1914,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "How somebody who didn't know anything about Formula 1 three weeks ago now has 7,000 followers on Instagram with a new F1-dedicated account.",
+        "How a friend with a new dating Instagram got to 18,000 followers in five weeks.",
+        "What these accounts have in common.",
+        "Why not batch record?",
+        "How often some of the biggest accounts are posting and what they're posting."
+      ],
+      "actionableSteps": [
+        "Post and produce daily - create at least one new Reel every day. Every singe account says the same thing - there's no such thing as too much posting!",
+        "Stick to your niche - focus tightly on a specific topic so your audience knows what to expect. This dramatically helps with growth and revenue.",
+        "Upload manually via the Instagram app - avoid automation tools, as manual posting performs better. Recent studies have shown automation may be okay on Instagram, but Instagram has a history of suppressing content uploaded outside of the app.",
+        "Iterate in real time - shoot and edit daily instead of batch recording, so you can learn and improve fast.",
+        "Repost often - once you have a content library, strategically recycle past high-performing Reels.",
+        "The curious learner bias. If you learn something and consistently talk about what you're learning, people will come to see you as an expert, even though you're merely a curious learner. This is because consistency creates top-of-mind awareness for your niche.",
+        "I believe Formula 1 is both: Hot and trendy. Events have become a billionaire meeting spot . Penetrable. Its rising popularity times well with the popularity of short-form mobile video like TikTok and Instagram Reels.",
+        "Hot and trendy. Events have become a billionaire meeting spot ."
+      ],
+      "readTimeMinutes": 9.57
+    },
+    "useful-content-vs-entertaining-content-useful-content-wins": {
+      "title": "2x MORE Subscribers From 2.5x LESS Views: Why",
+      "url": "https://edwardsturm.com/articles/useful-content-vs-entertaining-content-useful-content-wins/",
+      "published": "2025-08-17T15:56:15+00:00",
+      "wordCount": 273,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [
+        "Is it clear what the viewer/reader/listener should do next?",
+        "Is it obvious why this information is useful?",
+        "Could someone get a result or improvement just from this advice?"
+      ],
+      "readTimeMinutes": 1.36
+    },
+    "7-seo-experiments-case-studies-lessons-learned": {
+      "title": "7 SEO Experiments, Case Studies, and Lessons Learned | New Insights for Ranking #1 on Google & Getting LLM Coverage",
+      "url": "https://edwardsturm.com/articles/7-seo-experiments-case-studies-lessons-learned/",
+      "published": "2025-08-12T22:07:16+00:00",
+      "wordCount": 1063,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Manipulating LLMs: AI Overviews, ChatGPT, & Perplexity",
+        "404 Pages",
+        "Dead Meetup Backlinks",
+        "Long Page Titles",
+        "Republishing Old Posts To Rank #1"
+      ],
+      "actionableSteps": [
+        "Write your press release anonymously or under a pseudonym. The press release says how you are a great brand for xyz, you're top rated, 5/5 stars, etc.",
+        "Distribute it through Fiverr or SEO Clerks .",
+        "Google sees the same language occurring in several places and synthesizes it into an AI Overview.",
+        "LLMs pull information from Google's indexed content, surfacing and citing the press release.",
+        "People considering the brand will search it on Google or LLMs. The AI Overview and LLMs say how you are a great brand for xyz, you're top rated, 5/5 stars, etc. Credibility is signaled. Sales cycles are shortened.",
+        "Similarly, AI parrots what you want for other non-competitive searches.",
+        "Get backlinks while controlling the language around the links",
+        "Expand top-of-mind awareness"
+      ],
+      "readTimeMinutes": 5.32
+    },
+    "say-less-get-more-short-marketing": {
+      "title": "Say Less, Get More: The Science of Short Marketing That Works",
+      "url": "https://edwardsturm.com/articles/say-less-get-more-short-marketing/",
+      "published": "2025-08-04T01:17:35+00:00",
+      "wordCount": 909,
+      "primaryTheme": "content",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc"
+      ],
+      "headings": [
+        "One word subject lines get the highest open rates",
+        "Less syllables in a price increases purchases",
+        "Short brand names are most memorable - Nike, Apple, Zoom, Bolt",
+        "Short call to actions work best",
+        "Shorter forms get more signups"
+      ],
+      "actionableSteps": [],
+      "readTimeMinutes": 4.54
+    },
+    "find-evergreen-subject-matter": {
+      "title": "Evergreen Subject Matter",
+      "url": "https://edwardsturm.com/articles/find-evergreen-subject-matter/",
+      "published": "2025-07-21T19:24:58+00:00",
+      "wordCount": 908,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "What to do"
+      ],
+      "actionableSteps": [
+        "Keep a written list of evergreen subject matter. Have two sections: Testing, Proven. Next time you have a piece of content that performs above average, write down in the Testing section what the subject matter is on. Test the subject matter a week later. Make another piece of content on the topic and if it performs well, move that topic to the Proven section. If it doesn't perform well, remove it from the list.",
+        "Have two sections: Testing, Proven.",
+        "Next time you have a piece of content that performs above average, write down in the Testing section what the subject matter is on.",
+        "Test the subject matter a week later. Make another piece of content on the topic and if it performs well, move that topic to the Proven section. If it doesn't perform well, remove it from the list.",
+        "Use your evergreen subject matter to get awareness on what you sell. You are creating a list of topics that ALWAYS get above average views. Weave what you sell into your content on the topic. The previous one above is an example - at the end I say, \"More SEO tips just like this at compactkeywords.com.\" - This is how the search volume for Compact Keywords spiked after that video:",
+        "You are creating a list of topics that ALWAYS get above average views. Weave what you sell into your content on the topic.",
+        "The previous one above is an example - at the end I say, \"More SEO tips just like this at compactkeywords.com.\" - This is how the search volume for Compact Keywords spiked after that video:",
+        "I probably could have done an even harder sell, \"I go deeper on this in my SEO course at compactkeywords.com \" Or... since the subject matter always does above average, I may be able to do a below average hook, \"Something I share in my SEO course, Compact Keywords...\""
+      ],
+      "readTimeMinutes": 4.54
+    },
+    "push-past-the-plateaus": {
+      "title": "Push Past the Plateaus",
+      "url": "https://edwardsturm.com/articles/push-past-the-plateaus/",
+      "published": "2025-07-12T20:40:28+00:00",
+      "wordCount": 759,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "social media organic"
+      ],
+      "headings": [
+        "Plateaus are relative.",
+        "Plateaus are inevitable.",
+        "Plateaus don't last.",
+        "Push past the plateaus."
+      ],
+      "actionableSteps": [
+        "My first 5 months, nobody watched my daily Reels. Average views were 0-50.",
+        "Month 5 I had a short success. A Reel got 160,000 views and it got me from ~600 followers to ~3,000.",
+        "Then... for the next 6 months... I plateaued. All my daily Reels got 50-200 views. As you can see from my TikTok chart above, I was plateauing there too. This was SUCH a difficult plateau. It was my first real plateau with social media. Day after day I strongly considered stopping. I kept going because despite the pain, I believed I would eventually figure it out.",
+        "Month 11, the automation I was using to have my TikToks automatically republish to IG Reels went down for a day. So I manually uploaded my video to Instagram instead of using my automation. It did a lot better. Then I tried manually uploading a previous viral TikTok. It EXPLODED. I tried more previously viral TikToks. They exploded too! I tested extensively and realized the IG algorithm was dampening the reach of videos automatically published with 3rd party tools. It took me 11 months of pain to accidentally discover this, and then I started growing. Fast. For those wondering, it looks like the algorithm no longer dampens the reach of videos automatically published with 3rd party tools. This person grew from 0 to 150,000 followers in 6 months using the automation , which in 2022, was getting suppressed. This is also why I say do things you like - because when the plateaus occur - the enjoyment of what you're doing will get you through them.",
+        "For those wondering, it looks like the algorithm no longer dampens the reach of videos automatically published with 3rd party tools. This person grew from 0 to 150,000 followers in 6 months using the automation , which in 2022, was getting suppressed.",
+        "This is also why I say do things you like - because when the plateaus occur - the enjoyment of what you're doing will get you through them."
+      ],
+      "readTimeMinutes": 3.79
+    },
+    "same-views-200x-more-followers": {
+      "title": "Same Views, 200x More Followers",
+      "url": "https://edwardsturm.com/articles/same-views-200x-more-followers/",
+      "published": "2025-07-07T18:27:53+00:00",
+      "wordCount": 252,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [
+        "Is it clear what the viewer/reader/listener should do next?",
+        "Is it obvious why this information is useful?",
+        "Could someone get a result or improvement just from this advice?"
+      ],
+      "readTimeMinutes": 1.26
+    },
+    "instagram-official-seo-notice-to-creators": {
+      "title": "Instagram's SEO Notice to Creators",
+      "url": "https://edwardsturm.com/articles/instagram-official-seo-notice-to-creators/",
+      "published": "2025-07-01T17:24:39+00:00",
+      "wordCount": 760,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "What to do",
+        "How to find keywords to target - your site",
+        "How to find keywords to target - competitors",
+        "Use this to get customers, users, and warm leads"
+      ],
+      "actionableSteps": [
+        "Go to Google Search Console - this is Google's own tool for accessing their search index. Connect your site to it if you haven't already.",
+        "Go to Performance, then Search Results.",
+        "Go to Add Filter, then Query.",
+        "Click Regex.",
+        "Paste this in: ^(who|what|where|when|why|how|was|did|do|is|are|aren't|won't|does|if)[\" \"]",
+        "Hit Apply.",
+        "Now you can see all the informational searches your site shows on Google for. Informational searches use who, what, where, when, why, how, etc.",
+        "If you replace that with this: ^(buy|order|purchase|get|best price|cheap|discount|deal|promo|offer|sale|where to buy|how much|cost of|price of)[\" \"]"
+      ],
+      "readTimeMinutes": 3.8
+    },
+    "manufacturing-social-proof-build-an-8-figure-business": {
+      "title": "Manufacturing Social Proof to Build an 8-Figure Business",
+      "url": "https://edwardsturm.com/articles/manufacturing-social-proof-build-an-8-figure-business/",
+      "published": "2025-06-24T15:32:59+00:00",
+      "wordCount": 1318,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "Thought leadership & social proof",
+        "Getting industry influencers to share your brand for free",
+        "AI models for retention",
+        "Listen to the pod",
+        "Detail"
+      ],
+      "actionableSteps": [
+        "How to manufacture social proof and authority to increase customers.",
+        "How to get influencers to share your brand for free.",
+        "How to use AI to increase customer retention.",
+        "Found relevant events to speak at. Started small. Looked through Meetup, Eventbrite, local Facebook groups, local business groups, event recommendations, etc.",
+        "Started small. Looked through Meetup, Eventbrite, local Facebook groups, local business groups, event recommendations, etc.",
+        "Emailed organizers, saying he'd be a good speaker. Included a one-sheet PDF with: His bio and headshot. Topics he could speak on. Links to past talks or video clips. (If you don't have any past talks or clips, I share how to start below). Testimonials, if available.",
+        "His bio and headshot.",
+        "Topics he could speak on."
+      ],
+      "readTimeMinutes": 6.59
+    },
+    "dont-give-up-on-your-content": {
+      "title": "Don't give up on your content",
+      "url": "https://edwardsturm.com/articles/dont-give-up-on-your-content/",
+      "published": "2025-06-18T08:09:14+00:00",
+      "wordCount": 658,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "Don't give up on your videos",
+        "Don't give up on your SEO pages",
+        "Don't give up on your brand"
+      ],
+      "actionableSteps": [
+        "Cut the long introduction. After distancing myself from the original I could see flaws. The introduction was boring. The third shot was a better hook .",
+        "I cut unnecessary phrases to make the video less wordy and faster paced.",
+        "I added captions - the original had no captions.",
+        "I added music - the original also had no music.",
+        "I picked a better thumbnail.",
+        "I cloned the not-ranking content to a new URL on my site.",
+        "So it wouldn't be an exact 100% duplicate, I spent only 5 minutes adding/removing words in the: URL Page title Meta description Opening paragraphs",
+        "URL"
+      ],
+      "readTimeMinutes": 3.29
+    },
+    "the-biggest-mistake-digital-marketers-will-make-this-year": {
+      "title": "The biggest mistake digital marketers will make this year",
+      "url": "https://edwardsturm.com/articles/the-biggest-mistake-digital-marketers-will-make-this-year/",
+      "published": "2025-06-09T11:55:58+00:00",
+      "wordCount": 869,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "The mistake",
+        "The simple principle",
+        "Automate",
+        "Here's what you just did",
+        "Quality"
+      ],
+      "actionableSteps": [
+        "YouTube",
+        "Facebook",
+        "Reddit",
+        "Instagram",
+        "ChatGPT",
+        "Whatsapp",
+        "X",
+        "Wikipedia"
+      ],
+      "readTimeMinutes": 4.34
+    },
+    "youtube-and-seo-page-titles-that-get-more-clicks": {
+      "title": "How I write YouTube and SEO Page Titles that get more clicks | Step-By-Step Guide",
+      "url": "https://edwardsturm.com/articles/youtube-and-seo-page-titles-that-get-more-clicks/",
+      "published": "2025-06-03T11:25:34+00:00",
+      "wordCount": 871,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "GPT 4o writes better YouTube titles than me",
+        "Nobody knows this about SEO page titles",
+        "Bonus",
+        "Wrapping",
+        "Converting"
+      ],
+      "actionableSteps": [
+        "The SEO Trick That Skyrocketed My Page from #50 to #1!",
+        "Rand Fishkin on SEO, AI Overviews, and the Future of Content Marketing",
+        "What the Latest Google Core Update Really Changed",
+        "The SHOCKING Truth About Shared Hosting & SEO Rankings (Real Experiment Results)",
+        "Come up with idea for episode.",
+        "Agonize thinking of the title.",
+        "Record podcast making sure to address the title. This had the added drawback of making it hard to change the title in the future if I thought of something better.",
+        "This had the added drawback of making it hard to change the title in the future if I thought of something better."
+      ],
+      "readTimeMinutes": 4.36
+    },
+    "seo-for-services-businesses-under-one-minute-read-time": {
+      "title": "How to do SEO for services businesses in under a minute",
+      "url": "https://edwardsturm.com/articles/seo-for-services-businesses-under-one-minute-read-time/",
+      "published": "2025-05-18T13:22:42+00:00",
+      "wordCount": 325,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [],
+      "actionableSteps": [
+        "business license filing services",
+        "IRS audit support services",
+        "e-commerce bookkeeping services",
+        "VIP guest coordination services",
+        "corporate retreat planning services",
+        "private party planning services",
+        "People searching with the word \"services\" are looking to spend money.",
+        "In any field, the more granular the task, the more unlikely you are to have a single page dedicated to it - single pages rank better. Example (this ranks #1 for keyword arbitration): https://edwardsturm.com/services/keyword-arbitration/"
+      ],
+      "readTimeMinutes": 1.62
+    },
+    "the-biggest-seo-opportunity-may-still-be-ahead-of-us": {
+      "title": "The biggest SEO opportunity may still be ahead of us",
+      "url": "https://edwardsturm.com/articles/the-biggest-seo-opportunity-may-still-be-ahead-of-us/",
+      "published": "2025-05-11T13:17:46+00:00",
+      "wordCount": 734,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "What does an under-targeted keyword look like?",
+        "So what should you do?",
+        "The future of search"
+      ],
+      "actionableSteps": [
+        "Are easier to rank on Google for",
+        "Require less words and backlinks BTW Google prefers engagement to backlinks",
+        "BTW Google prefers engagement to backlinks",
+        "Convert better because when you actually target them, you get higher engagement",
+        "Rank faster"
+      ],
+      "readTimeMinutes": 3.67
+    },
+    "10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google": {
+      "title": "10-Minute SEO Hack That Took My Page From Invisible to #1 on Google",
+      "url": "https://edwardsturm.com/articles/10-minute-seo-hack-that-took-my-page-from-invisible-to-1-on-google/",
+      "published": "2025-05-04T10:41:15+00:00",
+      "wordCount": 840,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "SEO Glossary for this article BTW:",
+        "My page",
+        "The 10 minute changes made",
+        "What happened",
+        "March 2023"
+      ],
+      "actionableSteps": [
+        "I cloned the not-ranking page to a new page.",
+        "I spent 5 minutes adding/removing words in the:",
+        "URL",
+        "Page title",
+        "Meta description",
+        "Opening paragraphs",
+        "I want to stress - these changes were minor - I only made them so this new page would not be a 100% copy of the previous page.",
+        "I 301 redirected the old page's URL to the new page's URL."
+      ],
+      "readTimeMinutes": 4.2
+    },
+    "no-link-building-budget-could-buy-these-results": {
+      "title": "No link building budget could buy these results",
+      "url": "https://edwardsturm.com/articles/no-link-building-budget-could-buy-these-results/",
+      "published": "2025-05-01T07:08:48+00:00",
+      "wordCount": 661,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "The mistake that everybody makes",
+        "Backlinks"
+      ],
+      "actionableSteps": [
+        "Works as a lead magnet for Sleepopolis.",
+        "Helps Sleepopolis rank for more lucrative competitive keywords by boosting its SEO authority.",
+        "Lead magnet for Canva.",
+        "Helps Canva show up high on Google for competitive keywords.",
+        "Buy cheap memorable domain. This has added benefit of making web apps fun to share on TikTok/IG Reels/YT Shorts. \"Sleepyti.me\" is way easier to share on video than \"Sleepopolis.com/calculators/sleep/.\"",
+        "This has added benefit of making web apps fun to share on TikTok/IG Reels/YT Shorts. \"Sleepyti.me\" is way easier to share on video than \"Sleepopolis.com/calculators/sleep/.\"",
+        "Put simple web app on that domain.",
+        "Launch on Product Hunt / BetaList or send to journalists who have reported on your niche / similar products."
+      ],
+      "readTimeMinutes": 3.31
+    },
+    "give-visitors-what-they-want-before-they-start-scrolling": {
+      "title": "Give visitors what they want before they start scrolling",
+      "url": "https://edwardsturm.com/articles/give-visitors-what-they-want-before-they-start-scrolling/",
+      "published": "2025-04-22T13:28:22+00:00",
+      "wordCount": 530,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Principle",
+        "Backlinks",
+        "Google is a lot like TikTok now",
+        "More SEO resources:"
+      ],
+      "actionableSteps": [],
+      "readTimeMinutes": 2.65
+    },
+    "quality-ideas-not-gear": {
+      "title": "Quality Ideas, Not Gear",
+      "url": "https://edwardsturm.com/articles/quality-ideas-not-gear/",
+      "published": "2025-04-13T08:59:14+00:00",
+      "wordCount": 527,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "Like this one...",
+        "Repeatable strategy to get people to share",
+        "The only quality that matters is the quality of your message"
+      ],
+      "actionableSteps": [],
+      "readTimeMinutes": 2.63
+    },
+    "target-competitor-brand-names-using-video": {
+      "title": "Target Competitor Brand Names Using Video",
+      "url": "https://edwardsturm.com/articles/target-competitor-brand-names-using-video/",
+      "published": "2025-04-06T08:48:21+00:00",
+      "wordCount": 752,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "paid media",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "Here's how to target competitors' names with video for free",
+        "Execute this for free:",
+        "Execute this with a budget:",
+        "Execute this with a bigger budget:",
+        "Video"
+      ],
+      "actionableSteps": [
+        "Relevance: The competitor brand name is at the beginning of the video title and description. Add a 50-100 word description for extra relevance. You can just use the transcript (proofread) of your video for this. Relevant thumbnail - a thumbnail that's relevant to the topic.",
+        "The competitor brand name is at the beginning of the video title and description.",
+        "Add a 50-100 word description for extra relevance. You can just use the transcript (proofread) of your video for this.",
+        "Relevant thumbnail - a thumbnail that's relevant to the topic.",
+        "Recency - recent videos tend to do better.",
+        "Trustworthiness - not a brand new account with one video.",
+        "Concise - short form mobile videos, especially YouTube Shorts , do well."
+      ],
+      "readTimeMinutes": 3.76
+    },
+    "post-daily-dont-give-up": {
+      "title": "Post",
+      "url": "https://edwardsturm.com/articles/post-daily-dont-give-up/",
+      "published": "2025-04-01T16:00:24+00:00",
+      "wordCount": 1447,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "Blake Lloyd",
+        "How you can do this too",
+        "SEO",
+        "Post",
+        "Compact Keywords"
+      ],
+      "actionableSteps": [
+        "Either use your main or do what Blake did and create a new account. Create new accounts on Instagram, TikTok, Pinterest, a LinkedIn company page, a new X, a new YouTube, a Facebook page.",
+        "Show your face in content. This study found that photos with faces get 38% more likes and 32% more comments. The study also found that the age or gender of the face didn't have an effect. Aside from the above, people buy from people. You craft a personal journey. It builds trust.",
+        "This study found that photos with faces get 38% more likes and 32% more comments. The study also found that the age or gender of the face didn't have an effect.",
+        "Aside from the above, people buy from people.",
+        "You craft a personal journey.",
+        "It builds trust.",
+        "Use a lot of video because it's heavily prioritized in algorithms.",
+        "Use an automation tool to have your videos simultaneously release everywhere. It used to be this worked poorly with Meta platforms. However, it seems this now works well . Recently, I received an email from a subscriber of my newsletter , \"I used your automation to grow from 0 to 100k followers on IG in 6 months. I post to TikTok only and the videos automatically come out everywhere else.\" That's from Michael Taylor - IG: https://www.instagram.com/shiftingshares/ TikTok: https://www.tiktok.com/@shiftingshares The automation I use and Michael uses is Repurpose ."
+      ],
+      "readTimeMinutes": 7.24
+    },
+    "easy-seo-big-purchase-orders": {
+      "title": "Easy SEO to Get Big Purchase Orders",
+      "url": "https://edwardsturm.com/articles/easy-seo-big-purchase-orders/",
+      "published": "2025-03-23T15:43:13+00:00",
+      "wordCount": 1116,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "The marketing funnel",
+        "Decision makers",
+        "How to find these people who represent a lot of purchasing power",
+        "Example keywords",
+        "Pages"
+      ],
+      "actionableSteps": [
+        "Page title (at the beginning).",
+        "Meta description (at the beginning).",
+        "URL slug.",
+        "H1 (the big top heading).",
+        "First sentence of the page (at the beginning).",
+        "Schools",
+        "Districts",
+        "Hospitals"
+      ],
+      "readTimeMinutes": 5.58
+    },
+    "cafe-trick-hack-engagement-instagram-reels-tiktok-youtube-shorts": {
+      "title": "The Cafe Trick | Hack Video Engagement",
+      "url": "https://edwardsturm.com/articles/cafe-trick-hack-engagement-instagram-reels-tiktok-youtube-shorts/",
+      "published": "2025-03-16T13:23:22+00:00",
+      "wordCount": 1178,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "The discovery",
+        "Reproducing it",
+        "Why it works and can it be faked?",
+        "Combining the cafe trick with other tricks",
+        "If you're using video to get sales"
+      ],
+      "actionableSteps": [
+        "I'm self-conscious when recording from a crowded cafe and as a result I'm speaking in hushed tones. Inadvertently it sounds like I'm about to share a secret . This, I believe, is the #1 thing. It's possible to fake it, but I haven't been able to just yet. Being forced to whisper seems to make viewers listen up.",
+        "This, I believe, is the #1 thing. It's possible to fake it, but I haven't been able to just yet. Being forced to whisper seems to make viewers listen up.",
+        "The ambient noise of the cafe makes it more mysterious. Again, this can be faked. Play cafe sounds combined with cafe music (both on YouTube) on a speaker to make it seem like you're in a cafe.",
+        "Again, this can be faked. Play cafe sounds combined with cafe music (both on YouTube) on a speaker to make it seem like you're in a cafe.",
+        "Just the setting of being around other people, or not home, or not in a quiet location, makes the content stand out. Most people record from their homes. Can be faked with green screen effect.",
+        "Can be faked with green screen effect.",
+        "Giving an affiliate code greatly reduces success rate. People are lazy and they won't use the code if it doesn't give an added discount.",
+        "My trick is to buy short domains that are memorable, say them in my videos, and redirect them to the right places. Reusevideo.com -> https://repurpose.io/easily-grow-following/?aff=41925 Aipodcastmatcher.com -> https://podmatch.com/?ref=1662204885108408577916226610560 Edwardspod.com -> https://edwardsturm.com/the-edward-show/"
+      ],
+      "readTimeMinutes": 5.89
+    },
+    "get-on-podcasts-as-guest-2025": {
+      "title": "How to Get On Podcasts as a Guest in 2025: The Easy Way",
+      "url": "https://edwardsturm.com/articles/get-on-podcasts-as-guest-2025/",
+      "published": "2025-03-10T20:17:42+00:00",
+      "wordCount": 2514,
+      "primaryTheme": "ai_automation",
+      "category": "Feature",
+      "tags": [
+        "feature",
+        "misc"
+      ],
+      "headings": [
+        "How going on podcasts benefits you",
+        "PodMatch",
+        "MatchMaker.fm",
+        "Bonus: word of mouth",
+        "Cold emailing: not an easy way"
+      ],
+      "actionableSteps": [
+        "It's a solid way to get distribution and build top-of-mind awareness for your brand.",
+        "You become friends with sought-after people (podcast hosts) who connect you with more sought-after people.",
+        "You get an essentially never-ending stream of content to repurpose for social media.",
+        "Podcast appearances give you backlinks, which benefits your SEO (search engine optimization).",
+        "Podcasts wanting you as a guest validates your authority. Sharing your appearances on LinkedIn, X, YouTube, and TikTok lets people know your brand is in demand.",
+        "Algorithmically connects you to hosts looking for guests based on similar interests.",
+        "There are a lot of very active hosts on the platform.",
+        "Connects you with several hosts a day who may be a good fit for you."
+      ],
+      "readTimeMinutes": 12.57
+    },
+    "three-podcasts-five-growth-hacks": {
+      "title": "Three Podcasts, Five Growth Hacks",
+      "url": "https://edwardsturm.com/articles/three-podcasts-five-growth-hacks/",
+      "published": "2025-03-09T15:19:53+00:00",
+      "wordCount": 1412,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "paid media",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "\"What is the one thing that almost made you not buy?\"",
+        "Three podcasts",
+        "Turning one-time customers into repeat customers",
+        "One of the craziest Local SEO shortcuts",
+        "High frequency posting lifestyle"
+      ],
+      "actionableSteps": [
+        "\"What can you tell us about yourself?\"",
+        "\"How many other sites did you look at for \"x product\" before buying from us? Which ones? \"",
+        "\"What made you choose our site?\"",
+        "All survey questions and a lot more are shared here (and yes, Matthew gave me permission to share this).",
+        "Local Instagram accounts and local newsletters constantly need local information to share with their followers & subscribers. Some charge a small advertising fee, others don't.",
+        "You have a giveaway or huge discount.",
+        "It's announced to the local IGs and newsletters.",
+        "Lots of people who haven't previously been exposed to your business see this, put your business name into Google Maps, use directions, and go to your business."
+      ],
+      "readTimeMinutes": 7.06
+    },
+    "increase-email-open-rates-four-hacks": {
+      "title": "Increase Email Open Rates With These Four Hacks",
+      "url": "https://edwardsturm.com/articles/increase-email-open-rates-four-hacks/",
+      "published": "2025-03-04T07:50:00+00:00",
+      "wordCount": 738,
+      "primaryTheme": "content",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc"
+      ],
+      "headings": [
+        "One-word subject lines",
+        "My welcome automation",
+        "Consistency",
+        "Culling the herd",
+        "Compact Keywords"
+      ],
+      "actionableSteps": [
+        "While the welcome email is automatic, I personally respond to everyone, asking about their business, the freelancing/work they do, or what they study. I've thought about using AI for this, but many people respond with more than just a letter, and responding manually allows me to keep a pulse on who's attracted to my newsletter and what they're looking for.",
+        "One day after the welcome email, I also have another automatic email go out, with five actionable marketing hacks anybody can implement. I tried hard to make that email a banger to set a high expectation with the newsletter, further boosting open rates.",
+        "Your writing style and techniques improve (my newsletter did not start with one-word subject lines).",
+        "You're forced to explore topics more. You become better at doing and explaining them. Few people become excellent and many people recognize excellence.",
+        "Segmented my list into people who haven't opened an email in the last three months.",
+        "Sent an email to these people saying, \"I'm cleaning my list and my email marketing provider says you haven't opened my emails in the last three months. If this isn't true, please click this button to remain on the list.\"",
+        "Gave these people 1.5 months to click the button.",
+        "Archived all contacts who did not click the button."
+      ],
+      "readTimeMinutes": 3.69
+    },
+    "everything-in-marketing-is-a-block-of-stone-with-a-beautiful-sculpture-inside": {
+      "title": "Stone",
+      "url": "https://edwardsturm.com/articles/everything-in-marketing-is-a-block-of-stone-with-a-beautiful-sculpture-inside/",
+      "published": "2025-02-25T09:15:21+00:00",
+      "wordCount": 724,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "Here's how I found that beautiful sculpture",
+        "Is your business a block of stone yet to find its beautiful sculpture?"
+      ],
+      "actionableSteps": [
+        "Your business",
+        "Your Instagram image post",
+        "Your TikTok",
+        "Your YouTube video",
+        "Your landing page",
+        "Your Instagram Reel",
+        "Your SEO",
+        "The long introduction was cut. It was a better hook to start with a close up of the dog in the suit along with the scenario, than to introduce the dog and the scenario."
+      ],
+      "readTimeMinutes": 3.62
+    },
+    "i-used-a-celebritys-death-to-go-viral": {
+      "title": "I Used a Celebrity's Death to Go Viral",
+      "url": "https://edwardsturm.com/articles/i-used-a-celebritys-death-to-go-viral/",
+      "published": "2025-02-25T06:32:00+00:00",
+      "wordCount": 942,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "social media organic"
+      ],
+      "headings": [
+        "The Death of Duo, the Duolingo Owl",
+        "The rise of \"Free Tool Marketing\"",
+        "Ok so what happened next????"
+      ],
+      "actionableSteps": [
+        "100s of new followers on X (NICE)",
+        "Someone at Duolingo reached out and said they loved the post (BOOM!)",
+        "Someone at a public company reached out to mention me in a blog (SEO juice!)",
+        "A good story to tell my grandkids about how I leveraged a fake owl's death on my route to making generational wealth from dank memes"
+      ],
+      "readTimeMinutes": 4.71
+    },
+    "rank-google-best-of-keywords-2025": {
+      "title": "How to Rank on Google for 'Best of' Keywords",
+      "url": "https://edwardsturm.com/articles/rank-google-best-of-keywords-2025/",
+      "published": "2025-02-09T14:00:22+00:00",
+      "wordCount": 1292,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Google is changing",
+        "Meanwhile Google just announced",
+        "'Best of' lists",
+        "My take on what originality means",
+        "And how to rank for 'Best of' keywords"
+      ],
+      "actionableSteps": [
+        "Don't build spammy backlinks - or make sure your agency isn't. Instead use niche directories , meetups , podcasts , expert quotes - and places where your links will actually be clicked . For the more advanced people reading - having a hyper-natural backlink profile is becoming even more important.",
+        "Instead use niche directories , meetups , podcasts , expert quotes - and places where your links will actually be clicked . For the more advanced people reading - having a hyper-natural backlink profile is becoming even more important.",
+        "For the more advanced people reading - having a hyper-natural backlink profile is becoming even more important.",
+        "Stay away from AI generated text. If you decide to use it, make sure it's heavily human-edited.",
+        "Prioritize search intent above everything. When targeting a keyword, think about what searchers are actually looking to achieve with their search. Give that in your pages as soon as possible. Shockingly, Most SEOs don't actually put thought into their pages like this. So by doing this, you stand out.",
+        "Shockingly, Most SEOs don't actually put thought into their pages like this. So by doing this, you stand out.",
+        "Add differentiators to your page titles. Don't just call your page, \"Best Houston Window Cleaners.\" Call it, \"Best Houston Window Cleaners | Fast & Quiet Cleaning\"",
+        "Give searchers their answers as soon as possible. I started using TL;DRs at the top of my posts, like I did with this article. Most SEO spammers try to hold their searchers hostage to maximize time on page. They do this with a lot of fluff content at the top of a page, making visitors scroll and scroll to find what they're looking for."
+      ],
+      "readTimeMinutes": 6.46
+    },
+    "four-useful-things-for-social-media-marketing-and-seo": {
+      "title": "Four",
+      "url": "https://edwardsturm.com/articles/four-useful-things-for-social-media-marketing-and-seo/",
+      "published": "2025-02-02T13:46:57+00:00",
+      "wordCount": 1169,
+      "primaryTheme": "seo",
+      "category": "Feature",
+      "tags": [
+        "feature",
+        "growth marketing newsletter",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "1. TikTok gives reminders",
+        "2. Putting keywords in the critical places.",
+        "3. You can do SEO without a website",
+        "4. Buying domains to share long URLs",
+        "That's it!"
+      ],
+      "actionableSteps": [
+        "Most people don't have a target keyword.",
+        "People who have a target keyword either don't put it in the right places, or overuse it altogether.",
+        "At the beginning of the Page Title and add something after that makes your Page Title different from others. Example : NYC Website Migration SEO Services | Migrate Without Losing Traffic | Sturm Media. \"NYC Website Migration SEO Services\" is the keyword. \"Migrate Without Losing Traffic\" is the extra bit to show searchers this page understands them (this increases CTR). \"Sturm Media\" is the brand name.",
+        "\"NYC Website Migration SEO Services\" is the keyword. \"Migrate Without Losing Traffic\" is the extra bit to show searchers this page understands them (this increases CTR). \"Sturm Media\" is the brand name.",
+        "At the beginning of the meta description.",
+        "In the URL slug.",
+        "In the H1.",
+        "At the beginning of the first sentence."
+      ],
+      "readTimeMinutes": 5.84
+    },
+    "how-often-to-post-on-instagram-2025": {
+      "title": "How Often to Post on Instagram in 2025 - As Much as You Can",
+      "url": "https://edwardsturm.com/articles/how-often-to-post-on-instagram-2025/",
+      "published": "2025-01-27T06:19:11+00:00",
+      "wordCount": 1485,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "But is this a one-off thing? Will this work for anybody?",
+        "The lessons",
+        "How to get inspiration for what to post",
+        "The reward for this?",
+        "Compact Keywords"
+      ],
+      "actionableSteps": [
+        "You get rewarded for posting a lot on Instagram.",
+        "You don't just get more followers, you get more visibility - more impressions on your brand or whatever you're promoting.",
+        "The craziest thing - and this was from my first-hand experience - the more I posted, the more impressions subsequent posts would get. Higher posting frequency was boosting the visibility of all my Reels posted in that period. My guess is because the more I posted, the more unhinged and authentic I became. So posting a lot actually made my posts (mostly Reels) more engaging .",
+        "My guess is because the more I posted, the more unhinged and authentic I became. So posting a lot actually made my posts (mostly Reels) more engaging .",
+        "Sold their company for $745 million to Salesforce (they made the first social media management platform).",
+        "Google wanted it for $2 billion but was under antitrust heat from the U.S. government.",
+        "Gary Vaynerchuk started VaynerMedia from their conference room.",
+        "They pitched Mark Zuckerberg on allowing advertisers on Facebook back when Facebook was called \"thefacebook\" - Zuck didn't want to do it."
+      ],
+      "readTimeMinutes": 7.42
+    },
+    "social-media-posting-strategy": {
+      "title": "My Exact Social Media Posting Strategy",
+      "url": "https://edwardsturm.com/articles/social-media-posting-strategy/",
+      "published": "2025-01-18T15:02:17+00:00",
+      "wordCount": 1527,
+      "primaryTheme": "social_media",
+      "category": "Feature",
+      "tags": [
+        "feature",
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [
+        "I shoot my videos on my phone or laptop. I edit the footage in Descript because its AI abilities make editing fast and easy. I export in max quality. When I first started, I just shot and edited everything inside the TikTok app. The Instagram app works for this as well. These are fast, free alternatives. The videos won't be as polished, but when you're just starting and building momentum, it doesn't matter.",
+        "When I first started, I just shot and edited everything inside the TikTok app. The Instagram app works for this as well. These are fast, free alternatives. The videos won't be as polished, but when you're just starting and building momentum, it doesn't matter.",
+        "I put the video into TikTok, which gives recommended songs that match the contents of the video . TikTok's algos are very good at this . This saves me time because I don't have to find music myself. You can do this in the Instagram app, too.",
+        "I upload to TikTok. I use 4 hashtags for TikTok. I toggle on \"Allow high-quality uploads.\" I find a relevant keyword. I put it directly at the beginning of the video description. I write a long description explaining the contents of the video (or I just paste my video transcript). This is a hack to get videos ranking on Google for desired keywords the next day .",
+        "I use 4 hashtags for TikTok.",
+        "I toggle on \"Allow high-quality uploads.\"",
+        "I find a relevant keyword. I put it directly at the beginning of the video description. I write a long description explaining the contents of the video (or I just paste my video transcript). This is a hack to get videos ranking on Google for desired keywords the next day .",
+        "My automation with Repurpose makes my videos auto-publish without the TikTok watermark to: Snapchat. The most valuable channel of my automated channels. Auto-publishing on Snapchat Spotlight works well . Pinterest. LinkedIn. Google Drive. Always do this. Having a backup of your content is very valuable ."
+      ],
+      "readTimeMinutes": 7.63
+    },
+    "how-to-get-on-google-images": {
+      "title": "How to Get On Google Images | Step-By-Step Guide",
+      "url": "https://edwardsturm.com/articles/how-to-get-on-google-images/",
+      "published": "2025-01-12T14:37:40+00:00",
+      "wordCount": 1221,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "BUT",
+        "How you can do this too",
+        "This doesn't just have to be for a person",
+        "Compact Keywords"
+      ],
+      "actionableSteps": [
+        "Nobody thinks to go after them.",
+        "Nobody knows how to find them.",
+        "Everybody targets them wrong."
+      ],
+      "readTimeMinutes": 6.11
+    },
+    "greatest-networking-hack": {
+      "title": "The Greatest Networking Hack",
+      "url": "https://edwardsturm.com/articles/greatest-networking-hack/",
+      "published": "2025-01-05T14:30:23+00:00",
+      "wordCount": 1110,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "Option A",
+        "Option B",
+        "What would you pick??",
+        "How it works",
+        "Level one"
+      ],
+      "actionableSteps": [
+        "Network where you get to look at accomplishments and descriptions and pick who you talk to.",
+        "Guarantee you're going to talk for an hour - enough time to create a connection.",
+        "Simultaneously build a personal brand.",
+        "Simultaneously do SEO.",
+        "Get paid for each networking call you have.",
+        "You meet a random person and talk to them for an unspecified amount of time and that's it."
+      ],
+      "readTimeMinutes": 5.55
+    },
+    "trending-keywords": {
+      "title": "Trending Keywords",
+      "url": "https://edwardsturm.com/articles/trending-keywords/",
+      "published": "2024-12-29T13:34:39+00:00",
+      "wordCount": 628,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Again",
+        "I didn't need it",
+        "Why is this cool?"
+      ],
+      "actionableSteps": [
+        "Every niche has keywords like this. Fintech trends in 2025. Agriculture trends 2025. Restaurant trends 2025. Every niche.",
+        "The main people searching keywords like this will be in your niche. By showing up for these keywords, it's an easy way to make your brand a thought leader. In my case the people searching \"SEO trends 2018\" were people at performance marketing agencies, even top ones.",
+        "For many of us, when we have ambitious dreams, what we instead see is a huge mountain. The thing is, if you try to climb that mountain all at once, it's 100% going to be difficult or impossible. But if you slow play it and get a head start, if you're willing to wait and take gradual steps (in my case making small updates each month), that ambitious goal is achievable. Very achievable, in fact. But when you're head up again the mountain, with little time to spare (me in 2016), it's hard."
+      ],
+      "readTimeMinutes": 3.14
+    },
+    "the-most-powerful-seo": {
+      "title": "The Most Powerful SEO",
+      "url": "https://edwardsturm.com/articles/the-most-powerful-seo/",
+      "published": "2024-12-22T12:35:43+00:00",
+      "wordCount": 734,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "Perspective",
+        "Why this works",
+        "Remaining to test",
+        "My recommendation"
+      ],
+      "actionableSteps": [
+        "You don't need a website.",
+        "You can rank in 8 hours after publishing your content.",
+        "You can make said content in 10 minutes.",
+        "You can take up all the top spots in a search engine results page with this easy-to-make content!",
+        "The keyword is placed at the beginning of the title field and the beginning of the description field. The rest of the description is populated with an edited transcript of the video. Here's exactly how I post my daily YouTube Shorts, TikToks, and Instagram Reels . This emphasizes that the video is hyper-relevant to the keyword.",
+        "The video is shorter (people want answers/solutions) fast! You'd much prefer to get your answer from an 18 second video, than reading a long article.",
+        "The video is more recent."
+      ],
+      "readTimeMinutes": 3.67
+    },
+    "featured-free-tier-is-mental": {
+      "title": "Featured Free Tier Is Mental",
+      "url": "https://edwardsturm.com/articles/featured-free-tier-is-mental/",
+      "published": "2024-12-15T11:04:35+00:00",
+      "wordCount": 340,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "seo"
+      ],
+      "headings": [
+        "So how would you use this?"
+      ],
+      "actionableSteps": [],
+      "readTimeMinutes": 1.7
+    },
+    "search-engine-deoptimization": {
+      "title": "Search Engine Deoptimization Stories & Examples",
+      "url": "https://edwardsturm.com/articles/search-engine-deoptimization/",
+      "published": "2024-12-08T11:17:36+00:00",
+      "wordCount": 935,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Low Domain Authority sites increasing Google rankings",
+        "Principle",
+        "Removing keywords from a page to rank for removed keywords",
+        "Targeting generic anchor text to rank better",
+        "Deoptimize"
+      ],
+      "actionableSteps": [
+        "Page title",
+        "Meta description",
+        "URL",
+        "Top heading (H1)",
+        "First sentence"
+      ],
+      "readTimeMinutes": 4.67
+    },
+    "steal-this-product-promotion-format": {
+      "title": "Steal This Product Promotion Format",
+      "url": "https://edwardsturm.com/articles/steal-this-product-promotion-format/",
+      "published": "2024-12-01T16:29:05+00:00",
+      "wordCount": 690,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "Now here's what's cool",
+        "A pattern is emerging",
+        "So I love this"
+      ],
+      "actionableSteps": [
+        "Tight shot of my face.",
+        "Captions in the middle.",
+        "Whispering.",
+        "Ambient cafe sounds and no music.",
+        "Extended build up before sharing the product.",
+        "Explaining personal experience.",
+        "Casual speaking.",
+        "Sharing my laptop showing my actual set up with the product (proof that I use it)."
+      ],
+      "readTimeMinutes": 3.45
+    },
+    "post-even-if-imperfect": {
+      "title": "Imperfect",
+      "url": "https://edwardsturm.com/articles/post-even-if-imperfect/",
+      "published": "2024-11-24T12:04:17+00:00",
+      "wordCount": 826,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [],
+      "readTimeMinutes": 4.13
+    },
+    "5-minute-seo-ranking": {
+      "title": "Outranking the New York Times in 5 Minutes",
+      "url": "https://edwardsturm.com/articles/5-minute-seo-ranking/",
+      "published": "2024-11-17T15:10:27+00:00",
+      "wordCount": 1337,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Here's how I did it",
+        "SEO",
+        "Now it's never this fast",
+        "The craziest thing"
+      ],
+      "actionableSteps": [
+        "Write for us and then flex on LinkedIn that we included them in our blog - this actually happened.",
+        "Write entire articles for us - asking for entire articles was against the rules of Help a Reporter Out but I was determined to make it happen.",
+        "Page title",
+        "Meta description",
+        "URL",
+        "H1",
+        "First sentence",
+        "Google hates when it thinks you understand it. Understanding exactly how it works makes it more likely you will game it and rank bad content. This harms searchers and as a result harms Google. The random volatility makes you focus more on the fundamentals (\"write good content\")."
+      ],
+      "readTimeMinutes": 6.68
+    },
+    "pour-one-out-for-help-a-reporter-out": {
+      "title": "Pour one out for Help a Reporter Out",
+      "url": "https://edwardsturm.com/articles/pour-one-out-for-help-a-reporter-out/",
+      "published": "2024-11-10T12:28:59+00:00",
+      "wordCount": 446,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "SoS",
+        "And here's why I'm now obsessed with Source of Sources"
+      ],
+      "actionableSteps": [
+        "Tons of AI generated responses to journalists.",
+        "Tons of people sending journalists irrelevant pitches.",
+        "General nonsense responses to journalists that wasted their time.",
+        "Help a Reporter Out's expert scoring system was never used.",
+        "If you pitch a journalist something irrelevant even once , you're booted from the platform.",
+        "If you respond to a journalist with AI written text, you're booted from the platform.",
+        "If you waste a journalist's time with nonsense... you're booted from the platform.",
+        "No forgiveness for offenders. Bans for life."
+      ],
+      "readTimeMinutes": 2.23
+    },
+    "5x-tiktok-growth": {
+      "title": "5x TikTok Growth",
+      "url": "https://edwardsturm.com/articles/5x-tiktok-growth/",
+      "published": "2024-10-27T19:22:52+00:00",
+      "wordCount": 372,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "Retrying on TikTok",
+        "Here's why",
+        "How I do it"
+      ],
+      "actionableSteps": [],
+      "readTimeMinutes": 1.86
+    },
+    "linkedin-hacks": {
+      "title": "My LinkedIn Hacks Got This Guy Hired",
+      "url": "https://edwardsturm.com/articles/linkedin-hacks/",
+      "published": "2024-10-20T18:23:18+00:00",
+      "wordCount": 1177,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc"
+      ],
+      "headings": [
+        "LinkedIn is a search and recommendation engine",
+        "Use action words",
+        "Show results",
+        "Connections",
+        "Use Featured section & Experience section examples"
+      ],
+      "actionableSteps": [
+        "Put your niche and a few synonyms for it in your Headline.",
+        "Put a super thorough About section. Bullet out accomplishments. Put tons of tasks you might perform in your position ( anything you can think of that would be done on the job). Put in all the tools you might have to use. Below is a screenshot of David Castillo's LinkedIn About (feel free to add him). Notice how it has tons of tasks and tools.",
+        "Bullet out accomplishments.",
+        "Put tons of tasks you might perform in your position ( anything you can think of that would be done on the job).",
+        "Put in all the tools you might have to use.",
+        "Below is a screenshot of David Castillo's LinkedIn About (feel free to add him). Notice how it has tons of tasks and tools.",
+        "Make each job summary you held packed tight with tasks, synonyms of tasks, and every tool imaginable (my screenshot above is a good example of this ). Again, bullet things out so it's easy to read.",
+        "Get written recommendations from anybody you can. When I did my LinkedIn in 2016 I valued recommendations so highly I even asked my website developer ( who I was paying and not the other way around ) to give me a recommendation. In fact if you go to my LinkedIn , scroll to recommendations at the bottom, and go back in time you can see all the recommendations I got in 2016. Recommendations are great because they're hard to fake. People can click on profiles and see that they're real active people, which makes you look legitimate."
+      ],
+      "readTimeMinutes": 5.88
+    },
+    "engagement-statistics-viral-short-form-video": {
+      "title": "Engagement Statistics From a Viral Short-Form Video",
+      "url": "https://edwardsturm.com/articles/engagement-statistics-viral-short-form-video/",
+      "published": "2024-10-20T15:20:29+00:00",
+      "wordCount": 485,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [
+        "Retention is sooooo important . If you watch the video, you'll notice it's 4 marketing stunts all in one 59 second video. This keeps it moving fast. When you combine this with the general audience subject matter and interesting activities, retention is kept high.",
+        "People liked the video right away on TikTok . Something I've noticed is TikTok is one of the best testing grounds for hooks . My hook in this video was negative (negative hooks perform better than positive ones), even though I kept the rest of the video positive. I also had a good music-to-visual match right at the beginning. As a result of all this, you see most viewers liked the video right away on TikTok + the good hook helped with retention, above. In fact this is a quote from MrBeast's internal company handbook : \"Say the negatives. Don't just tell people on your team or me why something is good. It's infinitely more valuable to tell us why it's not good. I FOUND THE CASTLE WE NEED FOR THE VIDEO! But it's booked all year, over-budget, and someone died in it last week.\" The same principle applies to engagement.",
+        "In fact this is a quote from MrBeast's internal company handbook : \"Say the negatives. Don't just tell people on your team or me why something is good. It's infinitely more valuable to tell us why it's not good. I FOUND THE CASTLE WE NEED FOR THE VIDEO! But it's booked all year, over-budget, and someone died in it last week.\" The same principle applies to engagement.",
+        "TikTok top words in comments shows a range of topics. Everybody knows the eight brands in this video + the stunts are dramatic. As a result, there's something for everybody to remark on. Rather than telling people to comment/like, I make it easy for them by giving things that are relevant and polarizing. You see this in the engagement stats too - there's correlations between views, and likes + comments."
+      ],
+      "readTimeMinutes": 2.42
+    },
+    "seo-easy-mode": {
+      "title": "SEO Easy Mode",
+      "url": "https://edwardsturm.com/articles/seo-easy-mode/",
+      "published": "2024-10-13T15:45:46+00:00",
+      "wordCount": 483,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Here's the trick",
+        "But I didn't stop there",
+        "Then I..."
+      ],
+      "actionableSteps": [],
+      "readTimeMinutes": 2.42
+    },
+    "25-hooks-tiktok-instagram-reels-youtube-shorts": {
+      "title": "25 Hooks for TikTok, Instagram Reels, and YouTube Shorts",
+      "url": "https://edwardsturm.com/articles/25-hooks-tiktok-instagram-reels-youtube-shorts/",
+      "published": "2024-10-13T12:39:10+00:00",
+      "wordCount": 770,
+      "primaryTheme": "social_media",
+      "category": "Social Media Organic",
+      "tags": [
+        "social media organic"
+      ],
+      "headings": [
+        "Hooks for YouTube Shorts",
+        "Hooks for TikTok",
+        "Hooks for Instagram Reels",
+        "How I post",
+        "More hooks"
+      ],
+      "actionableSteps": [
+        "Your X isn't (ugly, lame, etc.), you just need X .",
+        "Hot (girls, photographers, etc..) don't gatekeep.",
+        "X I've done but it casually gets (worse, more expensive, etc.).",
+        "I don't know how this isn't trending right now, but X .",
+        "If you want to be (cooler, skinnier, funnier, etc.) you have to X .",
+        "POV: you X .",
+        "X things I wish I would have known sooner, but I didn't, so I am sharing them with you.",
+        "Reasons why you should X ."
+      ],
+      "readTimeMinutes": 3.85
+    },
+    "if-people-like-it-once-theyll-like-it-again": {
+      "title": "If people like it once, they'll like it again.",
+      "url": "https://edwardsturm.com/articles/if-people-like-it-once-theyll-like-it-again/",
+      "published": "2024-10-06T15:00:18+00:00",
+      "wordCount": 612,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "My friend",
+        "Me",
+        "How I'll use this for sales",
+        "Can you use this?"
+      ],
+      "actionableSteps": [
+        "A full podcast which outperformed many of my other episodes.",
+        "A less polished, more off-the-cuff video which has received 3.8 million views across all platforms.",
+        "Another also easy video. I told the story in a different podcast and turned this into a vertical video. This video, uploaded last night, is going viral and is up to 150,000 views 16 hours after posting."
+      ],
+      "readTimeMinutes": 3.06
+    },
+    "five-marketing-stories": {
+      "title": "Five marketing stories that will blow your mind",
+      "url": "https://edwardsturm.com/articles/five-marketing-stories/",
+      "published": "2024-09-30T12:49:39+00:00",
+      "wordCount": 997,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "Ranking for 200,000+ keywords with a less-than-one-year-old site",
+        "Clear copywriting",
+        "$80,000 MRR with this faceless TikTok strategy",
+        "Caleb Simpson's story",
+        "$10,000+ MRR with straightforward SEO on a simple app"
+      ],
+      "actionableSteps": [
+        "Write the page title, meta description, and subtitle.",
+        "Classify and organize each summary so that they're all linked to from the footer with just a few clicks.",
+        "Recommend related summaries to keep people on the site.",
+        "Clear, no-nonsense articulation of the problem: (\" Angry with absurd Uber Eats' fees? Want your DoorDash delivery person to care about you and your food? \").",
+        "Clear, no-nonsense explanation of the great solution: (\" I'll deliver for $5 \").",
+        "Professional timer for event productions.",
+        "Online timer for education.",
+        "Free countdown timer for esports tournaments and matches."
+      ],
+      "readTimeMinutes": 4.99
+    },
+    "harsh-feedback-made-me-viral": {
+      "title": "I got harsh feedback. I listened.",
+      "url": "https://edwardsturm.com/articles/harsh-feedback-made-me-viral/",
+      "published": "2024-09-23T15:25:50+00:00",
+      "wordCount": 830,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "The first iteration",
+        "Iteration #3",
+        "Update on removing 4,900 followers last week"
+      ],
+      "actionableSteps": [
+        "How the video was iteration #3 of an idea I previously received validation on.",
+        "How somewhat disappointing performance on one platform does not mean the idea is bad.",
+        "Avoiding tons of views being left on the table.",
+        "My thoughts on automated posting with YouTube Shorts.",
+        "Engagement immediately went up... for what feels like all of my videos.",
+        "Instead of 4,900 flagged followers being removed, only 1,100 were removed.",
+        "I've repeatedly received prompts from Instagram to remove thousands more followers. Upon accepting, very few, if any, followers are actually removed. Others I've spoken with have also shared the same experience.",
+        "Others I've spoken with have also shared the same experience."
+      ],
+      "readTimeMinutes": 4.15
+    },
+    "youtube-seo-emds-in-seo-instagrams-flagged-for-review-followers": {
+      "title": "YouTube SEO, EMDs in SEO, and Instagram's Flagged for Review Followers",
+      "url": "https://edwardsturm.com/articles/youtube-seo-emds-in-seo-instagrams-flagged-for-review-followers/",
+      "published": "2024-09-15T13:12:39+00:00",
+      "wordCount": 765,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "YouTube SEO is still crazy.",
+        "EMDs in SEO are indeed crazy.",
+        "I removed 4,900 followers on Instagram. Here's what I found."
+      ],
+      "actionableSteps": [
+        "Very occasionally, way more followers are removed than Instagram predicts. Example : \"I did it and it removed 11k from my account, it only told me I had 5 spam accounts  don't do it.\"",
+        "The consensus, however, is that removing these flagged followers leads to increased engagement . \"One person used it and immediately had views increase by 300%. Another person used it and Reels that were previously getting 200 views got 2,000-7,000 views.\"",
+        "Still, people report this feature removing actual followers. \"Our list of 'flagged for review' contains mostly real people, where actual bot accounts are ignored by the tool  useless feature .\"",
+        "But... \"Flagged means bots\" and \"IG literally wants you to delete them... Definitely delete them. Listen to the IG overlords and do what it says.\"",
+        "I also read reports that it takes a week to see any change in engagement after doing this.",
+        "Engagement immediately went up... for what feels like all of my videos.",
+        "Instead of 4,900 flagged followers being removed, only 1,100 were removed."
+      ],
+      "readTimeMinutes": 3.83
+    },
+    "ranking-my-newsletter": {
+      "title": "Ranking My Newsletter",
+      "url": "https://edwardsturm.com/articles/ranking-my-newsletter/",
+      "published": "2024-09-01T14:21:01+00:00",
+      "wordCount": 519,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Directories",
+        "On-page optimization"
+      ],
+      "actionableSteps": [
+        "None of the pages ranking on Google were targeting the exact keyword directly. As this is something people search ( a lot more people than one would expect ) I said, I'll do it.",
+        "The Growth Hackers page, previously ranking #1, didn't have much on it (as you can see from the screenshot of the page above). I believed it wouldn't take much for me to create a page with a lower bounce rate. Also, with a better page title I believed I could have a higher clickthrough rate. These are two metrics Google deeply cares about.",
+        "Page title.",
+        "Meta description.",
+        "Alt text.",
+        "Body text."
+      ],
+      "readTimeMinutes": 2.6
+    },
+    "link-getting-backlinks-in-hyrule": {
+      "title": "Link Getting Backlinks in Hyrule",
+      "url": "https://edwardsturm.com/articles/link-getting-backlinks-in-hyrule/",
+      "published": "2024-08-18T10:58:27+00:00",
+      "wordCount": 853,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "Grok 2.0",
+        "Podcast Guesting"
+      ],
+      "actionableSteps": [
+        "This functionality rolled out to everybody on Thursday, 8/15/24.",
+        "It's already being patched. Some of the controversial prompts that worked Thursday no longer work.",
+        "If it is restricted to the extent OpenAI's image generation tool, DALLE, is then even more 'innocent' images like the heading image here will not be possible.",
+        "Midjourney isn't a great alternative as it has trouble with recognizable characters combined with familiar logos and text.",
+        "Generating many images of familiar characters doing things in their niche. Examples: SEO. Shopping for shoes on Amazon. Drinking iced tea in a backyard. Plumbing. Fitness.",
+        "SEO.",
+        "Shopping for shoes on Amazon.",
+        "Drinking iced tea in a backyard."
+      ],
+      "readTimeMinutes": 4.26
+    },
+    "get-guest-writers": {
+      "title": "Using SEO to Get Guest Writers, Clout, and Users",
+      "url": "https://edwardsturm.com/articles/get-guest-writers/",
+      "published": "2024-08-11T13:56:03+00:00",
+      "wordCount": 1347,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Oh there was one more thing.",
+        "And it worked!",
+        "The one problem",
+        "How I handled this",
+        "Will I do this again?"
+      ],
+      "actionableSteps": [
+        "I had a website in a niche for a web app.",
+        "The website had - still has - decent SEO domain authority (~30/100). Domain authority is simply a 1/100 score for how able a website is to rank on Google for its desired keywords. I have a deeper explanation on Domain Authority here .",
+        "Domain authority is simply a 1/100 score for how able a website is to rank on Google for its desired keywords. I have a deeper explanation on Domain Authority here .",
+        "The website's brand was not well-known enough in the niche.",
+        "In almost every niche, there are professionals with pre-existing networks who want to guest write for relevant blogs. They want this because: They can share their guest articles on social media to flex and elevate their authority as a thought leader. Writing a post on LinkedIn Pulse isn't as cool as writing an article for an industry blog. This makes them more Googleable. They don't know how to check traffic scores and perceive any industry blog they come across as trafficked enough to be worth it.",
+        "They want this because: They can share their guest articles on social media to flex and elevate their authority as a thought leader. Writing a post on LinkedIn Pulse isn't as cool as writing an article for an industry blog. This makes them more Googleable. They don't know how to check traffic scores and perceive any industry blog they come across as trafficked enough to be worth it.",
+        "They can share their guest articles on social media to flex and elevate their authority as a thought leader. Writing a post on LinkedIn Pulse isn't as cool as writing an article for an industry blog.",
+        "Writing a post on LinkedIn Pulse isn't as cool as writing an article for an industry blog."
+      ],
+      "readTimeMinutes": 6.74
+    },
+    "youtube-shorts-seo": {
+      "title": "YouTube Shorts SEO",
+      "url": "https://edwardsturm.com/articles/youtube-shorts-seo/",
+      "published": "2024-08-04T08:25:29+00:00",
+      "wordCount": 763,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [
+        "Most creators on YouTube don't know the first thing about SEO so they don't consider this.",
+        "Most creators on YouTube are more focused on long-form videos (YouTube Shorts have to be under 1 minute).",
+        "A YouTube Short can take 15-30 minutes to make (or less).",
+        "Viewers who are searching actually prefer Shorts to long-form. They're searching to get an answer or a solution and want to spend minimal time getting that solution/answer. Specific example from one of the readers of this newsletter, \"I accidentally got a win with YouTube SEO on a YouTube Short. I posted a how-to for one of the most common scooter tricks. It didn't occur to me at the time but people want to learn things quickly, so my 30-second Short was always picked over a 5-10-minute video on the topic. This led to over 100,000 views and 400+ subscribers from a single Short - with 85% of the views coming from search. This Short is still bringing in views and subscribers to this day.\" Thanks again Nick Leinberger for sharing this with me.",
+        "Specific example from one of the readers of this newsletter, \"I accidentally got a win with YouTube SEO on a YouTube Short. I posted a how-to for one of the most common scooter tricks. It didn't occur to me at the time but people want to learn things quickly, so my 30-second Short was always picked over a 5-10-minute video on the topic. This led to over 100,000 views and 400+ subscribers from a single Short - with 85% of the views coming from search. This Short is still bringing in views and subscribers to this day.\" Thanks again Nick Leinberger for sharing this with me.",
+        "Thanks again Nick Leinberger for sharing this with me.",
+        "YouTube Shorts make it so you don't need a website to do SEO.",
+        "YouTube is the second biggest search engine."
+      ],
+      "readTimeMinutes": 3.81
+    },
+    "lessons-from-ryan-reynolds": {
+      "title": "Lessons From Ryan Reynolds",
+      "url": "https://edwardsturm.com/articles/lessons-from-ryan-reynolds/",
+      "published": "2024-07-28T09:38:22+00:00",
+      "wordCount": 1390,
+      "primaryTheme": "content",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc"
+      ],
+      "headings": [
+        "Ryan Reynolds",
+        "Jay Penske",
+        "Jon Gray",
+        "More speakers"
+      ],
+      "actionableSteps": [
+        "Google caters to 8.5 billion searches every day, which is equivalent to 99,000 search queries every second.",
+        "15% of Google searches are unique, which constitutes 1.275 billion unique queries every day.",
+        "Use storytelling in your marketing.",
+        "Capitalize off trending events to get more visibility, engagement, and word of mouth.",
+        "Predictive analysis AI is hyper-useful for making money. Generative AI is hyper-useful for getting engagement.",
+        "My favorite lesson: Think long-term. Ridiculously, obnoxiously long-term. Paradoxically, it's the best way to get short-term success."
+      ],
+      "readTimeMinutes": 6.95
+    },
+    "going-viral-ten-times-with-one-video": {
+      "title": "Going Viral Ten Times With One Video",
+      "url": "https://edwardsturm.com/articles/going-viral-ten-times-with-one-video/",
+      "published": "2024-07-21T13:07:53+00:00",
+      "wordCount": 726,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "1.2 million views",
+        "Why I'm so bullish on this"
+      ],
+      "actionableSteps": [
+        "Not only do I have a huge library of viral videos from posting every day for the last 629 days (yes, without missing a single day).",
+        "Not only do I firmly believe anybody can do this. It took me 2 months posting several videos a day every day before having my first viral video. I think I posted over 100 videos on TikTok before my first one went viral. By the way, if you want some real inspiration, MrBeast just became the most subscribed YouTube channel with 300 million subscribers-but this was his subscriber special when he hit only 300 subscribers-11 years ago. How much has his content improved since then?",
+        "By the way, if you want some real inspiration, MrBeast just became the most subscribed YouTube channel with 300 million subscribers-but this was his subscriber special when he hit only 300 subscribers-11 years ago. How much has his content improved since then?",
+        "I have a bunch of well-performing videos that sell my own products and affiliate products. So I can repost those and make money every time. Quick example. This is an affiliate video I made. It's gone viral four or five times now, I've lost count. Here's an article I wrote last year about how much money the video made . This video went viral twice, sharing my soon to be released product-Compact Keywords-as well as an SEO affiliate product. I'll be posting it again. And again, and again.",
+        "Quick example. This is an affiliate video I made. It's gone viral four or five times now, I've lost count. Here's an article I wrote last year about how much money the video made .",
+        "This video went viral twice, sharing my soon to be released product-Compact Keywords-as well as an SEO affiliate product. I'll be posting it again. And again, and again."
+      ],
+      "readTimeMinutes": 3.63
+    },
+    "linkedin-video-organic-prioritization": {
+      "title": "LinkedIn Video Is Getting Turbocharged: How to Take Advantage of LinkedIn's New Prioritization of Video",
+      "url": "https://edwardsturm.com/articles/linkedin-video-organic-prioritization/",
+      "published": "2024-07-07T14:43:43+00:00",
+      "wordCount": 787,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "How this is changing my LinkedIn strategy",
+        "How you can use this"
+      ],
+      "actionableSteps": [
+        "If your content is valuable, it will be appreciated.",
+        "Hooks work.",
+        "Most people won't see a piece of content the first time.",
+        "Repeatedly reposting your content works.",
+        "If you're not putting up content, people will forget about you.",
+        "Good lighting.",
+        "A microphone.",
+        "A quiet room."
+      ],
+      "readTimeMinutes": 3.94
+    },
+    "pareto-seo": {
+      "title": "Pareto SEO: The 20% of SEO That Matters",
+      "url": "https://edwardsturm.com/articles/pareto-seo/",
+      "published": "2024-07-06T17:18:06+00:00",
+      "wordCount": 986,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Technical SEO",
+        "When does serious technical SEO matter?",
+        "What content to target",
+        "How to target keywords with an existing page",
+        "How to target keywords with a dedicated page"
+      ],
+      "actionableSteps": [
+        "You're not using a user-friendly CMS or builder like Webflow, Elementor or other WordPress site builders, SEO plugins like Yoast, Wix, Squarespace, Weebly, and more.",
+        "You're doing programmatic SEO .",
+        "You're developing your own web app.",
+        "You're doing a migration ."
+      ],
+      "readTimeMinutes": 4.93
+    },
+    "ranking-on-google-in-under-24-hours": {
+      "title": "Ranking on Google in Under 24 Hours",
+      "url": "https://edwardsturm.com/articles/ranking-on-google-in-under-24-hours/",
+      "published": "2024-06-23T17:50:56+00:00",
+      "wordCount": 675,
+      "primaryTheme": "seo",
+      "category": "Feature",
+      "tags": [
+        "feature",
+        "growth marketing newsletter",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "Something I noticed",
+        "So here's what I tried",
+        "The results",
+        "Test 2",
+        "White hat"
+      ],
+      "actionableSteps": [
+        "Is more engaging than a written result.",
+        "Takes less time to understand than a written result.",
+        "Has comments so that: The author can be challenged . More details can be shared by the commenters .",
+        "The author can be challenged .",
+        "More details can be shared by the commenters .",
+        "18,200 views on Instagram Reels and 7 comments.",
+        "4,441 views on YouTube Shorts and 3 comments.",
+        "1,600 views on TikTok and 0 comments."
+      ],
+      "readTimeMinutes": 3.38
+    },
+    "seo-experiments-from-the-google-algorithm-leak": {
+      "title": "SEO Experiments From the Google Algorithm Leak",
+      "url": "https://edwardsturm.com/articles/seo-experiments-from-the-google-algorithm-leak/",
+      "published": "2024-06-09T13:18:01+00:00",
+      "wordCount": 995,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Click data",
+        "Content stealing",
+        "Okay, should you try this?"
+      ],
+      "actionableSteps": [
+        "Tweeted out instructions to his audience of hundreds of thousands.",
+        "Told them to Google a specific keyword and click on a specific result at the bottom of Page 1 of Google.",
+        "Got several hundred clicks in 3 hours. Experiment 1: 228 clicks. Experiment 2: 375 clicks.",
+        "Experiment 1: 228 clicks.",
+        "Experiment 2: 375 clicks.",
+        "Had both pages go from the bottom of Page 1 of Google to the #1 spot as a result."
+      ],
+      "readTimeMinutes": 4.97
+    },
+    "when-do-i-use-music-in-my-videos": {
+      "title": "When do I use music in my videos?",
+      "url": "https://edwardsturm.com/articles/when-do-i-use-music-in-my-videos/",
+      "published": "2024-06-08T10:28:10+00:00",
+      "wordCount": 408,
+      "primaryTheme": "social_media",
+      "category": "Social Media Organic",
+      "tags": [
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [],
+      "readTimeMinutes": 2.04
+    },
+    "personalize-to-dramatically-increase-close-rate-on-sales-calls": {
+      "title": "Personalize: How He Gets $1,000,000 ARR With Only 450 YouTube Subscribers",
+      "url": "https://edwardsturm.com/articles/personalize-to-dramatically-increase-close-rate-on-sales-calls/",
+      "published": "2024-05-12T12:54:52+00:00",
+      "wordCount": 894,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "paid media"
+      ],
+      "headings": [
+        "The strategy",
+        "The part I left out",
+        "Takeaways",
+        "What it comes down to"
+      ],
+      "actionableSteps": [
+        "Raised prices.",
+        "Shortened sales calls from 45 minutes to 15 minutes.",
+        "Has a waiting list of months; too much demand.",
+        "Expects to soon make way more than $1,000,000/year.",
+        "Prospect sees paid ad. Here's one of them, which I found through the Meta Ad Library .",
+        "The ad goes to a landing page with a video at the top. The prospect is instructed to start with the video, which is 41 seconds and is of Jay explaining the upcoming form and sales call.",
+        "Prospect fills out the form. There are questions to group prospects into archetypes.",
+        "At the end of the form, the prospect sets up a sales call for typically two days into the future."
+      ],
+      "readTimeMinutes": 4.47
+    },
+    "the-head-of-instagram-wont-stop-talking-about-this": {
+      "title": "The Head of Instagram Won't Stop Talking About This",
+      "url": "https://edwardsturm.com/articles/the-head-of-instagram-wont-stop-talking-about-this/",
+      "published": "2024-05-05T13:20:15+00:00",
+      "wordCount": 1198,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [
+        "Instagram is making a huge change to its algorithm. The Head of Instagram, Adam Mosseri, has been making a bunch of Reels and Stories about this. In short, Instagram is redistributing impressions to give creators with low followings a higher chance of having their content seen. More of a meritocracy of content, similar to TikTok.",
+        "The Head of Instagram, Adam Mosseri, has been making a bunch of Reels and Stories about this. In short, Instagram is redistributing impressions to give creators with low followings a higher chance of having their content seen. More of a meritocracy of content, similar to TikTok.",
+        "This means now is an even better time to make Reels and posts for IG. My theory is that the algorithm works in waves both for users and for the retention of creators. Some quarters, new creators get more views to increase their follower counts and get them addicted. Other quarters, creators with bigger followings get more views to increase their activity. What this means for you: if you don't have many followers, you have a higher chance of having your content seen on Instagram than before. The algorithm is more accommodating to those who are just starting and learning. Adam Mosseri has said this algorithm update will \"meaningfully affect reach.\"",
+        "This means now is an even better time to make Reels and posts for IG. My theory is that the algorithm works in waves both for users and for the retention of creators. Some quarters, new creators get more views to increase their follower counts and get them addicted. Other quarters, creators with bigger followings get more views to increase their activity.",
+        "What this means for you: if you don't have many followers, you have a higher chance of having your content seen on Instagram than before. The algorithm is more accommodating to those who are just starting and learning. Adam Mosseri has said this algorithm update will \"meaningfully affect reach.\"",
+        "You can put moving Gmail profile pictures to increase open rates for email marketing, cold outreach, and newsletters. Nobody does this, so it's an easy way to stand out. This will be most prevalent on the Gmail mobile app, where the default view shows the icons. Gmail has a \"53% market share in the United States\" and \"in the US, 97% of Gmail users access their accounts on mobile devices, while only 3% use a desktop.\" Very meaningful. To do this, just replace your Google icon (under 'Manage your Google Account') with a GIF. Here's a video I made showing how I created the one I'm currently using.",
+        "Nobody does this, so it's an easy way to stand out.",
+        "This will be most prevalent on the Gmail mobile app, where the default view shows the icons. Gmail has a \"53% market share in the United States\" and \"in the US, 97% of Gmail users access their accounts on mobile devices, while only 3% use a desktop.\" Very meaningful."
+      ],
+      "readTimeMinutes": 5.99
+    },
+    "how-much-do-instagram-accounts-sell-for": {
+      "title": "How Much Do Instagram Accounts Sell For?",
+      "url": "https://edwardsturm.com/articles/how-much-do-instagram-accounts-sell-for/",
+      "published": "2024-04-26T09:47:33+00:00",
+      "wordCount": 147,
+      "primaryTheme": "social_media",
+      "category": "Social Media Organic",
+      "tags": [
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [],
+      "readTimeMinutes": 0.73
+    },
+    "freshness": {
+      "title": "Freshness",
+      "url": "https://edwardsturm.com/articles/freshness/",
+      "published": "2024-04-21T13:46:49+00:00",
+      "wordCount": 363,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [],
+      "actionableSteps": [
+        "BetaList launch price.",
+        "BetaList advertising price.",
+        "How much does it cost to launch on BetaList.",
+        "So many others."
+      ],
+      "readTimeMinutes": 1.81
+    },
+    "seo-down-the-funnel": {
+      "title": "SEO - Down the Funnel",
+      "url": "https://edwardsturm.com/articles/seo-down-the-funnel/",
+      "published": "2024-04-14T10:13:00+00:00",
+      "wordCount": 581,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "My response:",
+        "Put a different way:",
+        "So why compact?",
+        "Waking up"
+      ],
+      "actionableSteps": [
+        "Very low competition",
+        "Low average words per page required to rank high, ~415",
+        "Low effort required; you can templatize and reuse sections across pages",
+        "Less domain authority and quality backlinks required to rank high",
+        "Lower search volumes",
+        "High converting",
+        "Less competitive",
+        "Requires less work"
+      ],
+      "readTimeMinutes": 2.9
+    },
+    "viral-stunts-lower-cac-increase-awareness-get-backlinks": {
+      "title": "Viral Stunts: Lower CaC, Increase Awareness, and Get Backlinks",
+      "url": "https://edwardsturm.com/articles/viral-stunts-lower-cac-increase-awareness-get-backlinks/",
+      "published": "2024-04-07T11:35:00+00:00",
+      "wordCount": 425,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "KFC Flavored Prime",
+        "Viral Stunts Are...",
+        "Cut Dat",
+        "Score by Neon Money Club"
+      ],
+      "actionableSteps": [
+        "Are fun/creative",
+        "Bring a ton of awareness",
+        "Get many SEO backlinks",
+        "Customer acquisition cost is high",
+        "It's competitive",
+        "To do SEO they need above-average domain authority",
+        "Increases top-of-mind awareness",
+        "Increases SEO domain authority through backlinks"
+      ],
+      "readTimeMinutes": 2.12
+    },
+    "no-extra-work-tiktok-to-snapchat-spotlight-automation": {
+      "title": "No Extra Work",
+      "url": "https://edwardsturm.com/articles/no-extra-work-tiktok-to-snapchat-spotlight-automation/",
+      "published": "2024-03-31T12:59:12+00:00",
+      "wordCount": 257,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [],
+      "readTimeMinutes": 1.28
+    },
+    "brevity-reposting-strategies-and-how-to-price": {
+      "title": "2 Insights, 1 Hack",
+      "url": "https://edwardsturm.com/articles/brevity-reposting-strategies-and-how-to-price/",
+      "published": "2024-03-24T12:20:33+00:00",
+      "wordCount": 1114,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [
+        "On brevity. In newsletters. One word email subject lines have the highest open rates. Far more than 2 words and far far far more than 3+ words. In general, shorter subject lines and concise content can increase open rates by ~20-30% On YouTube. I received an email this morning from a guy sharing an \"Accidental YouTube SEO win.\" He posted a how-to for a common scooter trick and wrote, \"It didn't occur to me at the time, but people want to learn things quickly, so my 30-second YouTube Short was always picked over a 5-10 minute video on the topic.\" 85% of this guy's views on the Short came from search. The video got over 100,000 views and gave the channel 400 additional subscribers",
+        "In newsletters. One word email subject lines have the highest open rates. Far more than 2 words and far far far more than 3+ words. In general, shorter subject lines and concise content can increase open rates by ~20-30%",
+        "One word email subject lines have the highest open rates. Far more than 2 words and far far far more than 3+ words.",
+        "In general, shorter subject lines and concise content can increase open rates by ~20-30%",
+        "On YouTube. I received an email this morning from a guy sharing an \"Accidental YouTube SEO win.\" He posted a how-to for a common scooter trick and wrote, \"It didn't occur to me at the time, but people want to learn things quickly, so my 30-second YouTube Short was always picked over a 5-10 minute video on the topic.\" 85% of this guy's views on the Short came from search. The video got over 100,000 views and gave the channel 400 additional subscribers",
+        "I received an email this morning from a guy sharing an \"Accidental YouTube SEO win.\" He posted a how-to for a common scooter trick and wrote, \"It didn't occur to me at the time, but people want to learn things quickly, so my 30-second YouTube Short was always picked over a 5-10 minute video on the topic.\"",
+        "85% of this guy's views on the Short came from search. The video got over 100,000 views and gave the channel 400 additional subscribers",
+        "On content repurposing. TwitterX doesn't suppress an account's reach for posting boring content. Most other social platforms do. This makes it an ideal testing ground for hooks and video scripts. Neil Patel writes 3 scripts a day on TwitterX and turns the best one into a video for TikTok, Instagram Reels, etc. He also posts the best one on LinkedIn. If you don't have enough followers to test hooks and concepts, TwitterX ads still give incredible reach for little cost. Several of Neil's best scripts each month are turned into blog posts. 1-2 of the best ones each month are turned into webinars. Something I've noticed - whenever I read viral marketing/business Tweets on TikTok and Instagram Reels, the video always goes viral. Example . What I'm trying: I turned off my TikTok to TwitterX automation. Instead, I'm posting the transcript of the TikTok to TwitterX every day. My editor, Descript, automatically transcribes my videos, so I always have the transcripts ready to go without additional work . It's a simple copy and paste. My theory is that TwitterX prefers short text posts over short video posts and my video transcripts will do well as text posts. I'm also considering taking any TikTok that got over 50,000 views and using that transcript as a post on LinkedIn."
+      ],
+      "readTimeMinutes": 5.57
+    },
+    "pimentae-tequila-launch-story": {
+      "title": "Pulling off a Crazy Launch With No Money - The Pimentae Tequila Story",
+      "url": "https://edwardsturm.com/articles/pimentae-tequila-launch-story/",
+      "published": "2024-03-17T14:21:47+00:00",
+      "wordCount": 929,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "social media organic"
+      ],
+      "headings": [
+        "Pimentae Tequila"
+      ],
+      "actionableSteps": [
+        "We have our protagonists: Alice Parmiter and Wynter Karo. They met in university and became friends.",
+        "2.5 years before founding Pimentae, they vacationed in Mexico. Had a blast and noticed one critical thing:",
+        "There was a big knowledge gap in how to consume tequila due to the UK and US's shot culture. The UK drinks 84,000 margaritas a month, but the ones in the supermarkets are full of sugar or don't taste proper.",
+        "2.5 years later. It's COVID. The world is in lockdown. Alice and Wynter are neighbors in an apartment building. They both have corporate jobs.",
+        "They're spending their lockdown evenings on their balconies, talking, and having margaritas. They say, \"These margaritas are terrible compared to the ones in Mexico. Let's fix this.\"",
+        "They don't wait to start. They begin building the same evening that they excitedly have the idea.",
+        "As their corporate side hustle, they build Pimentae Tequila. It uses premium tequila, agave instead of sugar, and higher quality ingredients than what's normal. They found a factory in Scotland to use. They have an artist hand paint the branding. They design their bottles. They make the website with Shopify. They get ready to launch. And........... they run out of money.",
+        "It uses premium tequila, agave instead of sugar, and higher quality ingredients than what's normal."
+      ],
+      "readTimeMinutes": 4.64
+    },
+    "raise-prices-stories-of-effectively-charging-more": {
+      "title": "Raise Prices: Stories of Effectively Charging More",
+      "url": "https://edwardsturm.com/articles/raise-prices-stories-of-effectively-charging-more/",
+      "published": "2024-03-10T11:15:56+00:00",
+      "wordCount": 806,
+      "primaryTheme": "content",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc"
+      ],
+      "headings": [],
+      "actionableSteps": [],
+      "readTimeMinutes": 4.03
+    },
+    "tony-delivers-original-marketing": {
+      "title": "The Inside Story of How Tony Delivers Manufactured Virality With No Marketing Budget",
+      "url": "https://edwardsturm.com/articles/tony-delivers-original-marketing/",
+      "published": "2024-03-03T12:11:00+00:00",
+      "wordCount": 1326,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "Tony Delivers' crazy guerrilla marketing story.",
+        "How the news cycle works.",
+        "What no-budget viral marketing does for SEO.",
+        "So what's the lesson here?"
+      ],
+      "actionableSteps": [
+        "Tony Delivers' crazy guerrilla marketing story.",
+        "How the news cycle works.",
+        "What no-budget viral marketing does for SEO.",
+        "For years, Tony did Uber Eats deliveries as a side gig in cities like LA and SF. When he had the idea for Tony Delivers, one month ago, he was in Seattle.",
+        "He made six iterations of the flyer below. The one you're seeing is #5. Shaan Puri gave a great breakdown of this flyer in his newsletter, Small Boy : There's more marketing skill in this fugly flyer than you'll find on all of LinkedIn. Starts with the emotional problem: (\" Angry with absurd Uber Eats' fees?\" ). Clear, no-brainer solution: (\"I'll deliver for $5\"). Catchy Name: (\"Tony Delivers\"). Clear value comparison: (DoorDash / Uber Eats' prices vs. Tony Delivers). Clear CTA: Scan this code with your phone.",
+        "There's more marketing skill in this fugly flyer than you'll find on all of LinkedIn.",
+        "Starts with the emotional problem: (\" Angry with absurd Uber Eats' fees?\" ).",
+        "Clear, no-brainer solution: (\"I'll deliver for $5\")."
+      ],
+      "readTimeMinutes": 6.63
+    },
+    "lunchclub-virtual-networking-review": {
+      "title": "Lunchclub | I Used This to Meet with Top Business People While Living Around the World",
+      "url": "https://edwardsturm.com/articles/lunchclub-virtual-networking-review/",
+      "published": "2024-02-18T16:33:40+00:00",
+      "wordCount": 694,
+      "primaryTheme": "content",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc"
+      ],
+      "headings": [
+        "Lunchclub",
+        "Is Lunchclub still active?"
+      ],
+      "actionableSteps": [
+        "You make a profile, give your socials, and write a short bio.",
+        "You say the times you're available.",
+        "Lunchclub's algorithms connect you with likeminded people.",
+        "You're automatically scheduled for a one-hour video chat with somebody you'd like.",
+        "Head of Global Marketing at Ralph Lauren.",
+        "Global Brand Solutions Lead at Google.",
+        "Contributors to Forbes, Cointelegraph, and more.",
+        "Entrepreneurs with exits."
+      ],
+      "readTimeMinutes": 3.47
+    },
+    "low-priced-tiktok-outsourcing-and-easy-backlinks-for-new-sites": {
+      "title": "Low-Priced TikTok Outsourcing and Easy Backlinks for New Sites",
+      "url": "https://edwardsturm.com/articles/low-priced-tiktok-outsourcing-and-easy-backlinks-for-new-sites/",
+      "published": "2024-02-11T17:06:56+00:00",
+      "wordCount": 835,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "I'm outsourcing my video strategy for $248/month, and you can do it too",
+        "I have two cheap, easy ways to get backlinks to new websites",
+        "Bonus: The full story of how I hacked Meetup.com and used this to meet with the CTO of Uber and get wild leverage to talk with whoever I wanted"
+      ],
+      "actionableSteps": [
+        "I recently met with two 22-year-old security guards in Poland. They work full-time and are paid $7,500/year.",
+        "Importantly, they're TikTok-fluent.",
+        "Their average work week is 40 hours. $7,500/year is $144/week. ~$3.6/hour.",
+        "I'm paying them $62/week to put up one video a day promoting one of my companies. It's under 75 minutes of work a day. 7-10 hours/week. ~$6.88/hour.",
+        "The content is simple and templatized. We're copying the affiliate strategy of competitors, which gets tens of millions of views a month.",
+        "The content comes out primarily on TikTok and is automatically syndicated to all other social media platforms through this software .",
+        "TikTok and other platforms push the content out for us, so we don't need to run promotion on it.",
+        "Remember, it does not have to take much time to go viral . Here's how I made a video in 15 minutes that got the tool it was for (the repurposing tool above), millions of views, and tens of thousands of dollars in MRR . Here's how I made three videos in 75 minutes about an AI experiment of ours. One of the three videos got 67,000 views, which turned into 3,100 users in a single day ."
+      ],
+      "readTimeMinutes": 4.17
+    },
+    "persistence-in-marketing": {
+      "title": "Stories of persistence in marketing",
+      "url": "https://edwardsturm.com/articles/persistence-in-marketing/",
+      "published": "2024-02-04T13:57:04+00:00",
+      "wordCount": 697,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "The best backlink I got",
+        "Making the most viewed video in the world on the Silicon Valley Bank Collapse"
+      ],
+      "actionableSteps": [],
+      "readTimeMinutes": 3.48
+    },
+    "mozbar-domain-authority-and-page-authority-to-tell-legitimacy-of-websites-and-find-big-wins": {
+      "title": "De-scamming scammers and finding big wins | The MozBar",
+      "url": "https://edwardsturm.com/articles/mozbar-domain-authority-and-page-authority-to-tell-legitimacy-of-websites-and-find-big-wins/",
+      "published": "2024-01-28T13:38:22+00:00",
+      "wordCount": 789,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Domain and page authority",
+        "What I use this for",
+        "Understanding the Internet at a glance",
+        "So to recap"
+      ],
+      "actionableSteps": [
+        "The strength of my websites.",
+        "The strength of competitors.",
+        "The effort I should exert to appear on a website to get a link. I'll put more effort into a website or page that has a high authority as this is more valuable.",
+        "The legitimacy of sites I'm on. Scammy websites typically will have very low domain authority: <10 . Likewise, people may claim they have highly trafficked websites. If authority is low, this could suggest they are exaggerating or lying .",
+        "Better targeting of a search term.",
+        "Higher page/domain authority.",
+        "The page title;",
+        "The URL;"
+      ],
+      "readTimeMinutes": 3.94
+    },
+    "how-to-do-seo-for-a-newsletter": {
+      "title": "How to do SEO for a newsletter",
+      "url": "https://edwardsturm.com/articles/how-to-do-seo-for-a-newsletter/",
+      "published": "2024-01-21T13:04:45+00:00",
+      "wordCount": 833,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "Initial SEO data",
+        "On-page SEO",
+        "Building links"
+      ],
+      "actionableSteps": [
+        "Page title.",
+        "Meta description.",
+        "Somewhere on the page."
+      ],
+      "readTimeMinutes": 4.17
+    },
+    "seven-viral-hooks": {
+      "title": "Seven viral hooks",
+      "url": "https://edwardsturm.com/articles/seven-viral-hooks/",
+      "published": "2024-01-13T13:29:38+00:00",
+      "wordCount": 237,
+      "primaryTheme": "seo",
+      "category": "Social Media Organic",
+      "tags": [
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [
+        "If you think someone might think X, but you want to know for sure, this video's for you.",
+        "I am constantly amazed by....",
+        "Does anyone else have that one X?",
+        "X group has been lied to.",
+        "Hack your X in 2024.",
+        "Here's my favorite lesson of 2024",
+        "People don't actually understand that if X then Y ."
+      ],
+      "readTimeMinutes": 1.19
+    },
+    "easy-ways-to-get-great-subject-matter": {
+      "title": "Easy ways to get great subject matter",
+      "url": "https://edwardsturm.com/articles/easy-ways-to-get-great-subject-matter/",
+      "published": "2024-01-07T16:05:45+00:00",
+      "wordCount": 772,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "What I did",
+        "Conversational AI isn't my only source for great content",
+        "A trick for identifying high-performing subject matter",
+        "Content telephone",
+        "What you can do"
+      ],
+      "actionableSteps": [
+        "One tweet with 3.5 million views for only 34,100 followers. - One tweet with 20.1 million views for 201,500 followers."
+      ],
+      "readTimeMinutes": 3.86
+    },
+    "best-games-youtube-2024": {
+      "title": "The 24 Best Games for YouTube in 2024",
+      "url": "https://edwardsturm.com/articles/best-games-youtube-2024/",
+      "published": "2024-01-01T09:15:00+00:00",
+      "wordCount": 3284,
+      "primaryTheme": "seo",
+      "category": "Misc",
+      "tags": [
+        "misc"
+      ],
+      "headings": [
+        "A Note About Having Fun",
+        "Animal Well",
+        "Baby Steps",
+        "Baldur's Gate 3",
+        "League of Legends"
+      ],
+      "actionableSteps": [
+        "TikTok",
+        "Instagram",
+        "Facebook",
+        "Twitter",
+        "Pinterest"
+      ],
+      "readTimeMinutes": 16.42
+    },
+    "low-hanging-fruit-seo": {
+      "title": "Low-Hanging Fruit SEO | People With Websites Don't Know This",
+      "url": "https://edwardsturm.com/articles/low-hanging-fruit-seo/",
+      "published": "2023-12-31T18:05:40+00:00",
+      "wordCount": 622,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "What I'm doing this week",
+        "Making changes"
+      ],
+      "actionableSteps": [
+        "Click \"Search results\" under \"Performance\" on the left sidebar.",
+        "Click \"Export\" in the top right.",
+        "Open my file up in my spreadsheet tool of choice.",
+        "Filter the top row so I can sort through it.",
+        "Top queries (keywords) do not contain \"game\" and \"gaming.\"",
+        "Position (ranking on Google) is less than 26."
+      ],
+      "readTimeMinutes": 3.11
+    },
+    "this-website-didnt-exist-one-year-ago-remarkable-seo-story": {
+      "title": "This website didn't exist one year ago | A remarkable SEO Story",
+      "url": "https://edwardsturm.com/articles/this-website-didnt-exist-one-year-ago-remarkable-seo-story/",
+      "published": "2023-12-24T14:42:12+00:00",
+      "wordCount": 859,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo"
+      ],
+      "headings": [
+        "This website did not exist",
+        "This is how Eightify got these results",
+        "Press",
+        "The Ouroboros",
+        "Now that this is possible..."
+      ],
+      "actionableSteps": [
+        "Eightify is a Chrome Extension that uses GPT to summarize videos.",
+        "When a user creates an AI-generated summary, a page gets created on the Eightify website with that summary.",
+        "GPT writes the Page Title, Meta Description, subtitle, and text.",
+        "GPT classifies and categorizes the summary and uses this to: Organize it on the site so every page is linked to from the footer. Recommend related summaries.",
+        "Organize it on the site so every page is linked to from the footer.",
+        "Recommend related summaries.",
+        "The website looks clean and nice. This helps retain visitors and gets them clicking through to related summaries.",
+        "Most importantly, the AI-generated text passes GPT writing detectors. Here's a screenshot from Zerogpt.com:"
+      ],
+      "readTimeMinutes": 4.29
+    },
+    "marketing-hacks-that-seem-too-good-right-now": {
+      "title": "Marketing hacks that seem too good right now",
+      "url": "https://edwardsturm.com/articles/marketing-hacks-that-seem-too-good-right-now/",
+      "published": "2023-12-17T14:18:03+00:00",
+      "wordCount": 861,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "paid media",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "1. Instagram resharing",
+        "2. Video syndication with Repurpose",
+        "3. Featured.com",
+        "4. Grok",
+        "Bonus: Instagram Threads"
+      ],
+      "actionableSteps": [
+        "Duplicate your Reel on your phone - so you have a freshly created version in your photos app.",
+        "Upload this to Instagram.",
+        "Save it as a draft.",
+        "Go into the draft through the Reels tab. You should be able to toggle off \"Also share to Feed.\"",
+        "If you don't have this, try uninstalling and reinstalling Instagram ( I had to do this ).",
+        "Brand new.",
+        "Highly trafficked."
+      ],
+      "readTimeMinutes": 4.3
+    },
+    "game-changers-from-this-week": {
+      "title": "Game changers from this week",
+      "url": "https://edwardsturm.com/articles/game-changers-from-this-week/",
+      "published": "2023-12-10T13:42:58+00:00",
+      "wordCount": 400,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "paid media",
+        "seo"
+      ],
+      "headings": [
+        "The TwitterX Ads Glitch is back",
+        "Grok is legit",
+        "SEO alpha with Featured.com"
+      ],
+      "actionableSteps": [],
+      "readTimeMinutes": 2.0
+    },
+    "just-a-bit-of-extra-text": {
+      "title": "Just a bit of extra text",
+      "url": "https://edwardsturm.com/articles/just-a-bit-of-extra-text/",
+      "published": "2023-12-03T15:30:00+00:00",
+      "wordCount": 305,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "seo",
+        "social media organic"
+      ],
+      "headings": [
+        "This doesn't just apply to videos",
+        "Exactly what to do"
+      ],
+      "actionableSteps": [
+        "Instagram Reels",
+        "TwitterX",
+        "Facebook Reels",
+        "YouTube Shorts",
+        "Pinterest",
+        "LinkedIn"
+      ],
+      "readTimeMinutes": 1.52
+    },
+    "sam-altman-just-fired-as-ceo-of-openai": {
+      "title": "Sam Altman just fired as CEO of OpenAI",
+      "url": "https://edwardsturm.com/articles/sam-altman-just-fired-as-ceo-of-openai/",
+      "published": "2023-11-17T23:10:00+00:00",
+      "wordCount": 329,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [],
+      "readTimeMinutes": 1.65
+    },
+    "automate-press-outreach-and-have-journalists-reach-out-to-you": {
+      "title": "Automate Press Outreach and Have Journalists Come to You",
+      "url": "https://edwardsturm.com/articles/automate-press-outreach-and-have-journalists-reach-out-to-you/",
+      "published": "2023-11-12T12:25:41+00:00",
+      "wordCount": 618,
+      "primaryTheme": "seo",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "misc",
+        "seo"
+      ],
+      "headings": [
+        "1. HARO",
+        "2. Featured.com",
+        "3. PodMatch",
+        "Recap"
+      ],
+      "actionableSteps": [
+        "Respond to a query or two a day for a month (it's only on weekdays).",
+        "Don't use AI to write (having human-written responses is an easy way to stand out and be valuable (journalists can usually tell what's written by AI))."
+      ],
+      "readTimeMinutes": 3.09
+    },
+    "this-instagram-hack-3xd-my-followers-this-week": {
+      "title": "This Instagram hack 3x'd my followers this week",
+      "url": "https://edwardsturm.com/articles/this-instagram-hack-3xd-my-followers-this-week/",
+      "published": "2023-11-05T20:43:22+00:00",
+      "wordCount": 472,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "The results"
+      ],
+      "actionableSteps": [
+        "Took a high-performing video from TikTok.",
+        "Cleared the metadata by uploading it to Google Drive and then downloading it onto my phone.",
+        "Put it on Instagram with a new description and slightly altered hashtags.",
+        "Used a cover for it.",
+        "Manually set the location for where it was shot.",
+        "Made it so it only showed on Discover and not my main IG feed. This only works with Reels. Toggle off \"Also share to feed.\" The way to get this is to save as a draft, then go back into the draft through the Reels tab on mobile. This has the added benefit of making it so few, if any, of your existing followers will see the Reel (so you can keep recycling content, and nobody will know).",
+        "This has the added benefit of making it so few, if any, of your existing followers will see the Reel (so you can keep recycling content, and nobody will know).",
+        "Posted."
+      ],
+      "readTimeMinutes": 2.36
+    },
+    "how-i-built-my-tiktok-audience": {
+      "title": "How I built my TikTok audience",
+      "url": "https://edwardsturm.com/articles/how-i-built-my-tiktok-audience/",
+      "published": "2023-10-29T17:14:47+00:00",
+      "wordCount": 1183,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [
+        "Iteration one: Hooks",
+        "Iteration two: Capitalize off trending events",
+        "Iteration three: I automated my editing workflow",
+        "Iteration four: Focused more on giving value to viewers",
+        "Stringing together incremental advances"
+      ],
+      "actionableSteps": [],
+      "readTimeMinutes": 5.92
+    },
+    "budget-doesnt-matter": {
+      "title": "Budget Doesn't Matter",
+      "url": "https://edwardsturm.com/articles/budget-doesnt-matter/",
+      "published": "2023-10-22T16:09:55+00:00",
+      "wordCount": 142,
+      "primaryTheme": "social_media",
+      "category": "Growth Marketing Newsletter",
+      "tags": [
+        "growth marketing newsletter",
+        "social media organic"
+      ],
+      "headings": [],
+      "actionableSteps": [],
+      "readTimeMinutes": 0.71
+    }
+  }
+}

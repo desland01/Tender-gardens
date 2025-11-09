@@ -1,52 +1,204 @@
 {
   "intakeVersion": "2025-03",
   "submittedAt": "2025-10-28T22:08:18.347Z",
+  "updatedAt": "2025-10-29T00:00:00.000Z",
   "projectSnapshot": {
     "businessName": "Tender Gardens LLC",
     "primaryContact": "Jaime Goulet",
     "email": "jaimegoulet@yahoo.com",
     "phone": "941-786-4552",
+    "established": "2024",
+    "businessType": "Owner-operated native plant garden maintenance and installation",
     "keyLinks": []
   },
   "brandStory": {
     "tagline": "Creating and maintaining habitat for wildlife",
-    "elevatorPitch": "I work with native plants installing and maintaining wildlife habitat. Conserving native landscapes for the future.",
-    "brandAdjectives": [],
-    "originStory": "I began creating creating wildflower compositions for weddings and events in 2014. From there, my love for native plants blossomed and branched into the broader lense of creating long lasting native habitat.",
-    "differentiators": []
+    "elevatorPitch": "I work with native plants installing and maintaining wildlife habitat. Conserving native landscapes for the future through specialized maintenance and butterfly garden installations.",
+    "brandAdjectives": [
+      "Ecological",
+      "Knowledgeable",
+      "Conservation-minded",
+      "Personal",
+      "Sustainable",
+      "Wildlife-focused"
+    ],
+    "originStory": "I began creating wildflower compositions for weddings and events in 2014 while foraging with Williams Wildflowers. From there, my love for native plants blossomed into long-term habitat stewardship, and I officially formed Tender Gardens LLC on June 14, 2024 to focus exclusively on Florida natives for homeowners who want thriving habitats.",
+    "differentiators": [
+      "Exclusive use of Florida native plants - never non-natives or invasives",
+      "Deep expertise in butterfly and pollinator gardens",
+      "Maintenance-first approach for sustainable, low-input landscapes",
+      "Personal service from owner with 10+ years native plant experience",
+      "Education-focused, teaching clients about their gardens",
+      "Conservation impact with every project"
+    ]
   },
   "audience": {
-    "segments": [],
-    "problemStatements": [],
-    "transformations": [
-      "'ve made a positive environmental impact. Their outdoor garden has become another \"room\" on their property to enjoy."
+    "segments": [
+      {
+        "name": "Eco-Conscious Homeowners",
+        "description": "35-65 years old, college-educated, middle to upper-middle income residents who value environmental stewardship and want their landscapes to support local wildlife",
+        "motivation": "Make a positive environmental impact while creating beautiful, low-maintenance outdoor spaces"
+      },
+      {
+        "name": "Butterfly & Bird Enthusiasts",
+        "description": "Nature lovers who want to attract and support butterflies, native bees, and songbirds in their yards",
+        "motivation": "Create habitat and observe wildlife up close"
+      },
+      {
+        "name": "Frustrated Traditional Landscape Owners",
+        "description": "Homeowners tired of high-maintenance lawns, excessive water bills, and chemical inputs",
+        "motivation": "Reduce maintenance time and costs while having a more sustainable landscape"
+      }
     ],
-    "primaryCtas": []
+    "problemStatements": [
+      "My traditional landscape requires too much water, chemicals, and constant maintenance",
+      "I want to support butterflies and pollinators but don't know which plants to use",
+      "I'm worried about invasive species taking over my native plantings",
+      "I can't tell which plants are native volunteers and which are weeds",
+      "I need someone who actually understands native plant care, not just lawn mowing",
+      "My yard looks boring and doesn't attract any wildlife"
+    ],
+    "transformations": [
+      "My garden now attracts butterflies, bees, and birds that I can watch and enjoy daily",
+      "I've reduced my water bill significantly and no longer use chemicals on my lawn",
+      "I've made a positive environmental impact through my landscape choices",
+      "My outdoor garden has become another 'room' on my property to enjoy",
+      "I feel confident that my landscape is supporting local ecosystems and wildlife",
+      "My neighbors ask me about my beautiful native plants and wildlife visitors"
+    ],
+    "primaryCtas": [
+      "Schedule a Native Garden Consultation",
+      "Get a Maintenance Plan Quote",
+      "Design Your Butterfly Garden",
+      "Book a Seasonal Garden Assessment"
+    ]
   },
   "hero": {
-    "headline": "Planting native plants makes a huge impact in our state.",
-    "subheadline": "Creating and maintaining habitat for wildlife.",
-    "highlights": []
+    "headline": "Native Florida Gardens That Support Wildlife and Require Less Work",
+    "subheadline": "Expert native plant maintenance and butterfly garden installation in Central Florida",
+    "alternateHeadlines": [
+      "Transform Your Landscape Into Thriving Wildlife Habitat",
+      "Create Butterfly Gardens That Bloom Year-Round",
+      "Sustainable Native Plant Gardens for Central Florida Homes"
+    ],
+    "highlights": [
+      "10+ years specializing in Florida native plants",
+      "Monthly maintenance programs for established gardens",
+      "Small-scale butterfly garden installs",
+      "Exclusively native plants - no invasives",
+      "Personal service from an experienced owner-operator"
+    ]
   },
   "services": {
-    "supporting": [],
+    "primary": {
+      "name": "Native Garden Maintenance",
+      "shortDescription": "Regular professional maintenance of native plant gardens including specialized weeding, seasonal cleanup, and habitat management",
+      "benefits": [
+        "Expert care that distinguishes native volunteers from invasive weeds",
+        "Seasonal monitoring of plant health and habitat function",
+        "Mulch renewal and organic soil care",
+        "Monthly or bi-monthly service options"
+      ],
+      "idealFor": "Homeowners with existing native gardens or recent installations"
+    },
+    "supporting": [
+      {
+        "name": "Butterfly & Pollinator Garden Installation",
+       "shortDescription": "Small-footprint butterfly garden installation featuring native host plants and nectar sources",
+        "includes": [
+          "Site assessment and native plant selection",
+          "Host plants for butterfly lifecycles (milkweed, passionflower, pipevine)",
+          "Nectar plants for continuous seasonal bloom",
+          "Soil preparation and organic mulch",
+          "Establishment care guidance"
+        ],
+        "typicalSize": "100-400 square feet"
+      }
+    ],
     "addOns": []
   },
   "proof": {
     "testimonials": [],
-    "proofPoints": [],
-    "portfolioNotes": []
+    "proofPoints": [
+      "10+ years of native plant experience since 2014",
+      "Exclusive focus on Florida native plants",
+      "Specialized knowledge of Central Florida butterfly species and host plants",
+      "Member of Florida Native Plant Society",
+      "Committed to conservation and habitat restoration"
+    ],
+    "portfolioNotes": [
+      "Before/after photos of native garden transformations",
+      "Butterfly visitor documentation",
+      "Seasonal progression of native gardens",
+      "Native plant species diversity in projects"
+    ]
   },
   "experience": {
-    "faqs": [],
-    "clientExperience": []
+    "faqs": [
+      {
+        "question": "Do native plants really require less maintenance?",
+        "answer": "Yes! Once established, native Florida plants are adapted to our climate and require significantly less water, no fertilizers, and minimal pest management. However, they do need regular weeding and monitoring, especially in the first year."
+      },
+      {
+        "question": "How long until my butterfly garden attracts butterflies?",
+        "answer": "You may see butterflies within days of planting if you include nectar sources. For breeding butterflies, host plants need to be established and healthy - typically 3-6 months for consistent butterfly activity."
+      },
+      {
+        "question": "Will my native garden look messy or weedy?",
+        "answer": "Native gardens have a natural, layered look that's different from formal landscapes. With proper maintenance and plant selection, they're beautiful year-round with seasonal interest. I help clients understand and appreciate the natural aesthetic."
+      },
+      {
+        "question": "What areas do you serve?",
+        "answer": "I serve a 10-mile radius of my base location in Central Florida. This allows me to provide consistent, personalized service to each client."
+      },
+      {
+        "question": "Do you work on commercial properties?",
+        "answer": "Currently I focus exclusively on residential properties and small residential-scale projects where I can provide personal attention and build long-term maintenance relationships."
+      }
+    ],
+    "clientExperience": [
+      "Initial garden walk to assess property and discuss goals",
+      "Customized plan based on site conditions and client preferences",
+      "Professional installation with native plant sourcing",
+      "Establishment period guidance and check-ins",
+      "Ongoing maintenance with seasonal recommendations",
+      "Education about plants and wildlife visitors throughout relationship"
+    ]
   },
   "visuals": {
-    "references": [],
-    "avoid": []
+    "references": [
+      "Natural, layered native plant gardens with seasonal interest",
+      "Butterflies on native flowers (monarchs on milkweed, swallowtails on pentas)",
+      "Close-ups of Florida native plants in bloom",
+      "Wildlife visitors: butterflies, native bees, hummingbirds, songbirds",
+      "Before/after landscape transformations",
+      "Authentic photos of Central Florida native habitats"
+    ],
+    "avoid": [
+      "Formal, manicured garden aesthetics",
+      "Non-native tropical plants or exotic species",
+      "Perfect, weed-free mulch beds (too artificial)",
+      "Stock photos from other regions",
+      "Large commercial landscape equipment"
+    ]
   },
   "logistics": {
-    "serviceAreas": [],
-    "contactRequirements": []
+    "serviceAreas": [
+      "10-mile radius of base location",
+      "Central Florida region",
+      "Focus on consistent service area for quality and efficiency"
+    ],
+    "serviceDelivery": {
+      "maintenanceSchedule": "Monthly or bi-monthly visits",
+      "consultationBooking": "By appointment, typically 1-week lead time for garden walks",
+      "installationTiming": "Best in fall planting season (Sept-Nov) or spring (Mar-May)",
+      "capacity": "Limited client base for excellent personal service"
+    },
+    "contactRequirements": [
+      "Phone or email for initial inquiry",
+      "Site visit required before maintenance or installation quotes",
+      "Prefer clients within service radius for efficiency",
+      "Focus on residential properties only"
+    ]
   }
 }
